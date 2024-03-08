@@ -3,10 +3,14 @@ on:
   workflow_dispatch:
   schedule:
   - cron: 30 0 * * *
+
+permissions: write-all
+
 jobs:
   awesome-stars:
     name: update awesome-stars
     runs-on: ubuntu-latest
+   
     steps:
     - uses: actions/checkout@v3
     - name: Set up Python
