@@ -934,6 +934,8 @@
 
 ## others 
 
+- [Zzdragon66/university-reddit-data-dashboard](https://github.com/Zzdragon66/university-reddit-data-dashboard) - 
+- [Zzdragon66/stock-streaming-project](https://github.com/Zzdragon66/stock-streaming-project) - 
 - [Azure-Samples/ms-identity-aspnet-webapp-openidconnect](https://github.com/Azure-Samples/ms-identity-aspnet-webapp-openidconnect) - A sample showcasing how to develop a web application that handles sign on via the unified Azure AD and MSA endpoint, so that users can sign in using both their work/school account or Microsoft account
 - [jeffhollan/functions-test-helper](https://github.com/jeffhollan/functions-test-helper) - Examples and helper class for running Azure Functions unit tests and integration tests
 - [jeffhollan/functions-csharp-servicebus-sessions](https://github.com/jeffhollan/functions-csharp-servicebus-sessions) - Azure Function that triggers on session-enabled service bus queue and appends a list in Redis to validate ordered processing
