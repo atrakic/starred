@@ -421,6 +421,8 @@
 
 ## Python 
 
+- [Zzdragon66/university-reddit-data-dashboard](https://github.com/Zzdragon66/university-reddit-data-dashboard) - 
+- [Zzdragon66/stock-streaming-project](https://github.com/Zzdragon66/stock-streaming-project) - 
 - [allenporter/flux-local](https://github.com/allenporter/flux-local) - flux-local is a set of tools and libraries for managing a local flux gitops repository focused on validation steps to help improve quality of commits, PRs, and general local testing.
 - [simonw/azure-functions-datasette](https://github.com/simonw/azure-functions-datasette) - Example of running Datasette on Azure Functions
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
