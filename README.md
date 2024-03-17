@@ -82,6 +82,8 @@
 
 ## C# # 
 
+- [markjprice/cs12dotnet8](https://github.com/markjprice/cs12dotnet8) - Repository for the Packt Publishing book titled "C# 12 and .NET 8 - Modern Cross-Platform Development Fundamentals" by Mark J. Price
+- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
 - [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for ASP.NET Core
 - [Azure-Samples/ms-identity-aspnet-webapp-openidconnect](https://github.com/Azure-Samples/ms-identity-aspnet-webapp-openidconnect) - A sample showcasing how to develop a web application that handles sign on via the unified Azure AD and MSA endpoint, so that users can sign in using both their work/school account or Microsoft account
 - [DanielLarsenNZ/NumberService](https://github.com/DanielLarsenNZ/NumberService) - Highly available Sequential number generator backed by Cosmos DB
@@ -421,6 +423,7 @@
 
 ## Python 
 
+- [github/issue-metrics](https://github.com/github/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.
 - [Zzdragon66/university-reddit-data-dashboard](https://github.com/Zzdragon66/university-reddit-data-dashboard) - 
 - [Zzdragon66/stock-streaming-project](https://github.com/Zzdragon66/stock-streaming-project) - 
 - [allenporter/flux-local](https://github.com/allenporter/flux-local) - flux-local is a set of tools and libraries for managing a local flux gitops repository focused on validation steps to help improve quality of commits, PRs, and general local testing.
@@ -545,6 +548,7 @@
 
 ## Rust 
 
+- [lovasoa/SQLpage](https://github.com/lovasoa/SQLpage) - SQL-only webapp builder, empowering data analysts to build websites and applications quickly
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [bytewax/bytewax](https://github.com/bytewax/bytewax) - Python Stream Processing
@@ -617,6 +621,9 @@
 
 ## TypeScript 
 
+- [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+- [peter-evans/slash-command-dispatch](https://github.com/peter-evans/slash-command-dispatch) - A GitHub action that facilitates "ChatOps" by creating repository dispatch events for slash commands
+- [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 27 other languages
@@ -649,6 +656,7 @@
 
 ## Vim Script 
 
+- [OmniSharp/omnisharp-vim](https://github.com/OmniSharp/omnisharp-vim) - Vim omnicompletion (intellisense) and more for C#
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 
 ## Visual Basic 6.0 
