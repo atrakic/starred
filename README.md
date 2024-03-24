@@ -11,7 +11,6 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
-- [Clojure](#clojure)
 - [Crystal](#crystal)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
@@ -56,6 +55,7 @@
 - [Azure-Samples/aks-store-demo](https://github.com/Azure-Samples/aks-store-demo) - Sample microservices app for AKS demos, tutorials, and experiments
 - [Azure/aks-baseline-automation](https://github.com/Azure/aks-baseline-automation) - Repository for the AKS Landing Zone Accelerator program's Automation reference implementation
 - [mspnp/microservices-reference-implementation](https://github.com/mspnp/microservices-reference-implementation) - A reference implementation demonstrating microservices architecture and best practices for Microsoft Azure
+- [mspnp/aks-baseline-multi-region](https://github.com/mspnp/aks-baseline-multi-region) - This is the Azure Kubernetes Service (AKS) baseline for multi-region reference implementation as produced by the Microsoft Azure Architecture Center.
 - [mspnp/aks-fabrikam-dronedelivery](https://github.com/mspnp/aks-fabrikam-dronedelivery) - AKS Fabrikam Drone Delivery :heart: AKS baseline
 - [paolosalvatori/aks-managed-prometheus-and-grafana-bicep](https://github.com/paolosalvatori/aks-managed-prometheus-and-grafana-bicep) - This sample shows how to install an AKS cluster with Azure Managed Prometheus and Azure Managed Grafana via Bicep.
 - [Azure/bicep-registry-modules](https://github.com/Azure/bicep-registry-modules) - Bicep registry modules
@@ -82,6 +82,8 @@
 
 ## C# # 
 
+- [awaescher/OllamaSharp](https://github.com/awaescher/OllamaSharp) - Ollama API bindings for .NET
+- [Azure/azure-functions-dotnet-worker](https://github.com/Azure/azure-functions-dotnet-worker) - Azure Functions out-of-process .NET language worker
 - [markjprice/cs12dotnet8](https://github.com/markjprice/cs12dotnet8) - Repository for the Packt Publishing book titled "C# 12 and .NET 8 - Modern Cross-Platform Development Fundamentals" by Mark J. Price
 - [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
 - [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for ASP.NET Core
@@ -119,7 +121,6 @@
 - [dotnet/try-samples](https://github.com/dotnet/try-samples) - 
 - [Azure-Samples/azure-sql-db-sync-api-change-tracking](https://github.com/Azure-Samples/azure-sql-db-sync-api-change-tracking) - Using Azure SQL Change Tracking API to Sync mobile Apps data with the Cloud
 - [madSimonJ/CSharpHacks](https://github.com/madSimonJ/CSharpHacks) - A repository to contain all of the C# Hacks you've ever thought of, anything that makes your coding life easier
-- [Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) - This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versio
 - [baristutakli/HowToSecureAPI.Demo](https://github.com/baristutakli/HowToSecureAPI.Demo) - 
 - [App-vNext/Polly](https://github.com/App-vNext/Polly) - Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thr
 - [Xabaril/AspNetCore.Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks) - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
@@ -151,10 +152,6 @@
 - [paul-hammant/tbd](https://github.com/paul-hammant/tbd) - Source for TrunkBasedDevelopment.com
 - [aws-containers/ecsworkshop](https://github.com/aws-containers/ecsworkshop) - 
 
-## Clojure 
-
-- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
-
 ## Crystal 
 
 - [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - A CLI tool to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
@@ -170,6 +167,8 @@
 
 ## Go 
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
+- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
@@ -383,6 +382,7 @@
 - [dbt-labs/jaffle_shop](https://github.com/dbt-labs/jaffle_shop) - A self-contained dbt project for testing purposes
 - [yorek/azure-sql-db-samples](https://github.com/yorek/azure-sql-db-samples) - Samples and Best pratices to use Azure SQL DB to build modern, mission critical application, with ease and confidence
 - [microsoft/sql-server-samples](https://github.com/microsoft/sql-server-samples) - Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge
+- [Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) - This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versio
 - [dotnet/datalab](https://github.com/dotnet/datalab) - This repo is for experimentation and exploring new ideas involving ADO.NET, EF Core, and other areas related to .NET data.
 - [aws-samples/eks-ec2-clusterapi-gitops](https://github.com/aws-samples/eks-ec2-clusterapi-gitops) - 
 - [pycabook/rentomatic](https://github.com/pycabook/rentomatic) - A demo implementation of a clean architecture in Python.
@@ -423,6 +423,10 @@
 
 ## Python 
 
+- [grantjenks/python-diskcache](https://github.com/grantjenks/python-diskcache) - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
+- [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI-powered Junior Developer for small features and bug fixes.
+- [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [github/issue-metrics](https://github.com/github/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.
 - [Zzdragon66/university-reddit-data-dashboard](https://github.com/Zzdragon66/university-reddit-data-dashboard) - 
 - [Zzdragon66/stock-streaming-project](https://github.com/Zzdragon66/stock-streaming-project) - 
@@ -456,7 +460,7 @@
 - [AZHenley/teenytinycompiler](https://github.com/AZHenley/teenytinycompiler) - A small BASIC-to-C compiler written in Python.
 - [pronopython/rugivi](https://github.com/pronopython/rugivi) - The adult media landscape browser
 - [vladignatyev/bulktag](https://github.com/vladignatyev/bulktag) - Bulk image tagging using OpenAI GPT-4 Vision
-- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [lektor/lektor](https://github.com/lektor/lektor) - The lektor static file content management system
 - [Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&A experiences.
 - [san089/Udacity-Data-Engineering-Projects](https://github.com/san089/Udacity-Data-Engineering-Projects) - Few projects related to Data Engineering including Data Modeling, Infrastructure setup on cloud, Data Warehousing and Data Lake development.
@@ -489,7 +493,7 @@
 - [testdrivenio/fastapi-docker-traefik](https://github.com/testdrivenio/fastapi-docker-traefik) - FastAPI with Docker and Traefik
 - [dbt-msft/dbt-sqlserver](https://github.com/dbt-msft/dbt-sqlserver) - dbt adapter for SQL Server and Azure SQL
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
-- [tiangolo/uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker image with Uvicorn managed by Gunicorn for high-performance FastAPI web applications in Python with performance auto-tuning. Optionally with Alpine Linux.
+- [tiangolo/uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker image with Uvicorn managed by Gunicorn for high-performance FastAPI web applications in Python with performance auto-tuning.
 - [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
 - [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - A script to effortlessly extract your entire ChatGPT data export from JSON files to nicely-formatted markdown files.
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
@@ -548,6 +552,7 @@
 
 ## Rust 
 
+- [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
 - [lovasoa/SQLpage](https://github.com/lovasoa/SQLpage) - SQL-only webapp builder, empowering data analysts to build websites and applications quickly
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
@@ -564,6 +569,8 @@
 
 ## Shell 
 
+- [learnk8s/bash-ingress](https://github.com/learnk8s/bash-ingress) - 
+- [clowdhaus/terraform-aws-module-template](https://github.com/clowdhaus/terraform-aws-module-template) - Terraform module which creates &lt;TODO&gt; resources on AWS
 - [argo-universe/app-configs](https://github.com/argo-universe/app-configs) - This repo contains the configuration file for the microservices
 - [Azure/reddog-hybrid-arc](https://github.com/Azure/reddog-hybrid-arc) - Red Dog Hybrid/Arc Demo. Brought to you by the Cloud Native GBB Team!
 - [bitnami/containers](https://github.com/bitnami/containers) - Bitnami container images
@@ -571,7 +578,6 @@
 - [dotnet/aspire-samples](https://github.com/dotnet/aspire-samples) - 
 - [civo/kubernetes-marketplace](https://github.com/civo/kubernetes-marketplace) - Marketplace of Kubernetes applications available for quick and easy installation in to Civo Kubernetes clusters
 - [devcontainers/template-starter](https://github.com/devcontainers/template-starter) - A template explaining how to author custom dev container Templates
-- [mspnp/aks-baseline-multi-region](https://github.com/mspnp/aks-baseline-multi-region) - This is the Azure Kubernetes Service (AKS) baseline for multi-region reference implementation as produced by the Microsoft Azure Architecture Center.
 - [charmixer/auto-changelog-action](https://github.com/charmixer/auto-changelog-action) - 
 - [jeromedecoster/aws-kubernetes-github-actions](https://github.com/jeromedecoster/aws-kubernetes-github-actions) - Creation of a website, hosted on a Kubernetes cluster. Use Kubectl, Kustomize and Github actions to deploy it in a GitOps way.
 - [techiescamp/vagrant-kubeadm-kubernetes](https://github.com/techiescamp/vagrant-kubeadm-kubernetes) - Vagrantfile & Scripts to setup Kubernetes Cluster using Kubeadm for CKA, CKAD and CKS practice environment
