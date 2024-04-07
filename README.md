@@ -82,6 +82,8 @@
 
 ## C# # 
 
+- [dotnet/aspire](https://github.com/dotnet/aspire) - An opinionated, cloud ready stack for building observable, production ready, distributed applications in .NET
+- [cornflourblue/dotnet-6-crud-api](https://github.com/cornflourblue/dotnet-6-crud-api) - .NET 6.0 - CRUD API Example
 - [microsoft/typechat.net](https://github.com/microsoft/typechat.net) - 
 - [NetCoreApps/GPTMeetingAgent](https://github.com/NetCoreApps/GPTMeetingAgent) - A pattern for GPT Agent integration with ServiceStack services
 - [awaescher/OllamaSharp](https://github.com/awaescher/OllamaSharp) - Ollama API bindings for .NET
@@ -144,6 +146,7 @@
 
 ## C++ 
 
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 - [open-telemetry/opentelemetry-dotnet-instrumentation](https://github.com/open-telemetry/opentelemetry-dotnet-instrumentation) - OpenTelemetry .NET Automatic Instrumentation
@@ -169,6 +172,7 @@
 
 ## Go 
 
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
@@ -266,7 +270,7 @@
 - [matt-FFFFFF/subvending](https://github.com/matt-FFFFFF/subvending) - 
 - [aws-observability/terraform-aws-observability-accelerator](https://github.com/aws-observability/terraform-aws-observability-accelerator) - Open source project to help accelerate and ease observability setup on AWS environments
 - [stroeer/terraform-aws-ecs-fargate](https://github.com/stroeer/terraform-aws-ecs-fargate) - Terraform module for ECS Fargate Services
-- [awslabs/data-on-eks](https://github.com/awslabs/data-on-eks) - DoEKS is a tool to build, deploy and scale Data Platforms on Amazon EKS
+- [awslabs/data-on-eks](https://github.com/awslabs/data-on-eks) - DoEKS is a tool to build, deploy and scale Data & ML Platforms on Amazon EKS
 - [aws-ia/terraform-aws-eks-blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints) - Configure and deploy complete EKS clusters.
 - [aws-samples/cicd-for-ecs-workshop-code](https://github.com/aws-samples/cicd-for-ecs-workshop-code) - 
 - [stacksimplify/azure-aks-kubernetes-masterclass](https://github.com/stacksimplify/azure-aks-kubernetes-masterclass) - Azure AKS Kubernetes Masterclass
@@ -306,6 +310,8 @@
 
 ## JavaScript 
 
+- [runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore) - Official Runtipi AppStore. Apps and updates live here!
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [NetCoreApps/TypeChatExamples](https://github.com/NetCoreApps/TypeChatExamples) - All TypeScript's TypeChat Examples
 - [Kalabasa/htmz](https://github.com/Kalabasa/htmz) - html with targeted manipulation zones
 - [microsoft/PowerBI-Developer-Samples](https://github.com/microsoft/PowerBI-Developer-Samples) - A collection of Power BI samples for developer use.
@@ -431,6 +437,7 @@
 
 ## Python 
 
+- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [TezRomacH/python-package-template](https://github.com/TezRomacH/python-package-template) - 🚀 Your next Python package needs a bleeding-edge project structure.
 - [grantjenks/python-diskcache](https://github.com/grantjenks/python-diskcache) - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
@@ -523,6 +530,7 @@
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [fluentpython/example-code-2e](https://github.com/fluentpython/example-code-2e) - Example code for Fluent Python, 2nd edition (O'Reilly 2022)
 - [aws-samples/service-catalog-engine-for-terraform-os](https://github.com/aws-samples/service-catalog-engine-for-terraform-os) - 
+- [bytewax/bytewax](https://github.com/bytewax/bytewax) - Python Stream Processing
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [antrikshmisri/Github-Automation](https://github.com/antrikshmisri/Github-Automation) - Github automation with clean frontend
 - [python-eel/Eel](https://github.com/python-eel/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
@@ -567,7 +575,6 @@
 - [lovasoa/SQLpage](https://github.com/lovasoa/SQLpage) - SQL-only webapp builder, empowering data analysts to build websites and applications quickly
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
-- [bytewax/bytewax](https://github.com/bytewax/bytewax) - Python Stream Processing
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 
 ## SCSS 
@@ -637,6 +644,8 @@
 
 ## TypeScript 
 
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
+- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [peter-evans/slash-command-dispatch](https://github.com/peter-evans/slash-command-dispatch) - A GitHub action that facilitates "ChatOps" by creating repository dispatch events for slash commands
