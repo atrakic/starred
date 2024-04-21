@@ -91,6 +91,12 @@
 
 ## C# # 
 
+- [fluentassertions/fluentassertions](https://github.com/fluentassertions/fluentassertions) - A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Cor
+- [xunit/samples.xunit](https://github.com/xunit/samples.xunit) - Samples for xUnit.net (please open issues in https://github.com/xunit/xunit)
+- [barisates/dotnet-core-xunit-example](https://github.com/barisates/dotnet-core-xunit-example) - Unit Test in .NET Core Web Api with xUnit
+- [TheAlgorithms/C-Sharp](https://github.com/TheAlgorithms/C-Sharp) - All algorithms implemented in C#.
+- [enkodellc/blazorboilerplate](https://github.com/enkodellc/blazorboilerplate) - Blazor Boilerplate / Starter Template with MudBlazor
+- [traintocode/serverless-aws-website](https://github.com/traintocode/serverless-aws-website) - 
 - [karlospn/dotnet-strategy-pattern-using-dependency-injection](https://github.com/karlospn/dotnet-strategy-pattern-using-dependency-injection) - This repository contains an example that shows how easy is to build a Strategy pattern using dependency injection with .NET
 - [bytefish/ElasticsearchCodeSearch](https://github.com/bytefish/ElasticsearchCodeSearch) - Index and Search GitHub Repositories using Elasticsearch
 - [karlospn/opentelemetry-metrics-demo](https://github.com/karlospn/opentelemetry-metrics-demo) - Example about how to use OpenTelemetry metrics on a .NET app and how to visualize those metrics using Prometheus and Grafana.
@@ -145,7 +151,7 @@
 - [platformplatform/PlatformPlatform](https://github.com/platformplatform/PlatformPlatform) - 🚀 Pre-alpha state. A platform designed for building enterprise-grade, multi-tenant products using Azure, .NET, React, TypeScript, Infrastructure as Code, etc.
 - [stefanprodan/AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) - ASP.NET Core rate limiting middleware
 - [MoaidHathot/Dumpify](https://github.com/MoaidHathot/Dumpify) - Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's.
-- [Azure/data-api-builder](https://github.com/Azure/data-api-builder) - Data API builder for Azure Databases provides modern REST and GraphQL endpoints to your Azure Databases.
+- [Azure/data-api-builder](https://github.com/Azure/data-api-builder) - Data API builder provides modern REST and GraphQL endpoints to your Azure Databases and on-prem stores.
 - [tjoudeh/container-apps-grpc-dapr](https://github.com/tjoudeh/container-apps-grpc-dapr) - Sample repository shows how to two services deployed to Azure Container Apps communicate synchronously over gRPC without using Dapr and then we will Daperize the two services and utilize the service-t
 - [mspnp/fabrikam-dronedelivery-workload](https://github.com/mspnp/fabrikam-dronedelivery-workload) - This repository contains source files for services that are shared by the microservices and fabrikam-drone delivery reference implementations.
 - [dotnet/AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs) - Documentation for ASP.NET Core
@@ -190,12 +196,13 @@
 
 ## Go 
 
+- [allaboutapps/integresql](https://github.com/allaboutapps/integresql) - IntegreSQL manages isolated PostgreSQL databases for your integration tests.
 - [Guilospanck/medium-observability-stack](https://github.com/Guilospanck/medium-observability-stack) - Sample files and code configs for the Medium article.
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
@@ -412,12 +419,14 @@
 
 ## Others 
 
+- [TheAlgorithms/Algorithms-Explanation](https://github.com/TheAlgorithms/Algorithms-Explanation) - Popular algorithms explained in simple language with examples and links to their implementation in various programming languages and other required resources.
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [microsoft/Security-101](https://github.com/microsoft/Security-101) - 8 Lessons, Kick-start Your Cybersecurity Learning.
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [mattharrison/Tiny-Python-3.8-Notebook](https://github.com/mattharrison/Tiny-Python-3.8-Notebook) - Python 3.8 language and syntax
-- [dbt-labs/jaffle_shop](https://github.com/dbt-labs/jaffle_shop) - A self-contained dbt project for testing purposes
+- [dbt-labs/jaffle-shop-classic](https://github.com/dbt-labs/jaffle-shop-classic) - A self-contained dbt project for testing purposes
 - [yorek/azure-sql-db-samples](https://github.com/yorek/azure-sql-db-samples) - Samples and Best pratices to use Azure SQL DB to build modern, mission critical application, with ease and confidence
 - [microsoft/sql-server-samples](https://github.com/microsoft/sql-server-samples) - Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge
 - [Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) - This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versio
@@ -461,6 +470,7 @@
 
 ## Python 
 
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 - [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.
@@ -525,7 +535,7 @@
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
-- [awslabs/aws-cloudformation-templates](https://github.com/awslabs/aws-cloudformation-templates) - A collection of useful CloudFormation templates
+- [aws-cloudformation/aws-cloudformation-templates](https://github.com/aws-cloudformation/aws-cloudformation-templates) - A collection of useful CloudFormation templates
 - [sp1thas/book-depository-dataset](https://github.com/sp1thas/book-depository-dataset) - A large collection of books, scraped from bookdepository.com
 - [mljar/mercury](https://github.com/mljar/mercury) - Convert Jupyter Notebooks to Web Apps
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - The most flexible way to serve AI/ML models in production - Build Model Inference Service, LLM APIs, Inference Graph/Pipelines, Compound AI systems, Multi-Modal, RAG as a Service, and more!
@@ -597,6 +607,7 @@
 
 ## Rust 
 
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
 - [lovasoa/SQLpage](https://github.com/lovasoa/SQLpage) - SQL-only webapp builder, empowering data analysts to build websites and applications quickly
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
