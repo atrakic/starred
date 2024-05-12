@@ -91,6 +91,10 @@
 
 ## C# # 
 
+- [json-api-dotnet/JsonApiDotNetCore](https://github.com/json-api-dotnet/JsonApiDotNetCore) - A framework for building JSON:API compliant REST APIs using ASP.NET and Entity Framework Core.
+- [ServiceStack/ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
+- [brminnick/GitTrends](https://github.com/brminnick/GitTrends) - A iOS and Android app to monitor the Views, Clones and Star history of your GitHub repos
+- [brminnick/AsyncAwaitBestPractices](https://github.com/brminnick/AsyncAwaitBestPractices) - Extensions for System.Threading.Tasks.Task and System.Threading.Tasks.ValueTask
 - [AzureCosmosDB/CosmicWorks](https://github.com/AzureCosmosDB/CosmicWorks) - How to model and partition data for Cosmos DB starting with the Adventure Works database.
 - [dotnet/AspNetCore.Docs.Samples](https://github.com/dotnet/AspNetCore.Docs.Samples) - 
 - [RefactoringGuru/design-patterns-csharp](https://github.com/RefactoringGuru/design-patterns-csharp) - Design Pattern Examples in C#
@@ -199,6 +203,9 @@
 
 ## Go 
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
+- [vouch/vouch-proxy](https://github.com/vouch/vouch-proxy) - an SSO and OAuth / OIDC login solution for Nginx using the auth_request module
 - [picosh/pico](https://github.com/picosh/pico) - hacker labs - open source and managed web services leveraging SSH
 - [allaboutapps/integresql](https://github.com/allaboutapps/integresql) - IntegreSQL manages isolated PostgreSQL databases for your integration tests.
 - [Guilospanck/medium-observability-stack](https://github.com/Guilospanck/medium-observability-stack) - Sample files and code configs for the Medium article.
@@ -316,6 +323,7 @@
 
 ## HTML 
 
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
@@ -345,6 +353,9 @@
 
 ## JavaScript 
 
+- [NetCoreTemplates/razor-ssg](https://github.com/NetCoreTemplates/razor-ssg) - .NET 8 Statically Generated, CDN hostable Razor Pages Website
+- [ServiceStack/docs.servicestack.net](https://github.com/ServiceStack/docs.servicestack.net) - ServiceStack Docs built with Razor SSG
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [grafana/intro-to-mltp](https://github.com/grafana/intro-to-mltp) - Introduction to Metrics, Logs, Traces and Profiles session companion code.
 - [runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore) - Official Runtipi AppStore. Apps and updates live here!
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -476,6 +487,7 @@
 
 ## Python 
 
+- [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
 - [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
@@ -629,6 +641,9 @@
 
 ## Shell 
 
+- [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
+- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+- [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
 - [learnk8s/bash-ingress](https://github.com/learnk8s/bash-ingress) - 
 - [clowdhaus/terraform-aws-module-template](https://github.com/clowdhaus/terraform-aws-module-template) - Terraform module which creates &lt;TODO&gt; resources on AWS
 - [argo-universe/app-configs](https://github.com/argo-universe/app-configs) - This repo contains the configuration file for the microservices
@@ -722,6 +737,7 @@
 
 ## Vim Script 
 
+- [laktak/tome](https://github.com/laktak/tome) - 🔁 Script playbooks for frequent commands in any terminal application
 - [OmniSharp/omnisharp-vim](https://github.com/OmniSharp/omnisharp-vim) - Vim omnicompletion (intellisense) and more for C#
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 
