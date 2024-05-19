@@ -91,6 +91,8 @@
 
 ## C# # 
 
+- [WildGums/Blorc.OpenIdConnect](https://github.com/WildGums/Blorc.OpenIdConnect) - 
+- [testcontainers/testcontainers-dotnet](https://github.com/testcontainers/testcontainers-dotnet) - A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.
 - [json-api-dotnet/JsonApiDotNetCore](https://github.com/json-api-dotnet/JsonApiDotNetCore) - A framework for building JSON:API compliant REST APIs using ASP.NET and Entity Framework Core.
 - [ServiceStack/ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
 - [brminnick/GitTrends](https://github.com/brminnick/GitTrends) - A iOS and Android app to monitor the Views, Clones and Star history of your GitHub repos
@@ -123,7 +125,6 @@
 - [jeffhollan/functions-csharp-servicebus-sessions](https://github.com/jeffhollan/functions-csharp-servicebus-sessions) - Azure Function that triggers on session-enabled service bus queue and appends a list in Redis to validate ordered processing
 - [Azure-Samples/azure-devops-release-notes](https://github.com/Azure-Samples/azure-devops-release-notes) - A serverless release note generator for Azure DevOps
 - [microsoftgraph/aspnetcore-webhooks-sample](https://github.com/microsoftgraph/aspnetcore-webhooks-sample) - This sample shows how to subscribe for Microsoft Graph webhooks using application (app-only) permissions and the Azure AD endpoint.
-- [Azure-Samples/active-directory-dotnet-iwa-v2](https://github.com/Azure-Samples/active-directory-dotnet-iwa-v2) - .NET console application letting a user acquire a token for the Microsoft Graph using Integrated Windows Authentication (on domain joined or AAD joined machines)
 - [rqlite/rqlite-dotnet](https://github.com/rqlite/rqlite-dotnet) - .NET client
 - [MicrosoftDocs/mslearn-dotnet-cloudnative](https://github.com/MicrosoftDocs/mslearn-dotnet-cloudnative) - Sample apps for the Microsoft Learn modules for creating cloud native apps with ASP.NET Core
 - [Azure-Samples/Serverless-microservices-reference-architecture](https://github.com/Azure-Samples/Serverless-microservices-reference-architecture) - This reference architecture walks you through the decision-making process involved in designing, developing, and delivering a serverless application using a microservices architecture through hands-on
@@ -323,6 +324,7 @@
 
 ## HTML 
 
+- [allamand/ecs-cats-and-dogs](https://github.com/allamand/ecs-cats-and-dogs) - 
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
@@ -441,6 +443,7 @@
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [microsoft/Security-101](https://github.com/microsoft/Security-101) - 8 Lessons, Kick-start Your Cybersecurity Learning.
+- [Azure-Samples/active-directory-dotnet-iwa-v2](https://github.com/Azure-Samples/active-directory-dotnet-iwa-v2) - .NET console application letting a user acquire a token for the Microsoft Graph using Integrated Windows Authentication (on domain joined or AAD joined machines)
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [mattharrison/Tiny-Python-3.8-Notebook](https://github.com/mattharrison/Tiny-Python-3.8-Notebook) - Python 3.8 language and syntax
 - [dbt-labs/jaffle-shop-classic](https://github.com/dbt-labs/jaffle-shop-classic) - A self-contained dbt project for testing purposes
@@ -473,6 +476,7 @@
 
 ## PowerShell 
 
+- [Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2](https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2) - An ASP.NET Core Web App which lets sign-in users (including in your org, many orgs, orgs + personal accounts, sovereign clouds) and call Web APIs (including Microsoft Graph)
 - [Azure-Samples/active-directory-dotnetcore-daemon-v2](https://github.com/Azure-Samples/active-directory-dotnetcore-daemon-v2) - A .NET Core daemon console application calling Microsoft Graph or your own WebAPI with its own identity
 - [DanielLarsenNZ/examples](https://github.com/DanielLarsenNZ/examples) - Quick examples for Azure, PowerShell, az CLI, C# and more.
 - [Azure/azure-devtestlab](https://github.com/Azure/azure-devtestlab) - Azure DevTestLab artifacts, scripts and samples
