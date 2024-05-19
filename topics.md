@@ -46,6 +46,7 @@
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
+- [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
 - [education](#education)
 - [electron](#electron)
@@ -218,6 +219,7 @@
 
 ## automation 
 
+- [testcontainers/testcontainers-dotnet](https://github.com/testcontainers/testcontainers-dotnet) - A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.
 - [laktak/tome](https://github.com/laktak/tome) - 🔁 Script playbooks for frequent commands in any terminal application
 - [peter-evans/slash-command-dispatch](https://github.com/peter-evans/slash-command-dispatch) - A GitHub action that facilitates "ChatOps" by creating repository dispatch events for slash commands
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace
@@ -390,6 +392,7 @@
 
 - [RefactoringGuru/design-patterns-csharp](https://github.com/RefactoringGuru/design-patterns-csharp) - Design Pattern Examples in C#
 - [OmniSharp/omnisharp-vim](https://github.com/OmniSharp/omnisharp-vim) - Vim omnicompletion (intellisense) and more for C#
+- [markjprice/cs12dotnet8](https://github.com/markjprice/cs12dotnet8) - Repository for the Packt Publishing book titled "C# 12 and .NET 8 - Modern Cross-Platform Development Fundamentals" by Mark J. Price
 - [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [MichalStrehovsky/zerosharp](https://github.com/MichalStrehovsky/zerosharp) - Demo of the potential of C# for systems programming with the .NET native ahead-of-time compilation technology.
@@ -514,6 +517,7 @@
 
 ## docker 
 
+- [testcontainers/testcontainers-dotnet](https://github.com/testcontainers/testcontainers-dotnet) - A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
 - [runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore) - Official Runtipi AppStore. Apps and updates live here!
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -551,13 +555,19 @@
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
 - [dotnet/EntityFramework.Docs](https://github.com/dotnet/EntityFramework.Docs) - Documentation for Entity Framework Core and Entity Framework 6
 
+## dotfiles 
+
+- [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
+
 ## dotnet 
 
+- [testcontainers/testcontainers-dotnet](https://github.com/testcontainers/testcontainers-dotnet) - A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.
 - [json-api-dotnet/JsonApiDotNetCore](https://github.com/json-api-dotnet/JsonApiDotNetCore) - A framework for building JSON:API compliant REST APIs using ASP.NET and Entity Framework Core.
 - [karlospn/dotnet-strategy-pattern-using-dependency-injection](https://github.com/karlospn/dotnet-strategy-pattern-using-dependency-injection) - This repository contains an example that shows how easy is to build a Strategy pattern using dependency injection with .NET
 - [bytefish/ElasticsearchCodeSearch](https://github.com/bytefish/ElasticsearchCodeSearch) - Index and Search GitHub Repositories using Elasticsearch
 - [karlospn/opentelemetry-metrics-demo](https://github.com/karlospn/opentelemetry-metrics-demo) - Example about how to use OpenTelemetry metrics on a .NET app and how to visualize those metrics using Prometheus and Grafana.
 - [dotnet/aspire](https://github.com/dotnet/aspire) - An opinionated, cloud ready stack for building observable, production ready, distributed applications in .NET
+- [markjprice/cs12dotnet8](https://github.com/markjprice/cs12dotnet8) - Repository for the Packt Publishing book titled "C# 12 and .NET 8 - Modern Cross-Platform Development Fundamentals" by Mark J. Price
 - [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
 - [OpenCodeFoundation/eSchool](https://github.com/OpenCodeFoundation/eSchool) - eSchool Microservice based Solution
 - [dotnet/templating](https://github.com/dotnet/templating) - This repo contains the Template Engine which is used by dotnet new
@@ -1104,6 +1114,9 @@
 
 ## others 
 
+- [WildGums/Blorc.OpenIdConnect](https://github.com/WildGums/Blorc.OpenIdConnect) - 
+- [allamand/ecs-cats-and-dogs](https://github.com/allamand/ecs-cats-and-dogs) - 
+- [Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2](https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2) - An ASP.NET Core Web App which lets sign-in users (including in your org, many orgs, orgs + personal accounts, sovereign clouds) and call Web APIs (including Microsoft Graph)
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [NetCoreTemplates/razor-ssg](https://github.com/NetCoreTemplates/razor-ssg) - .NET 8 Statically Generated, CDN hostable Razor Pages Website
 - [ServiceStack/docs.servicestack.net](https://github.com/ServiceStack/docs.servicestack.net) - ServiceStack Docs built with Razor SSG
@@ -1127,7 +1140,6 @@
 - [NetCoreApps/TypeChatExamples](https://github.com/NetCoreApps/TypeChatExamples) - All TypeScript's TypeChat Examples
 - [learnk8s/bash-ingress](https://github.com/learnk8s/bash-ingress) - 
 - [Azure/azure-functions-dotnet-worker](https://github.com/Azure/azure-functions-dotnet-worker) - Azure Functions out-of-process .NET language worker
-- [markjprice/cs12dotnet8](https://github.com/markjprice/cs12dotnet8) - Repository for the Packt Publishing book titled "C# 12 and .NET 8 - Modern Cross-Platform Development Fundamentals" by Mark J. Price
 - [argo-universe/app-configs](https://github.com/argo-universe/app-configs) - This repo contains the configuration file for the microservices
 - [Zzdragon66/university-reddit-data-dashboard](https://github.com/Zzdragon66/university-reddit-data-dashboard) - 
 - [Zzdragon66/stock-streaming-project](https://github.com/Zzdragon66/stock-streaming-project) - 
