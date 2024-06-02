@@ -92,6 +92,7 @@
 
 ## C# # 
 
+- [Erikvdv/realworldapiminimal](https://github.com/Erikvdv/realworldapiminimal) - realworld api using minimal apis
 - [dotnet/command-line-api](https://github.com/dotnet/command-line-api) - Command line parsing, invocation, and rendering of terminal output.
 - [waf/CSharpRepl](https://github.com/waf/CSharpRepl) - A command line C# REPL with syntax highlighting – explore the language, libraries and nuget packages interactively.
 - [WildGums/Blorc.OpenIdConnect](https://github.com/WildGums/Blorc.OpenIdConnect) - 
@@ -207,6 +208,7 @@
 
 ## Go 
 
+- [letsencrypt/pebble](https://github.com/letsencrypt/pebble) - A miniature version of Boulder, Pebble is a small RFC 8555 ACME test server not suited for a production certificate authority.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
 - [vouch/vouch-proxy](https://github.com/vouch/vouch-proxy) - an SSO and OAuth / OIDC login solution for Nginx using the auth_request module
@@ -358,6 +360,7 @@
 
 ## JavaScript 
 
+- [ownstats/ownstats](https://github.com/ownstats/ownstats) - Host your own website statistics on AWS via CloudFront, S3, Glue and Athena. Use the analytics tool of your choice
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [Azure-Samples/active-directory-b2c-dotnet-webapp-and-webapi](https://github.com/Azure-Samples/active-directory-b2c-dotnet-webapp-and-webapi) - A combined sample for a .NET web application that calls a .NET web API, both secured using Azure AD B2C
 - [NetCoreTemplates/razor-ssg](https://github.com/NetCoreTemplates/razor-ssg) - .NET 8 Statically Generated, CDN hostable Razor Pages Website
@@ -501,12 +504,14 @@
 
 ## Python 
 
+- [ldw3097/realworld_python-lambda-DDB](https://github.com/ldw3097/realworld_python-lambda-DDB) - realworld implementation using python, AWS Lambda, DynamoDB
+- [koek67/resume-builder](https://github.com/koek67/resume-builder) - Create a clean, easy to read resume in pure Python.
 - [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
 - [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
-- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.
+- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [TezRomacH/python-package-template](https://github.com/TezRomacH/python-package-template) - 🚀 Your next Python package needs a bleeding-edge project structure.
 - [grantjenks/python-diskcache](https://github.com/grantjenks/python-diskcache) - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
@@ -528,7 +533,7 @@
 - [AbanteAI/rawdog](https://github.com/AbanteAI/rawdog) - Generate and auto-execute Python scripts in the cli
 - [Corollarium/localtls](https://github.com/Corollarium/localtls) - DNS server for providing TLS to webservices on local addresses
 - [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) - 
-- [opensourceelectrolux/azure-cost-exporter](https://github.com/opensourceelectrolux/azure-cost-exporter) - Exposing Azure cost information as standard Prometheus metrics.
+- [electrolux-oss/azure-cost-exporter](https://github.com/electrolux-oss/azure-cost-exporter) - Exposing Azure cost information as standard Prometheus metrics.
 - [mattrobenolt/jinja2-cli](https://github.com/mattrobenolt/jinja2-cli) - CLI for Jinja2
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [datasette/datasette-build](https://github.com/datasette/datasette-build) - Build a directory full of files into a SQLite database
@@ -637,7 +642,7 @@
 
 ## Rust 
 
-- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [lovasoa/SQLpage](https://github.com/lovasoa/SQLpage) - SQL-only webapp builder, empowering data analysts to build websites and applications quickly
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
@@ -654,6 +659,7 @@
 
 ## Shell 
 
+- [appleboy/scp-action](https://github.com/appleboy/scp-action) - GitHub Action that copy files and artifacts via SSH.
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
