@@ -154,7 +154,7 @@
 
 ## ai 
 
-- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.
+- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.
 - [microsoft/typechat.net](https://github.com/microsoft/typechat.net) - 
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
@@ -455,7 +455,7 @@
 
 ## database 
 
-- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [lovasoa/SQLpage](https://github.com/lovasoa/SQLpage) - SQL-only webapp builder, empowering data analysts to build websites and applications quickly
 - [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
@@ -480,6 +480,7 @@
 
 ## deno 
 
+- [JLCarveth/nutty](https://github.com/JLCarveth/nutty) - A very simple HTTP server, and a paste server implementation.
 - [polyseam/cndi](https://github.com/polyseam/cndi) - Self-Host Cloud-Native Apps with the Ease of PaaS
 
 ## deployment 
@@ -986,7 +987,7 @@
 
 - [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
-- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.
+- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.
 - [microsoft/typechat.net](https://github.com/microsoft/typechat.net) - 
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [awaescher/OllamaSharp](https://github.com/awaescher/OllamaSharp) - Ollama API bindings for .NET
@@ -1128,6 +1129,11 @@
 
 ## others 
 
+- [ownstats/ownstats](https://github.com/ownstats/ownstats) - Host your own website statistics on AWS via CloudFront, S3, Glue and Athena. Use the analytics tool of your choice
+- [appleboy/scp-action](https://github.com/appleboy/scp-action) - GitHub Action that copy files and artifacts via SSH.
+- [ldw3097/realworld_python-lambda-DDB](https://github.com/ldw3097/realworld_python-lambda-DDB) - realworld implementation using python, AWS Lambda, DynamoDB
+- [Erikvdv/realworldapiminimal](https://github.com/Erikvdv/realworldapiminimal) - realworld api using minimal apis
+- [koek67/resume-builder](https://github.com/koek67/resume-builder) - Create a clean, easy to read resume in pure Python.
 - [porter-dev/porter-charts](https://github.com/porter-dev/porter-charts) - 
 - [WildGums/Blorc.OpenIdConnect](https://github.com/WildGums/Blorc.OpenIdConnect) - 
 - [allamand/ecs-cats-and-dogs](https://github.com/allamand/ecs-cats-and-dogs) - 
@@ -1191,7 +1197,7 @@
 - [open-telemetry/opentelemetry-dotnet](https://github.com/open-telemetry/opentelemetry-dotnet) - The OpenTelemetry .NET Client
 - [dotnet/eShop](https://github.com/dotnet/eShop) - A reference .NET application implementing an eCommerce site
 - [adhocteam/script_exporter](https://github.com/adhocteam/script_exporter) - Shell script prometheus exporter
-- [opensourceelectrolux/azure-cost-exporter](https://github.com/opensourceelectrolux/azure-cost-exporter) - Exposing Azure cost information as standard Prometheus metrics.
+- [electrolux-oss/azure-cost-exporter](https://github.com/electrolux-oss/azure-cost-exporter) - Exposing Azure cost information as standard Prometheus metrics.
 - [Azure-Samples/aks-store-demo](https://github.com/Azure-Samples/aks-store-demo) - Sample microservices app for AKS demos, tutorials, and experiments
 - [Azure/reliable-web-app-pattern-dotnet-workshop](https://github.com/Azure/reliable-web-app-pattern-dotnet-workshop) - Start your application's cloud journey with this workshop. Learn about how the Reliable Web App Pattern will help prepare you and your application for success in moving to the cloud.
 - [devcontainers/ci](https://github.com/devcontainers/ci) - A GitHub Action and Azure DevOps Task designed to simplify using Dev Containers (https://containers.dev) in CI/CD systems.
@@ -1261,7 +1267,6 @@
 - [cloudogu/gitops-patterns](https://github.com/cloudogu/gitops-patterns) - Collection of patterns, examples and resources for GitOps process design, GitOps repository structures, etc
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [the-rules-of-programming/examples](https://github.com/the-rules-of-programming/examples) - 
-- [JLCarveth/nutty](https://github.com/JLCarveth/nutty) - A very simple HTTP server, and a paste server implementation.
 - [svanoort/pyresttest](https://github.com/svanoort/pyresttest) - Python Rest Testing
 - [dapr/quickstarts](https://github.com/dapr/quickstarts) - Dapr quickstart code samples and tutorials showcasing core Dapr capabilities
 - [stefanprodan/AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) - ASP.NET Core rate limiting middleware
@@ -1393,7 +1398,7 @@
 
 ## postgresql 
 
-- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [allaboutapps/integresql](https://github.com/allaboutapps/integresql) - IntegreSQL manages isolated PostgreSQL databases for your integration tests.
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
@@ -1551,7 +1556,7 @@
 
 ## rust 
 
-- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [bytewax/bytewax](https://github.com/bytewax/bytewax) - Python Stream Processing
@@ -1601,7 +1606,7 @@
 
 ## serverless 
 
-- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [lovasoa/SQLpage](https://github.com/lovasoa/SQLpage) - SQL-only webapp builder, empowering data analysts to build websites and applications quickly
 - [jeffhollan/functions-csharp-eventhub-ordered-processing](https://github.com/jeffhollan/functions-csharp-eventhub-ordered-processing) - Example of processing events in order with the Azure Functions Event Hubs trigger
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
@@ -1714,6 +1719,7 @@
 
 ## testing 
 
+- [letsencrypt/pebble](https://github.com/letsencrypt/pebble) - A miniature version of Boulder, Pebble is a small RFC 8555 ACME test server not suited for a production certificate authority.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [mccutchen/go-httpbin](https://github.com/mccutchen/go-httpbin) - A reasonably complete and well-tested golang port of httpbin, with zero dependencies outside the go stdlib.
 - [VerifyTests/Verify](https://github.com/VerifyTests/Verify) - Verify is a snapshot tool that simplifies the assertion of complex data models and documents.
