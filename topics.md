@@ -112,6 +112,7 @@
 - [powershell](#powershell)
 - [privacy](#privacy)
 - [programming](#programming)
+- [project-management](#project-management)
 - [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
@@ -156,6 +157,7 @@
 ## ai 
 
 - [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run.
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 - [microsoft/typechat.net](https://github.com/microsoft/typechat.net) - 
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
@@ -330,6 +332,7 @@
 
 ## backend 
 
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 
 ## bash 
@@ -386,6 +389,7 @@
 
 ## cpp 
 
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 
@@ -395,6 +399,8 @@
 
 ## csharp 
 
+- [Azure-Samples/ms-identity-docs-code-dotnet](https://github.com/Azure-Samples/ms-identity-docs-code-dotnet) - Source for the .NET code snippets in the Microsoft identity platform documentation found on https://docs.microsoft.com.
+- [microsoft/azure-devops-dotnet-samples](https://github.com/microsoft/azure-devops-dotnet-samples) - .NET/C# samples for integrating with Azure DevOps Services and Azure DevOps Server
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [waf/CSharpRepl](https://github.com/waf/CSharpRepl) - A command line C# REPL with syntax highlighting – explore the language, libraries and nuget packages interactively.
@@ -528,6 +534,7 @@
 
 ## docker 
 
+- [mathieu-benoit/mathieu-benoit.github.io](https://github.com/mathieu-benoit/mathieu-benoit.github.io) - The content of my blog hosted at: https://mathieu-benoit.github.io/
 - [mathieu-benoit/sail-sharp](https://github.com/mathieu-benoit/sail-sharp) - Sail Sharp - Security best practices with .NET Core & Kubernetes
 - [RiFi2k/dockerize-your-dev](https://github.com/RiFi2k/dockerize-your-dev) - Docker compose a VM to get LetsEncrypt / NGINX proxy auto provisioning, ELK logging, Prometheus / Grafana monitoring, Portainer GUI, and more...
 - [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
@@ -569,6 +576,7 @@
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
 - [dotnet/EntityFramework.Docs](https://github.com/dotnet/EntityFramework.Docs) - Documentation for Entity Framework Core and Entity Framework 6
+- [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 
 ## dotfiles 
 
@@ -576,6 +584,9 @@
 
 ## dotnet 
 
+- [Azure-Samples/ms-identity-docs-code-dotnet](https://github.com/Azure-Samples/ms-identity-docs-code-dotnet) - Source for the .NET code snippets in the Microsoft identity platform documentation found on https://docs.microsoft.com.
+- [openiddict/openiddict-samples](https://github.com/openiddict/openiddict-samples) - .NET samples for OpenIddict
+- [microsoft/azure-devops-dotnet-samples](https://github.com/microsoft/azure-devops-dotnet-samples) - .NET/C# samples for integrating with Azure DevOps Services and Azure DevOps Server
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [mathieu-benoit/sail-sharp](https://github.com/mathieu-benoit/sail-sharp) - Sail Sharp - Security best practices with .NET Core & Kubernetes
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
@@ -725,6 +736,7 @@
 
 ## golang 
 
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [porter-dev/porter-archive](https://github.com/porter-dev/porter-archive) - Kubernetes powered PaaS that runs in your own cloud.
@@ -918,6 +930,8 @@
 
 ## kubernetes 
 
+- [mathieu-benoit/mathieu-benoit.github.io](https://github.com/mathieu-benoit/mathieu-benoit.github.io) - The content of my blog hosted at: https://mathieu-benoit.github.io/
+- [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
 - [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 - [mathieu-benoit/sail-sharp](https://github.com/mathieu-benoit/sail-sharp) - Sail Sharp - Security best practices with .NET Core & Kubernetes
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
@@ -1082,6 +1096,7 @@
 
 ## microsoft 
 
+- [microsoft/azure-devops-dotnet-samples](https://github.com/microsoft/azure-devops-dotnet-samples) - .NET/C# samples for integrating with Azure DevOps Services and Azure DevOps Server
 - [Azure-Samples/active-directory-b2c-dotnet-webapp-and-webapi](https://github.com/Azure-Samples/active-directory-b2c-dotnet-webapp-and-webapi) - A combined sample for a .NET web application that calls a .NET web API, both secured using Azure AD B2C
 - [Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) - This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versio
 - [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio) - Azure Data Studio is a data management and development tool with connectivity to popular cloud and on-premises databases. Azure Data Studio supports Windows, macOS, and Linux, with immediate capabilit
@@ -1163,6 +1178,10 @@
 
 ## others 
 
+- [JohnTheNerd/homeassistant-llm-prompt-generator](https://github.com/JohnTheNerd/homeassistant-llm-prompt-generator) - 
+- [testdrivenio/fastapi-jwt](https://github.com/testdrivenio/fastapi-jwt) - Secure a FastAPI app by enabling authentication using JSON Web Tokens (JWTs)
+- [simonw/scrape-openai-code-interpreter](https://github.com/simonw/scrape-openai-code-interpreter) - Scrape details about
+- [potahtml/mpa-archive](https://github.com/potahtml/mpa-archive) - Crawls a Multi-Page Application to a zip file, serve the Multi-Page Application from the zip file. A MPA archiver. Could be used as a Site Generator
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [microsoft/sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatGPT) - Sample code for a simple web chat experience through Azure OpenAI, including Azure OpenAI On Your Data.
 - [controlplaneio-fluxcd/charts](https://github.com/controlplaneio-fluxcd/charts) - ControlPlane Helm Charts
@@ -1358,7 +1377,6 @@
 - [tmate-io/tmate-kube](https://github.com/tmate-io/tmate-kube) - dev and prod kubernetes configurations
 - [nginxinc/NGINX-Demos](https://github.com/nginxinc/NGINX-Demos) - NGINX and NGINX Plus demos
 - [xxradar/app_routable_demo](https://github.com/xxradar/app_routable_demo) - 
-- [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [Obmondo/kubeaid](https://github.com/Obmondo/kubeaid) - K8id - Kubernetes Aid - a FOSS management suite for Kubernetes
 - [la-cc/helm-dependencies-update-helper-script-native](https://github.com/la-cc/helm-dependencies-update-helper-script-native) - 
 - [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using)
@@ -1470,6 +1488,10 @@
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
+## project-management 
+
+- [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
+
 ## pwa 
 
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
@@ -1541,6 +1563,7 @@
 
 ## python3 
 
+- [susam/mintotp](https://github.com/susam/mintotp) - Minimal TOTP generator in 20 lines of Python
 - [zitadel/example-python-django-oauth](https://github.com/zitadel/example-python-django-oauth) - Example Python Django OAuth API
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 - [fluentpython/example-code-2e](https://github.com/fluentpython/example-code-2e) - Example code for Fluent Python, 2nd edition (O'Reilly 2022)
@@ -1600,6 +1623,7 @@
 ## rust 
 
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [bytewax/bytewax](https://github.com/bytewax/bytewax) - Python Stream Processing
@@ -1620,6 +1644,7 @@
 
 ## security 
 
+- [susam/mintotp](https://github.com/susam/mintotp) - Minimal TOTP generator in 20 lines of Python
 - [mathieu-benoit/sail-sharp](https://github.com/mathieu-benoit/sail-sharp) - Sail Sharp - Security best practices with .NET Core & Kubernetes
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [microsoft/Security-101](https://github.com/microsoft/Security-101) - 8 Lessons, Kick-start Your Cybersecurity Learning.
