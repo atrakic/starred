@@ -10,6 +10,7 @@
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
+- [ansible](#ansible)
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
 - [aspnet](#aspnet)
@@ -72,6 +73,7 @@
 - [graphql](#graphql)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
+- [homebrew](#homebrew)
 - [html](#html)
 - [html5](#html5)
 - [http](#http)
@@ -90,6 +92,7 @@
 - [llm](#llm)
 - [low-code](#low-code)
 - [lua](#lua)
+- [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
@@ -194,6 +197,10 @@
 
 - [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for ASP.NET Core
 
+## ansible 
+
+- [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
+
 ## api 
 
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -208,7 +215,7 @@
 
 ## artificial-intelligence 
 
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - SOTA RAG engine with automatic knowledge graph construction
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The Supabase for RAG - R2R lets you build, scale, and manage user-facing Retrieval-Augmented Generation applications
 - [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
 - [microsoft/typechat.net](https://github.com/microsoft/typechat.net) - 
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
@@ -225,6 +232,7 @@
 
 ## automation 
 
+- [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [testcontainers/testcontainers-dotnet](https://github.com/testcontainers/testcontainers-dotnet) - A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.
 - [laktak/tome](https://github.com/laktak/tome) - 🔁 Script playbooks for frequent commands in any terminal application
 - [peter-evans/slash-command-dispatch](https://github.com/peter-evans/slash-command-dispatch) - A GitHub action that facilitates "ChatOps" by creating repository dispatch events for slash commands
@@ -615,7 +623,7 @@
 - [testcontainers/testcontainers-dotnet](https://github.com/testcontainers/testcontainers-dotnet) - A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.
 - [json-api-dotnet/JsonApiDotNetCore](https://github.com/json-api-dotnet/JsonApiDotNetCore) - A framework for building JSON:API compliant REST APIs using ASP.NET and Entity Framework Core.
 - [karlospn/dotnet-strategy-pattern-using-dependency-injection](https://github.com/karlospn/dotnet-strategy-pattern-using-dependency-injection) - This repository contains an example that shows how easy is to build a Strategy pattern using dependency injection with .NET
-- [bytefish/ElasticsearchCodeSearch](https://github.com/bytefish/ElasticsearchCodeSearch) - Index and Search GitHub Repositories using Elasticsearch
+- [bytefish/ElasticsearchCodeSearch](https://github.com/bytefish/ElasticsearchCodeSearch) - Index and Search Git Repositories using Elasticsearch
 - [karlospn/opentelemetry-metrics-demo](https://github.com/karlospn/opentelemetry-metrics-demo) - Example about how to use OpenTelemetry metrics on a .NET app and how to visualize those metrics using Prometheus and Grafana.
 - [dotnet/aspire](https://github.com/dotnet/aspire) - An opinionated, cloud ready stack for building observable, production ready, distributed applications in .NET
 - [markjprice/cs12dotnet8](https://github.com/markjprice/cs12dotnet8) - Repository for the Packt Publishing book titled "C# 12 and .NET 8 - Modern Cross-Platform Development Fundamentals" by Mark J. Price
@@ -860,6 +868,10 @@
 
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 
+## homebrew 
+
+- [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
+
 ## html 
 
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
@@ -953,6 +965,7 @@
 
 ## kubernetes 
 
+- [LukasKnuth/homeserver](https://github.com/LukasKnuth/homeserver) - The FULL configuration of my small RPi based server at home.
 - [mathieu-benoit/mathieu-benoit.github.io](https://github.com/mathieu-benoit/mathieu-benoit.github.io) - The content of my blog hosted at: https://mathieu-benoit.github.io/
 - [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
 - [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
@@ -1057,7 +1070,6 @@
 ## llm 
 
 - [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - SOTA RAG engine with automatic knowledge graph construction
 - [karlospn/building-an-azure-devops-copilot-using-semantic-kernel-and-dotnet](https://github.com/karlospn/building-an-azure-devops-copilot-using-semantic-kernel-and-dotnet) - Building an Azure DevOps Copilot using Semantic Kernel and Azure OpenAi GPT-4o
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
@@ -1084,6 +1096,10 @@
 
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 
+## mac 
+
+- [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
+
 ## machine-learning 
 
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
@@ -1109,6 +1125,7 @@
 
 ## macos 
 
+- [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground.
 - [anfragment/zen](https://github.com/anfragment/zen) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 - [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
@@ -1205,6 +1222,8 @@
 
 ## others 
 
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+- [dotnet/ai-samples](https://github.com/dotnet/ai-samples) - 
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks. This tool combines the capabil
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 - [dependabot/smoke-tests](https://github.com/dependabot/smoke-tests) - A collection of manifest files for various package managers and is used to perform end-to-end tests for Dependabot.
@@ -1516,7 +1535,7 @@
 
 ## powershell 
 
-- [bytefish/ElasticsearchCodeSearch](https://github.com/bytefish/ElasticsearchCodeSearch) - Index and Search GitHub Repositories using Elasticsearch
+- [bytefish/ElasticsearchCodeSearch](https://github.com/bytefish/ElasticsearchCodeSearch) - Index and Search Git Repositories using Elasticsearch
 - [geekzter/azure-aks](https://github.com/geekzter/azure-aks) - Network Isolated AKS
 - [DanielLarsenNZ/examples](https://github.com/DanielLarsenNZ/examples) - Quick examples for Azure, PowerShell, az CLI, C# and more.
 
@@ -1542,7 +1561,7 @@
 ## python 
 
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - SOTA RAG engine with automatic knowledge graph construction
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The Supabase for RAG - R2R lets you build, scale, and manage user-facing Retrieval-Augmented Generation applications
 - [erezsh/reladiff](https://github.com/erezsh/reladiff) - High-performance diffing of large datasets across databases
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [getludic/ludic](https://github.com/getludic/ludic) - 🌳 Web Development in Pure Python with Type-Guided Components.
@@ -1634,6 +1653,7 @@
 
 ## raspberry-pi 
 
+- [LukasKnuth/homeserver](https://github.com/LukasKnuth/homeserver) - The FULL configuration of my small RPi based server at home.
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 
 ## react 
@@ -1820,6 +1840,7 @@
 
 ## terraform 
 
+- [LukasKnuth/homeserver](https://github.com/LukasKnuth/homeserver) - The FULL configuration of my small RPi based server at home.
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 - [moritzzimmer/terraform-aws-lambda](https://github.com/moritzzimmer/terraform-aws-lambda) - A Terraform module to create AWS Lambda ressources.
 - [clowdhaus/terraform-aws-module-template](https://github.com/clowdhaus/terraform-aws-module-template) - Terraform module which creates &lt;TODO&gt; resources on AWS
