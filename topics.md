@@ -94,6 +94,7 @@
 - [learning](#learning)
 - [linux](#linux)
 - [llm](#llm)
+- [login](#login)
 - [low-code](#low-code)
 - [lua](#lua)
 - [mac](#mac)
@@ -168,6 +169,7 @@
 
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 - [explorerhq/sql-explorer](https://github.com/explorerhq/sql-explorer) - SQL reporting that Just Works. Fast, simple, and confusion-free. Write and share queries in a delightful SQL editor, with AI assistance.
+- [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 - [microsoft/typechat.net](https://github.com/microsoft/typechat.net) - 
@@ -263,6 +265,7 @@
 
 ## aws 
 
+- [cn-terraform/terraform-aws-ecs-fargate](https://github.com/cn-terraform/terraform-aws-ecs-fargate) - AWS ECS Fargate Terraform Module
 - [moritzzimmer/terraform-aws-lambda](https://github.com/moritzzimmer/terraform-aws-lambda) - A Terraform module to create AWS Lambda ressources.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [porter-dev/porter-archive](https://github.com/porter-dev/porter-archive) - Kubernetes powered PaaS that runs in your own cloud.
@@ -424,7 +427,7 @@
 
 ## crystal 
 
-- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and quickest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
+- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 
 ## csharp 
 
@@ -504,6 +507,7 @@
 
 ## database 
 
+- [IsNemoEqualTrue/monitor-table-change-with-sqltabledependency](https://github.com/IsNemoEqualTrue/monitor-table-change-with-sqltabledependency) - Get SQL Server notification on record table change
 - [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
@@ -562,7 +566,7 @@
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [trstringer/manual-approval](https://github.com/trstringer/manual-approval) - Pause your GitHub Actions workflow and request manual approval from set approvers before continuing
 - [BretFisher/docker-build-workflow](https://github.com/BretFisher/docker-build-workflow) - A Reusable Workflow of the Docker GitHub Actions
-- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and quickest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
+- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 - [Azure/mlops-v2](https://github.com/Azure/mlops-v2) - Azure MLOps (v2) solution accelerators. Enterprise ready templates to deploy your machine learning models on the Azure Platform.
 
 ## django 
@@ -607,7 +611,7 @@
 - [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app) - Example distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes
 - [BretFisher/docker-build-workflow](https://github.com/BretFisher/docker-build-workflow) - A Reusable Workflow of the Docker GitHub Actions
 - [aws-containers/retail-store-sample-app](https://github.com/aws-containers/retail-store-sample-app) - Sample application for demonstrating container platforms and related technology
-- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and quickest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
+- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 
 ## documentation 
 
@@ -1095,7 +1099,7 @@
 - [MartinHeinz/tekton-kickstarter](https://github.com/MartinHeinz/tekton-kickstarter) - Templates, scripts and samples for quickly building CI/CD with Tekton.
 - [aws-containers/retail-store-sample-app](https://github.com/aws-containers/retail-store-sample-app) - Sample application for demonstrating container platforms and related technology
 - [iximiuz/client-go-examples](https://github.com/iximiuz/client-go-examples) - Collection of mini-programs demonstrating Kubernetes client-go usage.
-- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and quickest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
+- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 - [awslabs/specctl](https://github.com/awslabs/specctl) - CLI to convert Kubernetes specifications to ECS Fargate and vice-versa
 
 ## learning 
@@ -1118,7 +1122,7 @@
 - [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
 - [karlospn/building-an-azure-devops-copilot-using-semantic-kernel-and-dotnet](https://github.com/karlospn/building-an-azure-devops-copilot-using-semantic-kernel-and-dotnet) - Building an Azure DevOps Copilot using Semantic Kernel and Azure OpenAi GPT-4o
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - LLM Proxy to call 100+ LLM APIs using the OpenAI format - Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server to call 100+ LLM APIs using the OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run.
 - [microsoft/typechat.net](https://github.com/microsoft/typechat.net) - 
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
@@ -1132,6 +1136,11 @@
 - [retkowsky/Azure-OpenAI-demos](https://github.com/retkowsky/Azure-OpenAI-demos) - Azure OpenAI (demos, documentation, accelerators).
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - The easiest way to serve AI apps and models - Build reliable Inference APIs, LLM apps, Multi-model chains, RAG service, and much more!
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
+
+## login 
+
+- [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Clerk/Auth0 alternative
+- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 
 ## low-code 
 
@@ -1202,6 +1211,7 @@
 
 ## monitoring 
 
+- [opslane/opslane](https://github.com/opslane/opslane) - Making on-call suck less for engineers
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
@@ -1272,13 +1282,15 @@
 
 ## others 
 
+- [IsNemoEqualTrue/monitor-table-change-with-mvc-signalR-jquery-sqltabledependency-example](https://github.com/IsNemoEqualTrue/monitor-table-change-with-mvc-signalR-jquery-sqltabledependency-example) - Detect record table change with MVC, SignalR, jQuery and SqlTableDependency
+- [microsoft/garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication feature
+- [MindscapeHQ/Raygun.Aspire.Hosting.Ollama](https://github.com/MindscapeHQ/Raygun.Aspire.Hosting.Ollama) - An Aspire component leveraging the Ollama container with support for downloading a model on startup
 - [clemlesne/scrape-it-now](https://github.com/clemlesne/scrape-it-now) - A website to scrape? There's a simple way.
 - [aws-samples/aws2tf](https://github.com/aws-samples/aws2tf) - aws2tf - automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code.
 - [useblacksmith/remote-buildkit-terraform](https://github.com/useblacksmith/remote-buildkit-terraform) - 
 - [JFolberth/TheYAMLPipelineOne](https://github.com/JFolberth/TheYAMLPipelineOne) - Azure DevOps YAML Templates
 - [closedloop-technologies/autocomplete-sh](https://github.com/closedloop-technologies/autocomplete-sh) - Large language model in the terminal!  Less `--help` and `man` and more getting stuff done
 - [llimllib/gpt-bash-cli](https://github.com/llimllib/gpt-bash-cli) - A simple bash interface to openai's API that saves requests and responses to a sqlite database
-- [opslane/opslane](https://github.com/opslane/opslane) - Reducing alert fatigue for on-call engineers
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [dotnet/ai-samples](https://github.com/dotnet/ai-samples) - 
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks. This tool combines the capabil
@@ -1353,7 +1365,6 @@
 - [rqlite/rqlite-dotnet](https://github.com/rqlite/rqlite-dotnet) - .NET client
 - [Azure/terraform-azure-container-apps](https://github.com/Azure/terraform-azure-container-apps) - A Terraform module to deploy a container app in Azure
 - [MicrosoftDocs/mslearn-dotnet-cloudnative](https://github.com/MicrosoftDocs/mslearn-dotnet-cloudnative) - Sample apps for the Microsoft Learn modules for creating cloud native apps with ASP.NET Core
-- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [binwiederhier/ntfy-android](https://github.com/binwiederhier/ntfy-android) - Android app for ntfy.sh
 - [alexmolas/microsearch](https://github.com/alexmolas/microsearch) - 
 - [AbanteAI/rawdog](https://github.com/AbanteAI/rawdog) - Generate and auto-execute Python scripts in the cli
@@ -1384,7 +1395,7 @@
 - [datasette/datasette-build](https://github.com/datasette/datasette-build) - Build a directory full of files into a SQLite database
 - [mattharrison/Tiny-Python-3.8-Notebook](https://github.com/mattharrison/Tiny-Python-3.8-Notebook) - Python 3.8 language and syntax
 - [MicrosoftDocs/mslearn-tailspin-spacegame-web-deploy](https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web-deploy) - Code used in Microsoft Learn modules to support Azure DevOps
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [microsoft/security-devops-azdevops](https://github.com/microsoft/security-devops-azdevops) - Microsoft Security DevOps extension for Azure DevOps.
 - [Azure/azure-devtestlab](https://github.com/Azure/azure-devtestlab) - Azure DevTestLab artifacts, scripts and samples
@@ -1456,7 +1467,7 @@
 - [crossbowerbt/awk-webserver](https://github.com/crossbowerbt/awk-webserver) - A simple webserver, written in GNU awk, that supports directory listing and download of file from the directory where it is launched
 - [exchangeratesapi/exchangeratesapi](https://github.com/exchangeratesapi/exchangeratesapi) - Exchange Rates API
 - [mafintosh/csv-parser](https://github.com/mafintosh/csv-parser) - Streaming csv parser inspired by binary-csv that aims to be faster than everyone else
-- [calpaterson/csvbase](https://github.com/calpaterson/csvbase) - a simple web database
+- [calpaterson/csvbase](https://github.com/calpaterson/csvbase) - a simple website for sharing table data - with an API
 - [tjoudeh/container-apps-grpc-dapr](https://github.com/tjoudeh/container-apps-grpc-dapr) - Sample repository shows how to two services deployed to Azure Container Apps communicate synchronously over gRPC without using Dapr and then we will Daperize the two services and utilize the service-t
 - [Azure/actions-workflow-samples](https://github.com/Azure/actions-workflow-samples) - Help developers to easily get started with GitHub Action workflows to deploy to Azure
 - [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
@@ -1614,6 +1625,7 @@
 
 ## python 
 
+- [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
@@ -1686,6 +1698,7 @@
 
 ## python3 
 
+- [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [s3rius/FastAPI-template](https://github.com/s3rius/FastAPI-template) - Feature rich robust FastAPI template.
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [susam/mintotp](https://github.com/susam/mintotp) - Minimal TOTP generator in 20 lines of Python
@@ -1784,6 +1797,7 @@
 
 ## self-hosted 
 
+- [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore) - Official Runtipi AppStore. Apps and updates live here!
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -1833,6 +1847,7 @@
 
 ## sql 
 
+- [IsNemoEqualTrue/monitor-table-change-with-sqltabledependency](https://github.com/IsNemoEqualTrue/monitor-table-change-with-sqltabledependency) - Get SQL Server notification on record table change
 - [explorerhq/sql-explorer](https://github.com/explorerhq/sql-explorer) - SQL reporting that Just Works. Fast, simple, and confusion-free. Write and share queries in a delightful SQL editor, with AI assistance.
 - [erezsh/reladiff](https://github.com/erezsh/reladiff) - High-performance diffing of large datasets across databases
 - [DapperLib/Dapper](https://github.com/DapperLib/Dapper) - Dapper - a simple object mapper for .Net
@@ -1857,6 +1872,7 @@
 
 ## sql-server 
 
+- [IsNemoEqualTrue/monitor-table-change-with-sqltabledependency](https://github.com/IsNemoEqualTrue/monitor-table-change-with-sqltabledependency) - Get SQL Server notification on record table change
 - [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
 - [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio) - Azure Data Studio is a data management and development tool with connectivity to popular cloud and on-premises databases. Azure Data Studio supports Windows, macOS, and Linux, with immediate capabilit
 - [dbt-msft/dbt-sqlserver](https://github.com/dbt-msft/dbt-sqlserver) - dbt adapter for SQL Server and Azure SQL
@@ -1905,6 +1921,7 @@
 
 ## terraform 
 
+- [cn-terraform/terraform-aws-ecs-fargate](https://github.com/cn-terraform/terraform-aws-ecs-fargate) - AWS ECS Fargate Terraform Module
 - [LukasKnuth/homeserver](https://github.com/LukasKnuth/homeserver) - The FULL configuration of my small RPi based server at home.
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 - [moritzzimmer/terraform-aws-lambda](https://github.com/moritzzimmer/terraform-aws-lambda) - A Terraform module to create AWS Lambda ressources.
