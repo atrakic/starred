@@ -63,7 +63,6 @@
 - [Azure-Samples/aks-store-demo](https://github.com/Azure-Samples/aks-store-demo) - Sample microservices app for AKS demos, tutorials, and experiments
 - [Azure/aks-baseline-automation](https://github.com/Azure/aks-baseline-automation) - Repository for the AKS Landing Zone Accelerator program's Automation reference implementation
 - [mspnp/microservices-reference-implementation](https://github.com/mspnp/microservices-reference-implementation) - A reference implementation demonstrating microservices architecture and best practices for Microsoft Azure
-- [mspnp/aks-baseline-multi-region](https://github.com/mspnp/aks-baseline-multi-region) - This is the Azure Kubernetes Service (AKS) baseline for multi-region reference implementation as produced by the Microsoft Azure Architecture Center.
 - [mspnp/aks-fabrikam-dronedelivery](https://github.com/mspnp/aks-fabrikam-dronedelivery) - AKS Fabrikam Drone Delivery :heart: AKS baseline
 - [paolosalvatori/aks-managed-prometheus-and-grafana-bicep](https://github.com/paolosalvatori/aks-managed-prometheus-and-grafana-bicep) - This sample shows how to install an AKS cluster with Azure Managed Prometheus and Azure Managed Grafana via Bicep.
 - [Azure/bicep-registry-modules](https://github.com/Azure/bicep-registry-modules) - Bicep registry modules
@@ -228,6 +227,9 @@
 
 ## Go 
 
+- [yudhasubki/blockqueue](https://github.com/yudhasubki/blockqueue) - BlockQueue is a open source and cost-effective Job Queue with a pub/sub mechanism utilizing SQLite and NutsDB. Support LibSQL by Turso and PostgreSQL
+- [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator built on top of NATS
+- [benbjohnson/litestream-docker-example](https://github.com/benbjohnson/litestream-docker-example) - An example of using Litestream within a Docker container.
 - [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [appleboy/gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
@@ -288,7 +290,7 @@
 - [JanaSabuj/PdfDocCrdOperator](https://github.com/JanaSabuj/PdfDocCrdOperator) - A Kubernetes operator that reconciles our custom PdfDoc CRD. Refer architecture diagram for more details.
 - [kubernetes-sigs/aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller) - A Kubernetes controller for Elastic Load Balancers
 - [flanksource/canary-checker](https://github.com/flanksource/canary-checker) - Kubernetes Native Health Check Platform
-- [loxilb-io/loxilb](https://github.com/loxilb-io/loxilb) - eBPF based cloud-native load-balancer. Powering Kubernetes|Edge|5G|IoT|XaaS Apps.
+- [loxilb-io/loxilb](https://github.com/loxilb-io/loxilb) - eBPF based cloud-native load-balancer for Kubernetes|Edge|Telco|IoT|XaaS.
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
 - [kubernetes-sigs/e2e-framework](https://github.com/kubernetes-sigs/e2e-framework) - A Go framework for end-to-end testing of components running in Kubernetes clusters.
 - [argoproj-labs/argocd-autopilot](https://github.com/argoproj-labs/argocd-autopilot) - Argo-CD Autopilot
@@ -367,7 +369,7 @@
 
 ## HTML 
 
-- [clemlesne/scrape-it-now](https://github.com/clemlesne/scrape-it-now) - A website to scrape? There's a simple way.
+- [clemlesne/scrape-it-now](https://github.com/clemlesne/scrape-it-now) - Web scraper made for AI and simplicity in mind. It runs as a CLI that can be parallelized and outputs high-quality markdown content.
 - [mathieu-benoit/mathieu-benoit.github.io](https://github.com/mathieu-benoit/mathieu-benoit.github.io) - The content of my blog hosted at: https://mathieu-benoit.github.io/
 - [allamand/ecs-cats-and-dogs](https://github.com/allamand/ecs-cats-and-dogs) - 
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
@@ -575,7 +577,7 @@
 - [explorerhq/sql-explorer](https://github.com/explorerhq/sql-explorer) - SQL reporting that Just Works. Fast, simple, and confusion-free. Write and share queries in a delightful SQL editor, with AI assistance.
 - [rhythm-patel/sqlalchemy-workshop](https://github.com/rhythm-patel/sqlalchemy-workshop) - SQLAlchemy asyncio workshop demo project with SQLite for PyCon US 2024 and PyCon Italy 2024
 - [Azure-Samples/graphrag-accelerator](https://github.com/Azure-Samples/graphrag-accelerator) - One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The Elasticsearch for RAG. Build, scale, and deploy production-ready Retrieval-Augmented Generation applications
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The Elasticsearch for RAG. Build, scale, and deploy state of the art Retrieval-Augmented Generation applications
 - [erezsh/reladiff](https://github.com/erezsh/reladiff) - High-performance diffing of large datasets across databases
 - [JohnTheNerd/homeassistant-llm-prompt-generator](https://github.com/JohnTheNerd/homeassistant-llm-prompt-generator) - 
 - [susam/mintotp](https://github.com/susam/mintotp) - Minimal TOTP generator in 20 lines of Python
@@ -715,6 +717,7 @@
 
 ## Ruby 
 
+- [oldmoe/litestack](https://github.com/oldmoe/litestack) - 
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 
@@ -737,6 +740,7 @@
 
 ## Shell 
 
+- [cloudposse/test-harness](https://github.com/cloudposse/test-harness) - 🧬 Collection of Makefiles and test scripts to facilitate testing Terraform modules, Kubernetes resources, Helm charts, and more
 - [sdushantha/tmpmail](https://github.com/sdushantha/tmpmail) - A temporary email right from your terminal written in POSIX sh
 - [torokmark/assert.sh](https://github.com/torokmark/assert.sh) - :exclamation: Assertion lib for shell script users
 - [closedloop-technologies/autocomplete-sh](https://github.com/closedloop-technologies/autocomplete-sh) - Large language model in the terminal!  Less `--help` and `man` and more getting stuff done
@@ -804,7 +808,7 @@
 
 ## TypeScript 
 
-- [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Clerk/Auth0 alternative
+- [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Auth0/Clerk alternative
 - [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground.
 - [Radiergummi/iss-metrics](https://github.com/Radiergummi/iss-metrics) - Observability stack for telemetry data of the International Space Station
 - [porter-dev/porter-archive](https://github.com/porter-dev/porter-archive) - Kubernetes powered PaaS that runs in your own cloud.
