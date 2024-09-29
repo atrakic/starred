@@ -59,6 +59,7 @@
 
 ## Bicep 
 
+- [Azure/PSRule.Rules.Azure-quickstart](https://github.com/Azure/PSRule.Rules.Azure-quickstart) - Sample code you can use to quickly start using PSRule for Azure.
 - [Azure-Samples/pubsub-dapr-csharp-servicebus](https://github.com/Azure-Samples/pubsub-dapr-csharp-servicebus) - A complete microservice application featuring Dapr Pub-Sub, deployed to Azure Container Apps and Azure Service Bus Topics with dead-lettering support.
 - [Azure-Samples/aks-store-demo](https://github.com/Azure-Samples/aks-store-demo) - Sample microservices app for AKS demos, tutorials, and experiments
 - [Azure/aks-baseline-automation](https://github.com/Azure/aks-baseline-automation) - Repository for the AKS Landing Zone Accelerator program's Automation reference implementation
@@ -91,6 +92,8 @@
 
 ## C# # 
 
+- [EdwinVW/dapr-workshop-csharp](https://github.com/EdwinVW/dapr-workshop-csharp) - Source code for the .NET version of the Dapr workshop (see README for more info).
+- [shahabganji/eda-azure-cosmosdb](https://github.com/shahabganji/eda-azure-cosmosdb) - The source code for the simplified event sourcing example from my talk at Azure Cosmos DB Global User Group
 - [SciSharp/LLamaSharp](https://github.com/SciSharp/LLamaSharp) - A C#/.NET library to run LLM (🦙LLaMA/LLaVA) on your local device efficiently.
 - [dotnet-architecture/eShopOnDapr](https://github.com/dotnet-architecture/eShopOnDapr) - A sample .NET distributed application based on eShopOnContainers, powered by Dapr.
 - [IsNemoEqualTrue/monitor-table-change-with-sqltabledependency](https://github.com/IsNemoEqualTrue/monitor-table-change-with-sqltabledependency) - Get SQL Server notification on record table change
@@ -194,6 +197,7 @@
 
 ## C++ 
 
+- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
@@ -226,6 +230,7 @@
 
 ## Go 
 
+- [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite
 - [aws-samples/sqs-fargate-ddb-cdk-go](https://github.com/aws-samples/sqs-fargate-ddb-cdk-go) - 
 - [yudhasubki/blockqueue](https://github.com/yudhasubki/blockqueue) - BlockQueue is a open source and cost-effective Job Queue with a pub/sub mechanism utilizing SQLite and NutsDB. Support LibSQL by Turso and PostgreSQL
 - [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator built on top of NATS
@@ -252,7 +257,7 @@
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
@@ -307,7 +312,7 @@
 - [ipsegs/sshpodlog](https://github.com/ipsegs/sshpodlog) - 
 - [Azure/terraform-azurerm-lz-vending](https://github.com/Azure/terraform-azurerm-lz-vending) - Terraform module to deploy landing zone subscriptions (and much more) in Azure
 - [gin-gonic/contrib](https://github.com/gin-gonic/contrib) - Collection of middlewares created by the community
-- [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+- [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [prometheus/pushgateway](https://github.com/prometheus/pushgateway) - Push acceptor for ephemeral and batch jobs.
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
 - [gin-gonic/examples](https://github.com/gin-gonic/examples) - A repository to host examples and tutorials for Gin.
@@ -370,6 +375,7 @@
 
 ## HTML 
 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [clemlesne/scrape-it-now](https://github.com/clemlesne/scrape-it-now) - Web scraper made for AI and simplicity in mind. It runs as a CLI that can be parallelized and outputs high-quality markdown content.
 - [mathieu-benoit/mathieu-benoit.github.io](https://github.com/mathieu-benoit/mathieu-benoit.github.io) - The content of my blog hosted at: https://mathieu-benoit.github.io/
 - [allamand/ecs-cats-and-dogs](https://github.com/allamand/ecs-cats-and-dogs) - 
@@ -503,6 +509,8 @@
 
 ## Others 
 
+- [dotnet-architecture/eBooks](https://github.com/dotnet-architecture/eBooks) - .NET Architecture e-Books
+- [dpapathanasiou/simple-graph](https://github.com/dpapathanasiou/simple-graph) - This is a simple graph database in SQLite, inspired by "SQLite as a document database"
 - [cathytanimura/sql_book](https://github.com/cathytanimura/sql_book) - Code repository for the book SQL for Data Analysis
 - [JFolberth/TheYAMLPipelineOne](https://github.com/JFolberth/TheYAMLPipelineOne) - Azure DevOps YAML Templates
 - [simonw/simonwillisonblog-backup](https://github.com/simonw/simonwillisonblog-backup) - Backups of the database for simonwillison.net
@@ -561,6 +569,9 @@
 
 ## Python 
 
+- [drewsilcock/gil-perf](https://github.com/drewsilcock/gil-perf) - Performance testing Python w/ and w/o the GIL
+- [apache/polaris](https://github.com/apache/polaris) - The interoperable, open source catalog for Apache Iceberg
+- [pyinfra-dev/pyinfra-examples](https://github.com/pyinfra-dev/pyinfra-examples) - A set of documented and tested pyinfra deploys.
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [harsxv/tinystatus](https://github.com/harsxv/tinystatus) - Tiny status page generated by a Python script
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
@@ -581,7 +592,7 @@
 - [explorerhq/sql-explorer](https://github.com/explorerhq/sql-explorer) - SQL reporting that Just Works. Fast, simple, and confusion-free. Write and share queries in a delightful SQL editor, with AI assistance.
 - [rhythm-patel/sqlalchemy-workshop](https://github.com/rhythm-patel/sqlalchemy-workshop) - SQLAlchemy asyncio workshop demo project with SQLite for PyCon US 2024 and PyCon Italy 2024
 - [Azure-Samples/graphrag-accelerator](https://github.com/Azure-Samples/graphrag-accelerator) - One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The Elasticsearch for RAG. Build, scale, and deploy state of the art Retrieval-Augmented Generation applications
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The all-in-one solution for RAG. Build, scale, and deploy state of the art Retrieval-Augmented Generation applications
 - [erezsh/reladiff](https://github.com/erezsh/reladiff) - High-performance diffing of large datasets across databases
 - [JohnTheNerd/homeassistant-llm-prompt-generator](https://github.com/JohnTheNerd/homeassistant-llm-prompt-generator) - 
 - [susam/mintotp](https://github.com/susam/mintotp) - Minimal TOTP generator in 20 lines of Python
@@ -595,7 +606,7 @@
 - [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
-- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run.
+- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges.
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [TezRomacH/python-package-template](https://github.com/TezRomacH/python-package-template) - 🚀 Your next Python package needs a bleeding-edge project structure.
 - [grantjenks/python-diskcache](https://github.com/grantjenks/python-diskcache) - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
@@ -727,6 +738,7 @@
 
 ## Rust 
 
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [lovasoa/SQLpage](https://github.com/lovasoa/SQLpage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
@@ -744,7 +756,9 @@
 
 ## Shell 
 
-- [Wowu/docker-rollout](https://github.com/Wowu/docker-rollout) - 🚀 Zero Downtime Deployment for Docker Compose
+- [k8spatterns/examples](https://github.com/k8spatterns/examples) - Examples for "Kubernetes Patterns - Reusable Elements for Designing Cloud Native Applications", Second Edition
+- [AxelTheGerman/dokku-litestream](https://github.com/AxelTheGerman/dokku-litestream) - 
+- [wowu/docker-rollout](https://github.com/wowu/docker-rollout) - 🚀 Zero Downtime Deployment for Docker Compose
 - [cloudposse/test-harness](https://github.com/cloudposse/test-harness) - 🧬 Collection of Makefiles and test scripts to facilitate testing Terraform modules, Kubernetes resources, Helm charts, and more
 - [sdushantha/tmpmail](https://github.com/sdushantha/tmpmail) - A temporary email right from your terminal written in POSIX sh
 - [torokmark/assert.sh](https://github.com/torokmark/assert.sh) - :exclamation: Assertion lib for shell script users
@@ -814,6 +828,9 @@
 
 ## TypeScript 
 
+- [remotesynth/aws-for-frontend-devs](https://github.com/remotesynth/aws-for-frontend-devs) - A series of examples exploring the AWS primitives needed to deploy a web application to AWS.
+- [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Auth0/Clerk alternative
 - [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground.
 - [Radiergummi/iss-metrics](https://github.com/Radiergummi/iss-metrics) - Observability stack for telemetry data of the International Space Station
