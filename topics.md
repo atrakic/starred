@@ -278,6 +278,7 @@
 
 ## aws 
 
+- [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 - [remotesynth/aws-for-frontend-devs](https://github.com/remotesynth/aws-for-frontend-devs) - A series of examples exploring the AWS primitives needed to deploy a web application to AWS.
 - [localstack-samples/localstack-pro-samples](https://github.com/localstack-samples/localstack-pro-samples) - Sample projects to demonstrate advanced LocalStack features
 - [cn-terraform/terraform-aws-ecs-fargate](https://github.com/cn-terraform/terraform-aws-ecs-fargate) - AWS ECS Fargate Terraform Module
@@ -310,6 +311,8 @@
 
 ## azure 
 
+- [trstringer/az-aks-ssh](https://github.com/trstringer/az-aks-ssh) - SSH into Azure Kubernetes Service (AKS) nodes
+- [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 - [Azure/PSRule.Rules.Azure-quickstart](https://github.com/Azure/PSRule.Rules.Azure-quickstart) - Sample code you can use to quickly start using PSRule for Azure.
 - [clemlesne/scrape-it-now](https://github.com/clemlesne/scrape-it-now) - Web scraper made for AI and simplicity in mind. It runs as a CLI that can be parallelized and outputs high-quality markdown content.
 - [humanitec-architecture/reference-architecture-azure](https://github.com/humanitec-architecture/reference-architecture-azure) - Humanitec Azure Reference Architecture implementation
@@ -621,6 +624,7 @@
 
 ## docker 
 
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 - [wowu/docker-rollout](https://github.com/wowu/docker-rollout) - 🚀 Zero Downtime Deployment for Docker Compose
 - [GitTools/build-images](https://github.com/GitTools/build-images) - Docker build images for GitVersion
@@ -662,6 +666,7 @@
 
 ## documentation 
 
+- [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
@@ -816,6 +821,7 @@
 
 ## go 
 
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [maddalax/htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go + htmx
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 - [yudhasubki/blockqueue](https://github.com/yudhasubki/blockqueue) - BlockQueue is a open source and cost-effective Job Queue with a pub/sub mechanism utilizing SQLite and NutsDB. Support LibSQL by Turso and PostgreSQL
@@ -855,6 +861,7 @@
 
 ## golang 
 
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 - [maddalax/htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go + htmx
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
@@ -1073,6 +1080,9 @@
 
 ## kubernetes 
 
+- [Naman1997/simple-talos-cluster](https://github.com/Naman1997/simple-talos-cluster) - Automated Talos cluster with system extensions in a Proxmox node.
+- [trstringer/az-aks-ssh](https://github.com/trstringer/az-aks-ssh) - SSH into Azure Kubernetes Service (AKS) nodes
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [LukasKnuth/homeserver](https://github.com/LukasKnuth/homeserver) - The FULL configuration of my small RPi based server at home.
@@ -1186,6 +1196,7 @@
 
 ## llm 
 
+- [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - "LightRAG: Simple and Fast Retrieval-Augmented Generation"
 - [neuml/txtchat](https://github.com/neuml/txtchat) - 💭 Retrieval augmented generation (RAG) and language model powered search applications
 - [neuml/rag](https://github.com/neuml/rag) - 🚀 Retrieval Augmented Generation (RAG) with txtai. Combine search and LLMs to find insights with your own data.
 - [SciSharp/LLamaSharp](https://github.com/SciSharp/LLamaSharp) - A C#/.NET library to run LLM (🦙LLaMA/LLaVA) on your local device efficiently.
@@ -1264,6 +1275,7 @@
 
 ## markdown 
 
+- [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [clemlesne/scrape-it-now](https://github.com/clemlesne/scrape-it-now) - Web scraper made for AI and simplicity in mind. It runs as a CLI that can be parallelized and outputs high-quality markdown content.
 - [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - A script to effortlessly extract your entire ChatGPT data export from JSON files to nicely-formatted markdown files.
 
@@ -1378,6 +1390,14 @@
 
 ## others 
 
+- [pomdtr/smallweb](https://github.com/pomdtr/smallweb) - Your Internet Folder
+- [falconcr/codellama-python](https://github.com/falconcr/codellama-python) - This is a PoC about integrating docker + codellama + python in order to apply code review in the pre-commit git hook
+- [MichalStrehovsky/uefimaze](https://github.com/MichalStrehovsky/uefimaze) - Bare-metal bootable graphical maze game in C#
+- [dlenski/what-vpn](https://github.com/dlenski/what-vpn) - Identify servers running various SSL VPNs based on protocol-specific behaviors
+- [jc21/route53-ddns](https://github.com/jc21/route53-ddns) - Update your route53 records dynamically with current IP
+- [nalgeon/codapi](https://github.com/nalgeon/codapi) - Interactive code examples for documentation, education and fun
+- [radiac/nanodjango](https://github.com/radiac/nanodjango) - Full Django in a single file - views, models, API ,with async support. Automatically convert it to a full project.
+- [localstack-samples/sample-ollama-ecs-fargate-alb](https://github.com/localstack-samples/sample-ollama-ecs-fargate-alb) - 
 - [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager
 - [TylerSustare/pocketbase-framework-litestream](https://github.com/TylerSustare/pocketbase-framework-litestream) - A small example using PocketBase as a Go Framework with replication/restoration of SQLite DB with Litestream
 - [Doriandarko/omni-engineer](https://github.com/Doriandarko/omni-engineer) - 
@@ -1744,6 +1764,9 @@
 
 ## python 
 
+- [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) - A database migrations tool for SQLAlchemy.
+- [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
+- [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [neuml/txtchat](https://github.com/neuml/txtchat) - 💭 Retrieval augmented generation (RAG) and language model powered search applications
 - [neuml/rag](https://github.com/neuml/rag) - 🚀 Retrieval Augmented Generation (RAG) with txtai. Combine search and LLMs to find insights with your own data.
 - [neuml/codequestion](https://github.com/neuml/codequestion) - 🔎 Semantic search for developers
@@ -1823,6 +1846,7 @@
 
 ## python3 
 
+- [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time hybrid runtime-static type-checking in pure Python.
 - [harsxv/tinystatus](https://github.com/harsxv/tinystatus) - Tiny status page generated by a Python script
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [s3rius/FastAPI-template](https://github.com/s3rius/FastAPI-template) - Feature rich robust FastAPI template.
@@ -1948,6 +1972,7 @@
 
 ## serverless 
 
+- [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 - [aws-samples/serverless-samples](https://github.com/aws-samples/serverless-samples) - This repository contains samples of Serverless application code.
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [moritzzimmer/terraform-aws-lambda](https://github.com/moritzzimmer/terraform-aws-lambda) - A Terraform module to create AWS Lambda ressources.
@@ -1981,6 +2006,7 @@
 
 ## sql 
 
+- [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) - A database migrations tool for SQLAlchemy.
 - [cathytanimura/sql_book](https://github.com/cathytanimura/sql_book) - Code repository for the book SQL for Data Analysis
 - [IsNemoEqualTrue/monitor-table-change-with-sqltabledependency](https://github.com/IsNemoEqualTrue/monitor-table-change-with-sqltabledependency) - Get SQL Server notification on record table change
 - [explorerhq/sql-explorer](https://github.com/explorerhq/sql-explorer) - SQL reporting that Just Works. Fast, simple, and confusion-free. Write and share queries in a delightful SQL editor, with AI assistance.
@@ -2060,6 +2086,7 @@
 
 ## terraform 
 
+- [Naman1997/simple-talos-cluster](https://github.com/Naman1997/simple-talos-cluster) - Automated Talos cluster with system extensions in a Proxmox node.
 - [cloudposse/test-harness](https://github.com/cloudposse/test-harness) - 🧬 Collection of Makefiles and test scripts to facilitate testing Terraform modules, Kubernetes resources, Helm charts, and more
 - [cn-terraform/terraform-aws-ecs-fargate](https://github.com/cn-terraform/terraform-aws-ecs-fargate) - AWS ECS Fargate Terraform Module
 - [LukasKnuth/homeserver](https://github.com/LukasKnuth/homeserver) - The FULL configuration of my small RPi based server at home.
