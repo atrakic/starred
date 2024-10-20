@@ -92,6 +92,7 @@
 
 ## C# # 
 
+- [MichalStrehovsky/uefimaze](https://github.com/MichalStrehovsky/uefimaze) - Bare-metal bootable graphical maze game in C#
 - [iluvadev/PocketBaseClient](https://github.com/iluvadev/PocketBaseClient) - C# client to interact with a particular PocketBase application: an ORM mapped to your PocketBase server. [This project is in active development. The things described below could change]
 - [EdwinVW/dapr-workshop-csharp](https://github.com/EdwinVW/dapr-workshop-csharp) - Source code for the .NET version of the Dapr workshop (see README for more info).
 - [shahabganji/eda-azure-cosmosdb](https://github.com/shahabganji/eda-azure-cosmosdb) - The source code for the simplified event sourcing example from my talk at Azure Cosmos DB Global User Group
@@ -232,6 +233,10 @@
 
 ## Go 
 
+- [pomdtr/smallweb](https://github.com/pomdtr/smallweb) - Your Internet Folder
+- [jc21/route53-ddns](https://github.com/jc21/route53-ddns) - Update your route53 records dynamically with current IP
+- [nalgeon/codapi](https://github.com/nalgeon/codapi) - Interactive code examples for documentation, education and fun
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager
 - [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 - [maddalax/htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go + htmx
@@ -340,6 +345,7 @@
 
 ## HCL 
 
+- [Naman1997/simple-talos-cluster](https://github.com/Naman1997/simple-talos-cluster) - Automated Talos cluster with system extensions in a Proxmox node.
 - [Azure/terraform-azurerm-avm-ptn-cicd-agents-and-runners](https://github.com/Azure/terraform-azurerm-avm-ptn-cicd-agents-and-runners) - Azure Verified Module for Azure DevOps Agents and GitHub Runners
 - [cn-terraform/terraform-aws-ecs-fargate](https://github.com/cn-terraform/terraform-aws-ecs-fargate) - AWS ECS Fargate Terraform Module
 - [useblacksmith/remote-buildkit-terraform](https://github.com/useblacksmith/remote-buildkit-terraform) - 
@@ -576,6 +582,15 @@
 
 ## Python 
 
+- [falconcr/codellama-python](https://github.com/falconcr/codellama-python) - This is a PoC about integrating docker + codellama + python in order to apply code review in the pre-commit git hook
+- [dlenski/what-vpn](https://github.com/dlenski/what-vpn) - Identify servers running various SSL VPNs based on protocol-specific behaviors
+- [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time hybrid runtime-static type-checking in pure Python.
+- [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - "LightRAG: Simple and Fast Retrieval-Augmented Generation"
+- [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
+- [radiac/nanodjango](https://github.com/radiac/nanodjango) - Full Django in a single file - views, models, API ,with async support. Automatically convert it to a full project.
+- [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) - A database migrations tool for SQLAlchemy.
+- [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
+- [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [neuml/txtchat](https://github.com/neuml/txtchat) - 💭 Retrieval augmented generation (RAG) and language model powered search applications
 - [neuml/rag](https://github.com/neuml/rag) - 🚀 Retrieval Augmented Generation (RAG) with txtai. Combine search and LLMs to find insights with your own data.
 - [neuml/codequestion](https://github.com/neuml/codequestion) - 🔎 Semantic search for developers
@@ -768,6 +783,8 @@
 
 ## Shell 
 
+- [trstringer/az-aks-ssh](https://github.com/trstringer/az-aks-ssh) - SSH into Azure Kubernetes Service (AKS) nodes
+- [localstack-samples/sample-ollama-ecs-fargate-alb](https://github.com/localstack-samples/sample-ollama-ecs-fargate-alb) - 
 - [k8spatterns/examples](https://github.com/k8spatterns/examples) - Examples for "Kubernetes Patterns - Reusable Elements for Designing Cloud Native Applications", Second Edition
 - [AxelTheGerman/dokku-litestream](https://github.com/AxelTheGerman/dokku-litestream) - 
 - [wowu/docker-rollout](https://github.com/wowu/docker-rollout) - 🚀 Zero Downtime Deployment for Docker Compose
