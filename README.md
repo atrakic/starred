@@ -91,6 +91,8 @@
 
 ## C# # 
 
+- [pdevito3/craftsman](https://github.com/pdevito3/craftsman) - A .NET scaffolding tool to help you stop worrying about boilerplate and focus on your business logic 🚀
+- [dotnet/docker-tools](https://github.com/dotnet/docker-tools) - This is a repo to house some common tools for our various docker repos.
 - [gothinkster/aspnetcore-realworld-example-app](https://github.com/gothinkster/aspnetcore-realworld-example-app) - ASP.NET Core backend implementation for RealWorld
 - [cornflourblue/dotnet-6-registration-login-api](https://github.com/cornflourblue/dotnet-6-registration-login-api) - .NET 6.0 API for User Management, Authentication and Registration
 - [MichalStrehovsky/uefimaze](https://github.com/MichalStrehovsky/uefimaze) - Bare-metal bootable graphical maze game in C#
@@ -136,7 +138,7 @@
 - [karlospn/dotnet-strategy-pattern-using-dependency-injection](https://github.com/karlospn/dotnet-strategy-pattern-using-dependency-injection) - This repository contains an example that shows how easy is to build a Strategy pattern using dependency injection with .NET
 - [bytefish/ElasticsearchCodeSearch](https://github.com/bytefish/ElasticsearchCodeSearch) - Index and Search Git Repositories using Elasticsearch
 - [karlospn/opentelemetry-metrics-demo](https://github.com/karlospn/opentelemetry-metrics-demo) - Example about how to use OpenTelemetry metrics on a .NET app and how to visualize those metrics using Prometheus and Grafana.
-- [dotnet/aspire](https://github.com/dotnet/aspire) - An opinionated, cloud ready stack for building observable, production ready, distributed applications in .NET
+- [dotnet/aspire](https://github.com/dotnet/aspire) - Tools, templates, and packages to accelerate building observable, production-ready apps
 - [cornflourblue/dotnet-6-crud-api](https://github.com/cornflourblue/dotnet-6-crud-api) - .NET 6.0 - CRUD API Example
 - [microsoft/typechat.net](https://github.com/microsoft/typechat.net) - 
 - [NetCoreApps/GPTMeetingAgent](https://github.com/NetCoreApps/GPTMeetingAgent) - A pattern for GPT Agent integration with ServiceStack services
@@ -393,7 +395,6 @@
 ## HTML 
 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
-- [clemlesne/scrape-it-now](https://github.com/clemlesne/scrape-it-now) - Web scraper made for AI and simplicity in mind. It runs as a CLI that can be parallelized and outputs high-quality markdown content.
 - [mathieu-benoit/mathieu-benoit.github.io](https://github.com/mathieu-benoit/mathieu-benoit.github.io) - The content of my blog hosted at: https://mathieu-benoit.github.io/
 - [allamand/ecs-cats-and-dogs](https://github.com/allamand/ecs-cats-and-dogs) - 
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
@@ -472,7 +473,7 @@
 - [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: open-source AI-powered Software Developer for small features and bug fixes.
-- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [cloudanum/50Algorithms](https://github.com/cloudanum/50Algorithms) - 
 - [davidgasquez/gitcoin-grants-data-portal](https://github.com/davidgasquez/gitcoin-grants-data-portal) - 🌲 Open source, serverless, and local-first data hub for Gitcoin Grants data!
 - [dotnet/beginner-series](https://github.com/dotnet/beginner-series) - .NET for beginner's videos, code, and links.
@@ -607,6 +608,7 @@
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
+- [clemlesne/scrape-it-now](https://github.com/clemlesne/scrape-it-now) - Web scraper made for AI and simplicity in mind. It runs as a CLI that can be parallelized and outputs high-quality markdown content.
 - [aws-samples/serverless-samples](https://github.com/aws-samples/serverless-samples) - This repository contains samples of Serverless application code.
 - [aws-samples/aws2tf](https://github.com/aws-samples/aws2tf) - aws2tf - automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code.
 - [opslane/opslane](https://github.com/opslane/opslane) - Making on-call suck less for engineers
@@ -804,7 +806,7 @@
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
-- [grafana/docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm) - 
+- [grafana/docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm) - OpenTelemetry backend in a Docker image
 - [learnk8s/bash-ingress](https://github.com/learnk8s/bash-ingress) - 
 - [clowdhaus/terraform-aws-module-template](https://github.com/clowdhaus/terraform-aws-module-template) - Terraform module which creates &lt;TODO&gt; resources on AWS
 - [argo-universe/app-configs](https://github.com/argo-universe/app-configs) - This repo contains the configuration file for the microservices
