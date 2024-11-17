@@ -206,7 +206,6 @@
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [open-telemetry/opentelemetry-dotnet-instrumentation](https://github.com/open-telemetry/opentelemetry-dotnet-instrumentation) - OpenTelemetry .NET Automatic Instrumentation
 - [the-rules-of-programming/examples](https://github.com/the-rules-of-programming/examples) - 
 
@@ -289,6 +288,7 @@
 - [mccutchen/go-httpbin](https://github.com/mccutchen/go-httpbin) - A reasonably complete and well-tested golang port of httpbin, with zero dependencies outside the go stdlib.
 - [pinggg/pingd](https://github.com/pinggg/pingd) - Ping monitoring engine used in https://ping.gg
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [benhoyt/goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go, with CSV support
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
@@ -353,6 +353,7 @@
 
 ## HCL 
 
+- [Azure/terraform-azurerm-avm-res-web-site](https://github.com/Azure/terraform-azurerm-avm-res-web-site) - 
 - [Naman1997/simple-talos-cluster](https://github.com/Naman1997/simple-talos-cluster) - Automated Talos cluster with system extensions in a Proxmox node.
 - [Azure/terraform-azurerm-avm-ptn-cicd-agents-and-runners](https://github.com/Azure/terraform-azurerm-avm-ptn-cicd-agents-and-runners) - Azure Verified Module for Azure DevOps Agents and GitHub Runners
 - [cn-terraform/terraform-aws-ecs-fargate](https://github.com/cn-terraform/terraform-aws-ecs-fargate) - AWS ECS Fargate Terraform Module
@@ -625,7 +626,7 @@
 - [explorerhq/sql-explorer](https://github.com/explorerhq/sql-explorer) - SQL reporting that Just Works. Fast, simple, and confusion-free. Write and share queries in a delightful SQL editor, with AI assistance.
 - [rhythm-patel/sqlalchemy-workshop](https://github.com/rhythm-patel/sqlalchemy-workshop) - SQLAlchemy asyncio workshop demo project with SQLite for PyCon US 2024 and PyCon Italy 2024
 - [Azure-Samples/graphrag-accelerator](https://github.com/Azure-Samples/graphrag-accelerator) - One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The all-in-one solution for RAG. Build, scale, and deploy state of the art Retrieval-Augmented Generation applications
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The most advanced Retrieval-Augmented Generation (RAG) system, containerized and RESTful
 - [erezsh/reladiff](https://github.com/erezsh/reladiff) - High-performance diffing of large datasets across databases
 - [JohnTheNerd/homeassistant-llm-prompt-generator](https://github.com/JohnTheNerd/homeassistant-llm-prompt-generator) - 
 - [susam/mintotp](https://github.com/susam/mintotp) - Minimal TOTP generator in 20 lines of Python
@@ -790,6 +791,7 @@
 
 ## Shell 
 
+- [Azure/tfmod-scaffold](https://github.com/Azure/tfmod-scaffold) - 
 - [trstringer/az-aks-ssh](https://github.com/trstringer/az-aks-ssh) - SSH into Azure Kubernetes Service (AKS) nodes
 - [localstack-samples/sample-ollama-ecs-fargate-alb](https://github.com/localstack-samples/sample-ollama-ecs-fargate-alb) - 
 - [k8spatterns/examples](https://github.com/k8spatterns/examples) - Examples for "Kubernetes Patterns - Reusable Elements for Designing Cloud Native Applications", Second Edition
