@@ -29,6 +29,7 @@
 - [Lua](#lua)
 - [MDX](#mdx)
 - [Makefile](#makefile)
+- [Mustache](#mustache)
 - [Others](#others)
 - [PowerShell](#powershell)
 - [Pug](#pug)
@@ -37,6 +38,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [SQL](#sql)
 - [Scala](#scala)
 - [Shell](#shell)
 - [Smarty](#smarty)
@@ -92,6 +94,10 @@
 
 ## C# # 
 
+- [erwinkramer/bank-api](https://github.com/erwinkramer/bank-api) - The Bank API is a design reference project suitable to bootstrap development for a compliant and modern API.
+- [SimonCropp/Delta](https://github.com/SimonCropp/Delta) - An approach to implementing a 304 Not Modified leveraging SqlServer change tracking
+- [HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire) - An easy way to perform background job processing in .NET and .NET Core applications. No Windows Service or separate process required
+- [pdevito3/StewardEF](https://github.com/pdevito3/StewardEF) - 🛠️ Simplifies EF management by helping to squash migrations
 - [pdevito3/QueryKit](https://github.com/pdevito3/QueryKit) - 🎛️ QueryKit is a .NET library that makes it easier to query your data by providing a fluent and intuitive syntax for filtering and sorting.
 - [QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF) - QuestPDF is a modern open-source .NET library for PDF document generation. Offering comprehensive layout engine powered by concise and discoverable C# Fluent API. Easily generate PDF reports, invoices
 - [pdevito3/craftsman](https://github.com/pdevito3/craftsman) - A .NET scaffolding tool to help you stop worrying about boilerplate and focus on your business logic 🚀
@@ -437,6 +443,7 @@
 
 ## JavaScript 
 
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [IsNemoEqualTrue/monitor-table-change-with-mvc-signalR-jquery-sqltabledependency-example](https://github.com/IsNemoEqualTrue/monitor-table-change-with-mvc-signalR-jquery-sqltabledependency-example) - Detect record table change with MVC, SignalR, jQuery and SqlTableDependency
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [coder/picopilot](https://github.com/coder/picopilot) - GitHub Copilot in 70 lines of JavaScript
@@ -532,6 +539,10 @@
 - [MartinHeinz/tekton-kickstarter](https://github.com/MartinHeinz/tekton-kickstarter) - Templates, scripts and samples for quickly building CI/CD with Tekton.
 - [aws-samples/eks-blueprints-workloads](https://github.com/aws-samples/eks-blueprints-workloads) - 
 
+## Mustache 
+
+- [porter-dev/porter-charts](https://github.com/porter-dev/porter-charts) - 
+
 ## Others 
 
 - [glasskube/gitops-template](https://github.com/glasskube/gitops-template) - ArgoCD based GitOps template with preconfigured Glasskube Package Manager and an example application.
@@ -595,6 +606,11 @@
 
 ## Python 
 
+- [pygments/pygments](https://github.com/pygments/pygments) - Pygments is a generic syntax highlighter written in Python
+- [Shikha-code36/Restaurant-Monitoring-System](https://github.com/Shikha-code36/Restaurant-Monitoring-System) - Backend system for restaurant management
+- [ben-nour/gists-gone](https://github.com/ben-nour/gists-gone) - A CLI that gives you more granular control over bulk deletion of your Github gists.
+- [posit-dev/py-shiny](https://github.com/posit-dev/py-shiny) - Shiny for Python
+- [DanielFi/sqlite-vm](https://github.com/DanielFi/sqlite-vm) - A simple stack VM implemented in SQLite
 - [Snowflake-Labs/schemachange](https://github.com/Snowflake-Labs/schemachange) - A Database Change Management tool for Snowflake
 - [severian42/GraphRAG-Local-UI](https://github.com/severian42/GraphRAG-Local-UI) - GraphRAG using Local LLMs - Features robust API and multiple apps for Indexing/Prompt Tuning/Query/Chat/Visualizing/Etc. This is meant to be the ultimate GraphRAG/KG local LLM app.
 - [circlemind-ai/fast-graphrag](https://github.com/circlemind-ai/fast-graphrag) - RAG that intelligently adapts to your use case, data, and queries
@@ -797,6 +813,10 @@
 - [sst/guide](https://github.com/sst/guide) - Repo for guide.sst.dev
 - [Azure/reddog-code](https://github.com/Azure/reddog-code) - Source code repository for the reddog demo, brought to you by the Cloud Native Global Black Belt Team.
 
+## SQL 
+
+- [ben-nour/SQL-tips-and-tricks](https://github.com/ben-nour/SQL-tips-and-tricks) - SQL tips and tricks
+
 ## Scala 
 
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
@@ -857,7 +877,6 @@
 
 ## Smarty 
 
-- [porter-dev/porter-charts](https://github.com/porter-dev/porter-charts) - 
 - [aws-samples/eks-blueprints-add-ons](https://github.com/aws-samples/eks-blueprints-add-ons) - 
 - [Obmondo/kubeaid](https://github.com/Obmondo/kubeaid) - KubeAid - Management Suite for Kubernetes using GitOps.
 - [solo-io/gitops-library](https://github.com/solo-io/gitops-library) - gitops examples using argocd, helm, and yaml
@@ -884,6 +903,9 @@
 
 ## TypeScript 
 
+- [aidar-freeed/ai-codereviewer](https://github.com/aidar-freeed/ai-codereviewer) - AI Code Reviewer: Enhance your GitHub workflow with AI-powered code review! Get intelligent feedback and suggestions on pull requests using OpenAI's GPT-4 API, improving code quality and saving develo
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
+- [bluesky-social/statusphere-example-app](https://github.com/bluesky-social/statusphere-example-app) - An example atproto application using ExpressJS and Typescript.
 - [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
 - [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
 - [twinnydotdev/twinny](https://github.com/twinnydotdev/twinny) - The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but completely free and 100% private.
