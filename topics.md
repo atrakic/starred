@@ -28,6 +28,7 @@
 - [chatgpt-api](#chatgpt-api)
 - [cli](#cli)
 - [clojure](#clojure)
+- [code-review](#code-review)
 - [computer-science](#computer-science)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
@@ -177,6 +178,7 @@
 
 ## ai 
 
+- [aidar-freeed/ai-codereviewer](https://github.com/aidar-freeed/ai-codereviewer) - AI Code Reviewer: Enhance your GitHub workflow with AI-powered code review! Get intelligent feedback and suggestions on pull requests using OpenAI's GPT-4 API, improving code quality and saving develo
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [clemlesne/scrape-it-now](https://github.com/clemlesne/scrape-it-now) - Web scraper made for AI and simplicity in mind. It runs as a CLI that can be parallelized and outputs high-quality markdown content.
@@ -230,6 +232,7 @@
 
 ## api 
 
+- [erwinkramer/bank-api](https://github.com/erwinkramer/bank-api) - The Bank API is a design reference project suitable to bootstrap development for a compliant and modern API.
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
@@ -383,6 +386,7 @@
 
 ## backend 
 
+- [Shikha-code36/Restaurant-Monitoring-System](https://github.com/Shikha-code36/Restaurant-Monitoring-System) - Backend system for restaurant management
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
@@ -449,6 +453,10 @@
 ## clojure 
 
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
+
+## code-review 
+
+- [aidar-freeed/ai-codereviewer](https://github.com/aidar-freeed/ai-codereviewer) - AI Code Reviewer: Enhance your GitHub workflow with AI-powered code review! Get intelligent feedback and suggestions on pull requests using OpenAI's GPT-4 API, improving code quality and saving develo
 
 ## computer-science 
 
@@ -564,6 +572,7 @@
 
 ## database 
 
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite
 - [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator built on top of NATS
 - [IsNemoEqualTrue/monitor-table-change-with-sqltabledependency](https://github.com/IsNemoEqualTrue/monitor-table-change-with-sqltabledependency) - Get SQL Server notification on record table change
@@ -593,6 +602,7 @@
 
 ## deno 
 
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [JLCarveth/nutty](https://github.com/JLCarveth/nutty) - A very simple HTTP server, and a paste server implementation.
 - [polyseam/cndi](https://github.com/polyseam/cndi) - Self-Host Cloud-Native Apps with the Ease of PaaS
 
@@ -701,6 +711,7 @@
 
 ## dotnet 
 
+- [HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire) - An easy way to perform background job processing in .NET and .NET Core applications. No Windows Service or separate process required
 - [pdevito3/QueryKit](https://github.com/pdevito3/QueryKit) - 🎛️ QueryKit is a .NET library that makes it easier to query your data by providing a fluent and intuitive syntax for filtering and sorting.
 - [QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF) - QuestPDF is a modern open-source .NET library for PDF document generation. Offering comprehensive layout engine powered by concise and discoverable C# Fluent API. Easily generate PDF reports, invoices
 - [pdevito3/craftsman](https://github.com/pdevito3/craftsman) - A .NET scaffolding tool to help you stop worrying about boilerplate and focus on your business logic 🚀
@@ -788,6 +799,7 @@
 
 ## flask 
 
+- [Shikha-code36/Restaurant-Monitoring-System](https://github.com/Shikha-code36/Restaurant-Monitoring-System) - Backend system for restaurant management
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
 - [Azure-Samples/azure-sql-db-python-rest-api](https://github.com/Azure-Samples/azure-sql-db-python-rest-api) - REST API using Python, Flask and Azure SQL
@@ -839,6 +851,7 @@
 
 ## github 
 
+- [ben-nour/gists-gone](https://github.com/ben-nour/gists-gone) - A CLI that gives you more granular control over bulk deletion of your Github gists.
 - [brminnick/GitTrends](https://github.com/brminnick/GitTrends) - A iOS and Android app to monitor the Views, Clones and Star history of your GitHub repos
 - [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [bridgecrewio/bridgecrew-action](https://github.com/bridgecrewio/bridgecrew-action) - This GitHub Action runs Bridgecrew against infrastructure-as-code, open source packages, container images, and CI/CD configurations to identify misconfigurations, vulnerabilities, and license complian
@@ -1348,6 +1361,7 @@
 
 ## mysql 
 
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [sqlpage/SQLPage](https://github.com/sqlpage/SQLPage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
 - [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
@@ -1390,6 +1404,7 @@
 
 ## nodejs 
 
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
@@ -1408,6 +1423,7 @@
 
 ## openai 
 
+- [aidar-freeed/ai-codereviewer](https://github.com/aidar-freeed/ai-codereviewer) - AI Code Reviewer: Enhance your GitHub workflow with AI-powered code review! Get intelligent feedback and suggestions on pull requests using OpenAI's GPT-4 API, improving code quality and saving develo
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [k8sgpt-ai/k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - Automatic SRE Superpowers within your Kubernetes cluster
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
@@ -1427,6 +1443,12 @@
 
 ## others 
 
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+- [SimonCropp/Delta](https://github.com/SimonCropp/Delta) - An approach to implementing a 304 Not Modified leveraging SqlServer change tracking
+- [posit-dev/py-shiny](https://github.com/posit-dev/py-shiny) - Shiny for Python
+- [DanielFi/sqlite-vm](https://github.com/DanielFi/sqlite-vm) - A simple stack VM implemented in SQLite
+- [bluesky-social/statusphere-example-app](https://github.com/bluesky-social/statusphere-example-app) - An example atproto application using ExpressJS and Typescript.
+- [pdevito3/StewardEF](https://github.com/pdevito3/StewardEF) - 🛠️ Simplifies EF management by helping to squash migrations
 - [Snowflake-Labs/schemachange](https://github.com/Snowflake-Labs/schemachange) - A Database Change Management tool for Snowflake
 - [severian42/GraphRAG-Local-UI](https://github.com/severian42/GraphRAG-Local-UI) - GraphRAG using Local LLMs - Features robust API and multiple apps for Indexing/Prompt Tuning/Query/Chat/Visualizing/Etc. This is meant to be the ultimate GraphRAG/KG local LLM app.
 - [circlemind-ai/fast-graphrag](https://github.com/circlemind-ai/fast-graphrag) - RAG that intelligently adapts to your use case, data, and queries
@@ -1774,6 +1796,7 @@
 
 ## postgresql 
 
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [glasskube/gitops-template](https://github.com/glasskube/gitops-template) - ArgoCD based GitOps template with preconfigured Glasskube Package Manager and an example application.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [allaboutapps/integresql](https://github.com/allaboutapps/integresql) - IntegreSQL manages isolated PostgreSQL databases for your integration tests.
@@ -1818,6 +1841,8 @@
 
 ## python 
 
+- [pygments/pygments](https://github.com/pygments/pygments) - Pygments is a generic syntax highlighter written in Python
+- [Shikha-code36/Restaurant-Monitoring-System](https://github.com/Shikha-code36/Restaurant-Monitoring-System) - Backend system for restaurant management
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) - A database migrations tool for SQLAlchemy.
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
@@ -1901,6 +1926,7 @@
 
 ## python3 
 
+- [Shikha-code36/Restaurant-Monitoring-System](https://github.com/Shikha-code36/Restaurant-Monitoring-System) - Backend system for restaurant management
 - [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time hybrid runtime-static type-checking in pure Python.
 - [harsxv/tinystatus](https://github.com/harsxv/tinystatus) - Tiny status page generated by a Python script
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
@@ -2064,6 +2090,8 @@
 
 ## sql 
 
+- [ben-nour/SQL-tips-and-tricks](https://github.com/ben-nour/SQL-tips-and-tricks) - SQL tips and tricks
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) - A database migrations tool for SQLAlchemy.
 - [cathytanimura/sql_book](https://github.com/cathytanimura/sql_book) - Code repository for the book SQL for Data Analysis
 - [IsNemoEqualTrue/monitor-table-change-with-sqltabledependency](https://github.com/IsNemoEqualTrue/monitor-table-change-with-sqltabledependency) - Get SQL Server notification on record table change
@@ -2099,6 +2127,7 @@
 
 ## sqlite 
 
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite
 - [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
@@ -2190,6 +2219,7 @@
 
 ## typescript 
 
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Auth0/Clerk alternative
