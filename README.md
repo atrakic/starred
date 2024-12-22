@@ -95,6 +95,7 @@
 
 ## C# # 
 
+- [dotnet/extensions](https://github.com/dotnet/extensions) - This repository contains a suite of libraries that provide facilities commonly needed when creating production-ready applications.
 - [dotnet/Scaffolding](https://github.com/dotnet/Scaffolding) - Code generators to speed up development.
 - [erwinkramer/bank-api](https://github.com/erwinkramer/bank-api) - The Bank API is a design reference project suitable to bootstrap development for a compliant and modern API.
 - [SimonCropp/Delta](https://github.com/SimonCropp/Delta) - An approach to implementing a 304 Not Modified leveraging DB change tracking
@@ -366,8 +367,9 @@
 
 ## HCL 
 
+- [hobby-kube/provisioning](https://github.com/hobby-kube/provisioning) - Kubernetes cluster provisioning using Terraform.
+- [aws-ia/terraform-repo-template](https://github.com/aws-ia/terraform-repo-template) - Terraform Module Template
 - [paolosalvatori/aks-crossplane-terraform](https://github.com/paolosalvatori/aks-crossplane-terraform) - This sample deploys and AKS cluster with Terraform and installs Crossplane to the cluster via Helm along with the Azure provider,
-- [Azure-Samples/aks-platform-engineering](https://github.com/Azure-Samples/aks-platform-engineering) - 
 - [gitops-bridge-dev/kubecon-2023-na-argocon](https://github.com/gitops-bridge-dev/kubecon-2023-na-argocon) - GitOps Bridge demo repo for KubeCon/ArgoCon NA 2023
 - [gitops-bridge-dev/terraform-helm-gitops-bridge](https://github.com/gitops-bridge-dev/terraform-helm-gitops-bridge) - Terraform module for GitOps bridge
 - [gitops-bridge-dev/gitops-bridge](https://github.com/gitops-bridge-dev/gitops-bridge) - 
@@ -418,7 +420,6 @@
 
 ## HTML 
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [mathieu-benoit/mathieu-benoit.github.io](https://github.com/mathieu-benoit/mathieu-benoit.github.io) - The content of my blog hosted at: https://mathieu-benoit.github.io/
 - [allamand/ecs-cats-and-dogs](https://github.com/allamand/ecs-cats-and-dogs) - 
@@ -454,6 +455,7 @@
 
 ## JavaScript 
 
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [IsNemoEqualTrue/monitor-table-change-with-mvc-signalR-jquery-sqltabledependency-example](https://github.com/IsNemoEqualTrue/monitor-table-change-with-mvc-signalR-jquery-sqltabledependency-example) - Detect record table change with MVC, SignalR, jQuery and SqlTableDependency
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
@@ -491,10 +493,15 @@
 
 ## Jsonnet 
 
+- [argoproj/argocd-example-apps](https://github.com/argoproj/argocd-example-apps) - Example Apps to Demonstrate Argo CD
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) - A set of Grafana dashboards and Prometheus alerts for Kubernetes.
 
 ## Jupyter Notebook 
 
+- [lepchenkov/What_it_Takes_to_be_a_Python_Expert](https://github.com/lepchenkov/What_it_Takes_to_be_a_Python_Expert) - Bits of code from James Powell lecture on core concepts of python written in four Jupyter notebooks that cover protocol view of python, metaclasses, decorators, generators and context managers.
+- [DAGWorks-Inc/hamilton](https://github.com/DAGWorks-Inc/hamilton) - Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.
+- [Azure-Samples/modern-data-warehouse-dataops](https://github.com/Azure-Samples/modern-data-warehouse-dataops) - DataOps for Microsoft Data Platform technologies. https://aka.ms/dataops-repo
+- [AllgeierSchweiz/aihackers](https://github.com/AllgeierSchweiz/aihackers) - Github Repo for the Fabric AI Hackathon. Feel free to fork and have fun with it.
 - [databricks/docker-spark-iceberg](https://github.com/databricks/docker-spark-iceberg) - 
 - [MicrosoftLearning/mslearn-fabric](https://github.com/MicrosoftLearning/mslearn-fabric) - This repository hosts content related to Microsoft Fabric content on Microsoft Learn.
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
@@ -564,6 +571,7 @@
 
 ## Others 
 
+- [EdwinVW/dapr-workshop](https://github.com/EdwinVW/dapr-workshop) - Workshop that teaches how to apply Dapr to an existing .NET, Java or Python based microservices application.
 - [glasskube/gitops-template](https://github.com/glasskube/gitops-template) - ArgoCD based GitOps template with preconfigured Glasskube Package Manager and an example application.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [dotnet-architecture/eBooks](https://github.com/dotnet-architecture/eBooks) - .NET Architecture e-Books
@@ -624,6 +632,18 @@
 
 ## Python 
 
+- [mkdocs-material/create-blog](https://github.com/mkdocs-material/create-blog) - Create a blog
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
+- [callmesora/llmops-python-package](https://github.com/callmesora/llmops-python-package) - Kickstart your LLMOps initiative with a flexible, robust, and productive Python package.
+- [microsoft/cookiecutter-spacy-fastapi](https://github.com/microsoft/cookiecutter-spacy-fastapi) - Cookiecutter API for creating Custom Skills for Azure Search using Python and Docker
+- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
+- [cruft/cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.
+- [meta-llama/llama-stack](https://github.com/meta-llama/llama-stack) - Composable building blocks to build Llama Apps
+- [Azure-Samples/azure-pipelines-variable-templates](https://github.com/Azure-Samples/azure-pipelines-variable-templates) - This sample Python Web app demonstrates the use of variable template files in Azure Pipelines.
+- [bruin-data/bruin](https://github.com/bruin-data/bruin) - Build data pipelines with SQL and Python, ingest data from different sources, add quality checks, and build end-to-end flows.
+- [ArjanCodes/moneysnake](https://github.com/ArjanCodes/moneysnake) - Python SDK around the Moneybird accounting platform.
+- [LauJohansson/fabric-testing](https://github.com/LauJohansson/fabric-testing) - 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [databricks/pgsqlite](https://github.com/databricks/pgsqlite) - Load sqlite databases into Postgres databases
 - [databricks/mlops-stacks](https://github.com/databricks/mlops-stacks) - This repo provides a customizable stack for starting new ML projects on Databricks that follow production best-practices out of the box.
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
@@ -849,6 +869,9 @@
 
 ## Shell 
 
+- [stefanprodan/gitops-linkerd](https://github.com/stefanprodan/gitops-linkerd) - Progressive Delivery workshop with Linkerd, Flagger and Flux
+- [tobilg/public-cloud-provider-ip-ranges](https://github.com/tobilg/public-cloud-provider-ip-ranges) - Unified datasets for public cloud provider IP ranges. Providers include AWS, Azure, CloudFlare, DigitalOcean, Fastly, Google Cloud and Oracle Cloud.
+- [client9/shlib](https://github.com/client9/shlib) - portable functions for posix shell environments
 - [mproffitt/localstack](https://github.com/mproffitt/localstack) - Run crossplane and localstack in a kind cluster
 - [nh2/internal-contstrained-pki](https://github.com/nh2/internal-contstrained-pki) - Safely shareable TLS root CA for .internal networks using Name Constraints
 - [jonashackt/crossplane-argocd](https://github.com/jonashackt/crossplane-argocd) - Example project showing how to use Crossplane together with ArgoCD
@@ -919,6 +942,7 @@
 
 ## Svelte 
 
+- [gsidhu/buzee-tauri](https://github.com/gsidhu/buzee-tauri) - A superfast full-text search application
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## TSQL 
@@ -933,6 +957,7 @@
 ## TypeScript 
 
 - [aptakube/kubespec.dev](https://github.com/aptakube/kubespec.dev) - Kubernetes Spec Explorer
+- [Azure-Samples/aks-platform-engineering](https://github.com/Azure-Samples/aks-platform-engineering) - 
 - [aidar-freeed/ai-codereviewer](https://github.com/aidar-freeed/ai-codereviewer) - AI Code Reviewer: Enhance your GitHub workflow with AI-powered code review! Get intelligent feedback and suggestions on pull requests using OpenAI's GPT-4 API, improving code quality and saving develo
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [bluesky-social/statusphere-example-app](https://github.com/bluesky-social/statusphere-example-app) - An example atproto application using ExpressJS and Typescript.
