@@ -12,10 +12,12 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
+- [CUE](#cue)
 - [Clojure](#clojure)
 - [Crystal](#crystal)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
+- [F#](#f#)
 - [Go](#go)
 - [Groovy](#groovy)
 - [HCL](#hcl)
@@ -95,6 +97,8 @@
 
 ## C# # 
 
+- [efcore/EFCoreDemos](https://github.com/efcore/EFCoreDemos) - 
+- [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 9, 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contains explanations on all projects.
 - [dotnet/extensions](https://github.com/dotnet/extensions) - This repository contains a suite of libraries that provide facilities commonly needed when creating production-ready applications.
 - [dotnet/Scaffolding](https://github.com/dotnet/Scaffolding) - Code generators to speed up development.
 - [erwinkramer/bank-api](https://github.com/erwinkramer/bank-api) - The Bank API is a design reference project suitable to bootstrap development for a compliant and modern API.
@@ -227,6 +231,10 @@
 - [aws-containers/ecsworkshop](https://github.com/aws-containers/ecsworkshop) - 
 - [Azure/reliable-web-app-pattern-java](https://github.com/Azure/reliable-web-app-pattern-java) - The reliable web app pattern is a set of objectives to help your web application converge on the cloud. This repo contains a reference implementation of a reliable web application for Java.
 
+## CUE 
+
+- [get-glu/gitops-example](https://github.com/get-glu/gitops-example) - An example gitops pipeline held together with Glu
+
 ## Clojure 
 
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
@@ -237,6 +245,7 @@
 
 ## Dockerfile 
 
+- [microsoft/dotnet-framework-docker](https://github.com/microsoft/dotnet-framework-docker) - The repo for the official docker images for .NET Framework on Windows Server Core.
 - [TylerSustare/pocketbase-framework-litestream](https://github.com/TylerSustare/pocketbase-framework-litestream) - A small example using PocketBase as a Go Framework with replication/restoration of SQLite DB with Litestream
 - [RiFi2k/dockerize-your-dev](https://github.com/RiFi2k/dockerize-your-dev) - Docker compose a VM to get LetsEncrypt / NGINX proxy auto provisioning, ELK logging, Prometheus / Grafana monitoring, Portainer GUI, and more...
 - [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker) - Docker images for .NET and the .NET Tools.
@@ -246,8 +255,21 @@
 
 - [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services.
 
+## F# # 
+
+- [MaxGripe/skunk-html](https://github.com/MaxGripe/skunk-html) - Markdown Blog with GitHub Pages
+
 ## Go 
 
+- [grafana/tutorial-environment](https://github.com/grafana/tutorial-environment) - Environment for tutorial excercises
+- [robusta-dev/kubewatch](https://github.com/robusta-dev/kubewatch) - Watch k8s events and trigger Handlers
+- [rancher/local-path-provisioner](https://github.com/rancher/local-path-provisioner) - Dynamically provisioning persistent local storage with Kubernetes
+- [k8spacket/k8spacket](https://github.com/k8spacket/k8spacket) - k8spacket - collects TCP traffic and TLS connection metadata in the Kubernetes cluster using eBPF and visualizes in Grafana
+- [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) - Cloud provider for KIND clusters
+- [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
+- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
+- [bruin-data/bruin](https://github.com/bruin-data/bruin) - Build data pipelines with SQL and Python, ingest data from different sources, add quality checks, and build end-to-end flows.
 - [k8sgpt-ai/k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - Automatic SRE Superpowers within your Kubernetes cluster
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a c
 - [octo-sts/app](https://github.com/octo-sts/app) - A GitHub App that acts like a Security Token Service (STS) for the Github API
@@ -367,6 +389,7 @@
 
 ## HCL 
 
+- [Azure/terraform-azurerm-avm-res-app-containerapp](https://github.com/Azure/terraform-azurerm-avm-res-app-containerapp) - AVM Terraform module for Azure Container Apps
 - [hobby-kube/provisioning](https://github.com/hobby-kube/provisioning) - Kubernetes cluster provisioning using Terraform.
 - [aws-ia/terraform-repo-template](https://github.com/aws-ia/terraform-repo-template) - Terraform Module Template
 - [paolosalvatori/aks-crossplane-terraform](https://github.com/paolosalvatori/aks-crossplane-terraform) - This sample deploys and AKS cluster with Terraform and installs Crossplane to the cluster via Helm along with the Azure provider,
@@ -455,8 +478,10 @@
 
 ## JavaScript 
 
+- [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) - A small application with no dependencies to expose a local folder as an HTTP server. It includes a file explorer and a Markdown renderer.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [IsNemoEqualTrue/monitor-table-change-with-mvc-signalR-jquery-sqltabledependency-example](https://github.com/IsNemoEqualTrue/monitor-table-change-with-mvc-signalR-jquery-sqltabledependency-example) - Detect record table change with MVC, SignalR, jQuery and SqlTableDependency
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [coder/picopilot](https://github.com/coder/picopilot) - GitHub Copilot in 70 lines of JavaScript
@@ -498,6 +523,7 @@
 
 ## Jupyter Notebook 
 
+- [jupyterhub/mybinder.org-deploy](https://github.com/jupyterhub/mybinder.org-deploy) - Deployment config files for mybinder.org
 - [lepchenkov/What_it_Takes_to_be_a_Python_Expert](https://github.com/lepchenkov/What_it_Takes_to_be_a_Python_Expert) - Bits of code from James Powell lecture on core concepts of python written in four Jupyter notebooks that cover protocol view of python, metaclasses, decorators, generators and context managers.
 - [DAGWorks-Inc/hamilton](https://github.com/DAGWorks-Inc/hamilton) - Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.
 - [Azure-Samples/modern-data-warehouse-dataops](https://github.com/Azure-Samples/modern-data-warehouse-dataops) - DataOps for Microsoft Data Platform technologies. https://aka.ms/dataops-repo
@@ -505,7 +531,6 @@
 - [databricks/docker-spark-iceberg](https://github.com/databricks/docker-spark-iceberg) - 
 - [MicrosoftLearning/mslearn-fabric](https://github.com/MicrosoftLearning/mslearn-fabric) - This repository hosts content related to Microsoft Fabric content on Microsoft Learn.
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
-- [Azure/Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 - [mudler/LocalAI-examples](https://github.com/mudler/LocalAI-examples) - LocalAI examples
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
@@ -544,6 +569,7 @@
 
 ## Lua 
 
+- [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 
 ## MDX 
@@ -553,6 +579,7 @@
 
 ## Makefile 
 
+- [cloud-native-skunkworks/raspbernetes](https://github.com/cloud-native-skunkworks/raspbernetes) - A raspberry pi cluster data sheet for parts
 - [localstack-samples/localstack-pro-samples](https://github.com/localstack-samples/localstack-pro-samples) - Sample projects to demonstrate advanced LocalStack features
 - [mathieu-benoit/sail-sharp](https://github.com/mathieu-benoit/sail-sharp) - Sail Sharp - Security best practices with .NET Core & Kubernetes
 - [upbound/platform-ref-aws](https://github.com/upbound/platform-ref-aws) - AWS Reference Platform for Kubernetes + Data Services for use as a starting point in upbound.io to build, run, and operate your own internal cloud platform and offer a self-service console and API to 
@@ -571,6 +598,9 @@
 
 ## Others 
 
+- [dotnet/docs](https://github.com/dotnet/docs) - This repository contains .NET Documentation.
+- [x-real-ip/gitops](https://github.com/x-real-ip/gitops) - GitOps using Kubernetes manifests, Kustomize and ArgoCD.
+- [jupyterhub/action-k3s-helm](https://github.com/jupyterhub/action-k3s-helm) - A GitHub action to install K3S, Calico, and Helm.
 - [EdwinVW/dapr-workshop](https://github.com/EdwinVW/dapr-workshop) - Workshop that teaches how to apply Dapr to an existing .NET, Java or Python based microservices application.
 - [glasskube/gitops-template](https://github.com/glasskube/gitops-template) - ArgoCD based GitOps template with preconfigured Glasskube Package Manager and an example application.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
@@ -616,6 +646,8 @@
 
 ## PowerShell 
 
+- [dotnet/machinelearning-samples](https://github.com/dotnet/machinelearning-samples) - Samples for ML.NET, an open source and cross-platform machine learning framework for .NET.
+- [Azure/Azure-Functions](https://github.com/Azure/Azure-Functions) - 
 - [clemlesne/gitops-version](https://github.com/clemlesne/gitops-version) - Single, releasable, SmVer, GitFlow / GitOps compatible versions. As simple as that.
 - [openiddict/openiddict-samples](https://github.com/openiddict/openiddict-samples) - .NET samples for OpenIddict
 - [Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2](https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2) - An ASP.NET Core Web App which lets sign-in users (including in your org, many orgs, orgs + personal accounts, sovereign clouds) and call Web APIs (including Microsoft Graph)
@@ -632,6 +664,15 @@
 
 ## Python 
 
+- [fabriziosalmi/patterns](https://github.com/fabriziosalmi/patterns) - Automated OWASP CRS and Bad Bot Detection for Caddy, Nginx, Apache, Traefik and HaProxy
+- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
+- [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
+- [jupyterhub/zero-to-jupyterhub-k8s](https://github.com/jupyterhub/zero-to-jupyterhub-k8s) - Helm Chart & Documentation for deploying JupyterHub on Kubernetes
+- [jupyterhub/chartpress](https://github.com/jupyterhub/chartpress) - automate building and publishing images for helm charts
+- [jupyterhub/binderhub](https://github.com/jupyterhub/binderhub) - Run your code in the cloud, with technology so advanced, it feels like magic!
+- [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images
+- [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [mkdocs-material/create-blog](https://github.com/mkdocs-material/create-blog) - Create a blog
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
 - [callmesora/llmops-python-package](https://github.com/callmesora/llmops-python-package) - Kickstart your LLMOps initiative with a flexible, robust, and productive Python package.
@@ -640,13 +681,13 @@
 - [cruft/cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.
 - [meta-llama/llama-stack](https://github.com/meta-llama/llama-stack) - Composable building blocks to build Llama Apps
 - [Azure-Samples/azure-pipelines-variable-templates](https://github.com/Azure-Samples/azure-pipelines-variable-templates) - This sample Python Web app demonstrates the use of variable template files in Azure Pipelines.
-- [bruin-data/bruin](https://github.com/bruin-data/bruin) - Build data pipelines with SQL and Python, ingest data from different sources, add quality checks, and build end-to-end flows.
 - [ArjanCodes/moneysnake](https://github.com/ArjanCodes/moneysnake) - Python SDK around the Moneybird accounting platform.
 - [LauJohansson/fabric-testing](https://github.com/LauJohansson/fabric-testing) - 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [databricks/pgsqlite](https://github.com/databricks/pgsqlite) - Load sqlite databases into Postgres databases
 - [databricks/mlops-stacks](https://github.com/databricks/mlops-stacks) - This repo provides a customizable stack for starting new ML projects on Databricks that follow production best-practices out of the box.
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
+- [Azure/Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 - [giantswarm/app-build-suite](https://github.com/giantswarm/app-build-suite) - A tool to build and release apps for app platform
 - [databricks-industry-solutions/security-analysis-tool](https://github.com/databricks-industry-solutions/security-analysis-tool) - Security Analysis Tool (SAT) analyzes customer's Databricks account and workspace security configurations and provides recommendations that help them follow Databrick's security best practices. When a
 - [andyweaves/system-tables-audit-logs](https://github.com/andyweaves/system-tables-audit-logs) - SQL Queries & Alerts for Databricks System Tables access.audit Logs
@@ -869,6 +910,9 @@
 
 ## Shell 
 
+- [ContainerSSH/examples](https://github.com/ContainerSSH/examples) - ContainerSSH examples
+- [cloud-native-skunkworks/gitops-kubernetes-bootstrap](https://github.com/cloud-native-skunkworks/gitops-kubernetes-bootstrap) - 
+- [Hamburg-Port-Authority/kubernetes-service-catalog](https://github.com/Hamburg-Port-Authority/kubernetes-service-catalog) - Agnostic kubernetes service catalog for all hamburg-port-authority kubernetes clusters
 - [stefanprodan/gitops-linkerd](https://github.com/stefanprodan/gitops-linkerd) - Progressive Delivery workshop with Linkerd, Flagger and Flux
 - [tobilg/public-cloud-provider-ip-ranges](https://github.com/tobilg/public-cloud-provider-ip-ranges) - Unified datasets for public cloud provider IP ranges. Providers include AWS, Azure, CloudFlare, DigitalOcean, Fastly, Google Cloud and Oracle Cloud.
 - [client9/shlib](https://github.com/client9/shlib) - portable functions for posix shell environments
@@ -943,7 +987,6 @@
 ## Svelte 
 
 - [gsidhu/buzee-tauri](https://github.com/gsidhu/buzee-tauri) - A superfast full-text search application
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## TSQL 
 
@@ -956,6 +999,8 @@
 
 ## TypeScript 
 
+- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
+- [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [aptakube/kubespec.dev](https://github.com/aptakube/kubespec.dev) - Kubernetes Spec Explorer
 - [Azure-Samples/aks-platform-engineering](https://github.com/Azure-Samples/aks-platform-engineering) - 
 - [aidar-freeed/ai-codereviewer](https://github.com/aidar-freeed/ai-codereviewer) - AI Code Reviewer: Enhance your GitHub workflow with AI-powered code review! Get intelligent feedback and suggestions on pull requests using OpenAI's GPT-4 API, improving code quality and saving develo
