@@ -202,7 +202,7 @@
 - [App-vNext/Polly](https://github.com/App-vNext/Polly) - Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thr
 - [Xabaril/AspNetCore.Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks) - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
 - [dotnet/roslynator](https://github.com/dotnet/roslynator) - Roslynator is a set of code analysis tools for C#, powered by Roslyn.
-- [platformplatform/PlatformPlatform](https://github.com/platformplatform/PlatformPlatform) - Alpha state. A platform designed for building enterprise-grade, multi-tenant products using Azure, .NET, React, TypeScript, Infrastructure as Code, etc.
+- [platformplatform/PlatformPlatform](https://github.com/platformplatform/PlatformPlatform) - Early state. A platform designed for building enterprise-grade, multi-tenant products using Azure, .NET, React, TypeScript, Infrastructure as Code, etc.
 - [stefanprodan/AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) - ASP.NET Core rate limiting middleware
 - [MoaidHathot/Dumpify](https://github.com/MoaidHathot/Dumpify) - Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's.
 - [Azure/data-api-builder](https://github.com/Azure/data-api-builder) - Data API builder provides modern REST and GraphQL endpoints to your Azure Databases and on-prem stores.
@@ -257,7 +257,7 @@
 
 ## F# # 
 
-- [MaxGripe/skunk-html](https://github.com/MaxGripe/skunk-html) - Markdown Blog with GitHub Pages
+- [MaxGripe/skunk-html](https://github.com/MaxGripe/skunk-html) - 🦨 Markdown Blog with GitHub Pages. Easy setup!
 
 ## Go 
 
@@ -389,6 +389,7 @@
 
 ## HCL 
 
+- [bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices
 - [Azure/terraform-azurerm-avm-res-app-containerapp](https://github.com/Azure/terraform-azurerm-avm-res-app-containerapp) - AVM Terraform module for Azure Container Apps
 - [hobby-kube/provisioning](https://github.com/hobby-kube/provisioning) - Kubernetes cluster provisioning using Terraform.
 - [aws-ia/terraform-repo-template](https://github.com/aws-ia/terraform-repo-template) - Terraform Module Template
@@ -443,6 +444,7 @@
 
 ## HTML 
 
+- [bmtwl/exerciseminimilism](https://github.com/bmtwl/exerciseminimilism) - A small, single html file and browser local storage solution for tracking a fixed, rotating set of daily exercises from one week to the next
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [mathieu-benoit/mathieu-benoit.github.io](https://github.com/mathieu-benoit/mathieu-benoit.github.io) - The content of my blog hosted at: https://mathieu-benoit.github.io/
 - [allamand/ecs-cats-and-dogs](https://github.com/allamand/ecs-cats-and-dogs) - 
@@ -598,6 +600,8 @@
 
 ## Others 
 
+- [bendc/frontend-guidelines](https://github.com/bendc/frontend-guidelines) - Some HTML, CSS and JS best practices.
+- [moklick/frontend-stuff](https://github.com/moklick/frontend-stuff) - 📝 A continuously expanded list of frameworks, libraries and tools I used/want to use for building things on the web. Mostly JavaScript.
 - [dotnet/docs](https://github.com/dotnet/docs) - This repository contains .NET Documentation.
 - [x-real-ip/gitops](https://github.com/x-real-ip/gitops) - GitOps using Kubernetes manifests, Kustomize and ArgoCD.
 - [jupyterhub/action-k3s-helm](https://github.com/jupyterhub/action-k3s-helm) - A GitHub action to install K3S, Calico, and Helm.
@@ -664,7 +668,10 @@
 
 ## Python 
 
-- [fabriziosalmi/patterns](https://github.com/fabriziosalmi/patterns) - Automated OWASP CRS and Bad Bot Detection for Caddy, Nginx, Apache, Traefik and HaProxy
+- [neuml/ragdata](https://github.com/neuml/ragdata) - 📚 Build knowledge bases for RAG
+- [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
+- [rohitg00/s3-file-share-for-free](https://github.com/rohitg00/s3-file-share-for-free) - A modern web application for easily sharing and managing files using Amazon S3 storage with a clean and intuitive user interface.
+- [fabriziosalmi/patterns](https://github.com/fabriziosalmi/patterns) - Automated OWASP CRS and Bad Bot Detection for Nginx, Apache, Traefik and HaProxy
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
