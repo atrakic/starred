@@ -102,6 +102,8 @@
 
 ## C# # 
 
+- [CommunityToolkit/Aspire](https://github.com/CommunityToolkit/Aspire) - A community project with additional components and extensions for .NET Aspire
+- [FastEndpoints/FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - A light-weight REST API development framework for ASP.NET 6 and newer.
 - [AzureAD/microsoft-authentication-library-for-dotnet](https://github.com/AzureAD/microsoft-authentication-library-for-dotnet) - Microsoft Authentication Library (MSAL) for .NET
 - [Azure-Samples/azure-search-openai-demo-csharp](https://github.com/Azure-Samples/azure-search-openai-demo-csharp) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experienc
 - [qdrant/qdrant-dotnet](https://github.com/qdrant/qdrant-dotnet) - Qdrant .Net SDK
@@ -272,6 +274,8 @@
 
 ## Go 
 
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
+- [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [glasskube/distr](https://github.com/glasskube/distr) - Software Distribution Platform - Distr is the easiest way to distribute enterprise software to customer-controlled or shared-responsibility environments.
 - [bernardo-bruning/ollama-copilot](https://github.com/bernardo-bruning/ollama-copilot) - Proxy that allows you to use ollama as a copilot like Github copilot
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
@@ -462,6 +466,7 @@
 
 - [databricks-demos/dbdemos](https://github.com/databricks-demos/dbdemos) - Demos to implement your Databricks Lakehouse
 - [bmtwl/exerciseminimilism](https://github.com/bmtwl/exerciseminimilism) - A small, single html file and browser local storage solution for tracking a fixed, rotating set of daily exercises from one week to the next
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [mathieu-benoit/mathieu-benoit.github.io](https://github.com/mathieu-benoit/mathieu-benoit.github.io) - The content of my blog hosted at: https://mathieu-benoit.github.io/
 - [allamand/ecs-cats-and-dogs](https://github.com/allamand/ecs-cats-and-dogs) - 
@@ -500,6 +505,7 @@
 
 ## JavaScript 
 
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -622,6 +628,7 @@
 ## Mustache 
 
 - [porter-dev/porter-charts](https://github.com/porter-dev/porter-charts) - 
+- [codefresh-contrib/gitops-certification-examples](https://github.com/codefresh-contrib/gitops-certification-examples) - GitOps Certification Level 1 examples
 
 ## Others 
 
@@ -658,7 +665,7 @@
 - [ahmetb/kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - Example recipes for Kubernetes Network Policies that you can just copy paste
 - [stefanprodan/eks-hpa-profile](https://github.com/stefanprodan/eks-hpa-profile) - An eksctl gitops profile for autoscaling with Prometheus metrics on Amazon EKS on AWS Fargate
 - [bridgecrewio/bridgecrew-action](https://github.com/bridgecrewio/bridgecrew-action) - This GitHub Action runs Bridgecrew against infrastructure-as-code, open source packages, container images, and CI/CD configurations to identify misconfigurations, vulnerabilities, and license complian
-- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [dgkanatsios/CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises) - A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation
 - [jbrownlee/Datasets](https://github.com/jbrownlee/Datasets) - Machine learning datasets used in tutorials on MachineLearningMastery.com
 - [paolosalvatori/private-endpoints-topologies](https://github.com/paolosalvatori/private-endpoints-topologies) - The goal of this article is to define a solution for the management of Azure Private Endpoints and Private DNS Zones in a complex hub-and-spoke network topology.
@@ -698,6 +705,9 @@
 
 ## Python 
 
+- [stong/tldw](https://github.com/stong/tldw) - Code for tldw.tube
+- [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
+- [unionai-oss/pandera](https://github.com/unionai-oss/pandera) - A light-weight, flexible, and expressive statistical data testing library
 - [jpwhite3/northwind-SQLite3](https://github.com/jpwhite3/northwind-SQLite3) - SQLite3 version of Microsoft's Northwind Database
 - [Om-Alve/smolGPT](https://github.com/Om-Alve/smolGPT) - 
 - [blackary/st_pages](https://github.com/blackary/st_pages) - An experimental version of Streamlit Multi-Page Apps
@@ -755,7 +765,6 @@
 - [Azure-Samples/azure-pipelines-variable-templates](https://github.com/Azure-Samples/azure-pipelines-variable-templates) - This sample Python Web app demonstrates the use of variable template files in Azure Pipelines.
 - [ArjanCodes/moneysnake](https://github.com/ArjanCodes/moneysnake) - Python SDK around the Moneybird accounting platform.
 - [LauJohansson/fabric-testing](https://github.com/LauJohansson/fabric-testing) - 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [databricks/pgsqlite](https://github.com/databricks/pgsqlite) - Load sqlite databases into Postgres databases
 - [databricks/mlops-stacks](https://github.com/databricks/mlops-stacks) - This repo provides a customizable stack for starting new ML projects on Databricks that follow production best-practices out of the box.
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
@@ -1042,7 +1051,6 @@
 - [fluxcd/flux2-kustomize-helm-example](https://github.com/fluxcd/flux2-kustomize-helm-example) - A GitOps workflow example for multi-env deployments with Flux, Kustomize and Helm.
 - [Azure/arc-cicd-demo-src](https://github.com/Azure/arc-cicd-demo-src) - Example source repo for the Azure Arc-enabled Kubernetes GitOps tutorial
 - [ContainerSolutions/kubernetes-examples](https://github.com/ContainerSolutions/kubernetes-examples) - Minimal self-contained examples of standard Kubernetes features and patterns in YAML
-- [codefresh-contrib/gitops-certification-examples](https://github.com/codefresh-contrib/gitops-certification-examples) - GitOps Certification Level 1 examples
 - [todaywasawesome/oss-apps](https://github.com/todaywasawesome/oss-apps) - Example repo to show GitOps lifecycle from staging to production with canary and blue/green deployments.
 - [fluxcd/flux2-multi-tenancy](https://github.com/fluxcd/flux2-multi-tenancy) - Manage multi-tenant clusters with Flux
 - [github-developer/example-actions-eks-fargate](https://github.com/github-developer/example-actions-eks-fargate) - 
