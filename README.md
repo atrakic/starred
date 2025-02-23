@@ -55,6 +55,7 @@
 - [Vim Script](#vim-script)
 - [Visual Basic 6.0](#visual-basic-6.0)
 - [Vue](#vue)
+- [YAML](#yaml)
 
 ## Awk 
 
@@ -274,6 +275,7 @@
 
 ## Go 
 
+- [ray-project/kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [glasskube/distr](https://github.com/glasskube/distr) - Software Distribution Platform - Distr is the easiest way to distribute enterprise software to customer-controlled or shared-responsibility environments.
@@ -506,7 +508,7 @@
 ## JavaScript 
 
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [IsNemoEqualTrue/monitor-table-change-with-mvc-signalR-jquery-sqltabledependency-example](https://github.com/IsNemoEqualTrue/monitor-table-change-with-mvc-signalR-jquery-sqltabledependency-example) - Detect record table change with MVC, SignalR, jQuery and SqlTableDependency
@@ -535,7 +537,6 @@
 - [Azure/AKS-Construction](https://github.com/Azure/AKS-Construction) - Accelerate your onboarding to AKS with; Helper Web App, bicep templating and CI/CD samples. Flexible & secure AKS baseline implementations in a Microsoft + community maintained reference implementatio
 - [ashleydavis/nodejs-microservices-example](https://github.com/ashleydavis/nodejs-microservices-example) - Example of a monorepo with multiple Node.js microservices (using Docker, Docker-Compose and Kubernetes) that have separate CI/CD pipelines.
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [hashirshoaeb/home](https://github.com/hashirshoaeb/home) - The personal website/portfolio template by Hashir Shoaib. Built using React and Bootstrap.
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 - [cypress-io/cypress-example-recipes](https://github.com/cypress-io/cypress-example-recipes) - Various recipes for testing common scenarios with Cypress
@@ -549,6 +550,7 @@
 
 ## Jupyter Notebook 
 
+- [ray-project/llm-applications](https://github.com/ray-project/llm-applications) - A comprehensive guide to building RAG-based LLM applications for production.
 - [Jcharis/Python-Machine-Learning](https://github.com/Jcharis/Python-Machine-Learning) - Tutorials on Machine Learning and Deep Learning with Python
 - [Jcharis/Machine-Learning-Web-Apps](https://github.com/Jcharis/Machine-Learning-Web-Apps) - Building and Embedding Machine Learning Model into a Web App(With Flask,Streamlit,etc)
 - [mrdbourke/tensorflow-deep-learning](https://github.com/mrdbourke/tensorflow-deep-learning) - All course materials for the Zero to Mastery Deep Learning with TensorFlow course.
@@ -705,6 +707,7 @@
 
 ## Python 
 
+- [twisted/twisted](https://github.com/twisted/twisted) - Event-driven networking engine written in Python.
 - [stong/tldw](https://github.com/stong/tldw) - Code for tldw.tube
 - [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
 - [unionai-oss/pandera](https://github.com/unionai-oss/pandera) - A light-weight, flexible, and expressive statistical data testing library
@@ -745,7 +748,7 @@
 - [swe-bench/SWE-bench](https://github.com/swe-bench/SWE-bench) - SWE-bench [Multimodal]: Can Language Models Resolve Real-world Github Issues?
 - [neuml/ragdata](https://github.com/neuml/ragdata) - 📚 Build knowledge bases for RAG
 - [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
-- [rohitg00/s3-file-share-for-free](https://github.com/rohitg00/s3-file-share-for-free) - A modern web application for easily sharing and managing files using Amazon S3 storage with a clean and intuitive user interface.
+- [rohitg00/s3-file-share-for-free](https://github.com/rohitg00/s3-file-share-for-free) - A modern web application for easily sharing and managing files using any cloud storage providers with a clean and intuitive user interface.
 - [fabriziosalmi/patterns](https://github.com/fabriziosalmi/patterns) - Automated OWASP CRS and Bad Bot Detection for Nginx, Apache, Traefik and HaProxy
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
@@ -932,7 +935,6 @@
 - [mlrun/mlrun](https://github.com/mlrun/mlrun) - MLRun is an open source MLOps platform for quickly building and managing continuous ML applications across their lifecycle. MLRun integrates into your development and CI/CD environment and automates t
 - [kubeflow/pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow
 - [fivexl/terraform-aws-cloudtrail-to-slack](https://github.com/fivexl/terraform-aws-cloudtrail-to-slack) - Parse AWS CloudTrail events and send alerts to Slack for events that match pre-configured rules
-- [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Talos Kubernetes cluster including Flux for GitOps
 - [matiaslindgren/celery-kubernetes-example](https://github.com/matiaslindgren/celery-kubernetes-example) - Small Flask app with scalable, asynchronous backend workers deployed on Kubernetes.
 - [abigailhaddad/dcps_shiny](https://github.com/abigailhaddad/dcps_shiny) - 
 - [aws/aws-eks-best-practices](https://github.com/aws/aws-eks-best-practices) - A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization.
@@ -1087,6 +1089,7 @@
 
 ## TypeScript 
 
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
@@ -1108,7 +1111,7 @@
 - [remotesynth/aws-for-frontend-devs](https://github.com/remotesynth/aws-for-frontend-devs) - A series of examples exploring the AWS primitives needed to deploy a web application to AWS.
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Auth0/Clerk alternative
+- [stack-auth/stack-auth](https://github.com/stack-auth/stack-auth) - Open-source Auth0/Clerk alternative
 - [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground.
 - [Radiergummi/iss-metrics](https://github.com/Radiergummi/iss-metrics) - Observability stack for telemetry data of the International Space Station
 - [ownstats/ownstats](https://github.com/ownstats/ownstats) - Self-hosted web analytics on AWS
@@ -1137,6 +1140,7 @@
 - [pypi-data/website](https://github.com/pypi-data/website) - next.js website powering https://py-code.org/
 - [aws-containers/Airflow-on-Fargate](https://github.com/aws-containers/Airflow-on-Fargate) - 
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [tibdex/github-app-token](https://github.com/tibdex/github-app-token) - Impersonate a GitHub App in a GitHub Action
 - [Azure/k8s-set-context](https://github.com/Azure/k8s-set-context) - GitHub Action for setting context and retrieving Kubeconfig before deploying to Kubernetes clusters
 - [Azure/k8s-create-secret](https://github.com/Azure/k8s-create-secret) - GitHub Action to create Kubernetes cluster secrets
@@ -1161,6 +1165,10 @@
 ## Vue 
 
 - [Azure-Samples/dab-swa-todo](https://github.com/Azure-Samples/dab-swa-todo) - End-to-end Jamstack Todo list application with Data API builder and Static Web Apps
+
+## YAML 
+
+- [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Talos Kubernetes cluster including Flux for GitOps
 
 
 ## License
