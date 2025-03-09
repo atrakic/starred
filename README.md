@@ -263,12 +263,12 @@
 - [microsoft/dotnet-framework-docker](https://github.com/microsoft/dotnet-framework-docker) - The repo for the official docker images for .NET Framework on Windows Server Core.
 - [TylerSustare/pocketbase-framework-litestream](https://github.com/TylerSustare/pocketbase-framework-litestream) - A small example using PocketBase as a Go Framework with replication/restoration of SQLite DB with Litestream
 - [RiFi2k/dockerize-your-dev](https://github.com/RiFi2k/dockerize-your-dev) - Docker compose a VM to get LetsEncrypt / NGINX proxy auto provisioning, ELK logging, Prometheus / Grafana monitoring, Portainer GUI, and more...
-- [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker) - Docker images for .NET and the .NET Tools.
+- [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker) - Official container images for .NET
 - [BretFisher/docker-build-workflow](https://github.com/BretFisher/docker-build-workflow) - A Reusable Workflow of the Docker GitHub Actions
 
 ## Elixir 
 
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
 
 ## F# # 
 
@@ -412,7 +412,6 @@
 
 ## HCL 
 
-- [bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices
 - [Azure/terraform-azurerm-avm-res-app-containerapp](https://github.com/Azure/terraform-azurerm-avm-res-app-containerapp) - AVM Terraform module for Azure Container Apps
 - [hobby-kube/provisioning](https://github.com/hobby-kube/provisioning) - Kubernetes cluster provisioning using Terraform.
 - [aws-ia/terraform-repo-template](https://github.com/aws-ia/terraform-repo-template) - Terraform Module Template
@@ -469,7 +468,6 @@
 
 - [databricks-demos/dbdemos](https://github.com/databricks-demos/dbdemos) - Demos to implement your Databricks Lakehouse
 - [bmtwl/exerciseminimilism](https://github.com/bmtwl/exerciseminimilism) - A small, single html file and browser local storage solution for tracking a fixed, rotating set of daily exercises from one week to the next
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [mathieu-benoit/mathieu-benoit.github.io](https://github.com/mathieu-benoit/mathieu-benoit.github.io) - The content of my blog hosted at: https://mathieu-benoit.github.io/
 - [allamand/ecs-cats-and-dogs](https://github.com/allamand/ecs-cats-and-dogs) - 
@@ -707,6 +705,7 @@
 
 ## Python 
 
+- [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High-Performance Python Compute Engine for Data and AI
 - [Avaiga/demo-drift-detection](https://github.com/Avaiga/demo-drift-detection) - Detecting Drift in a Diabetes Dataset using Taipy
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [twisted/twisted](https://github.com/twisted/twisted) - Event-driven networking engine written in Python.
@@ -726,7 +725,7 @@
 - [daveebbelaar/pydantic-ai-tutorial](https://github.com/daveebbelaar/pydantic-ai-tutorial) - Learn how to build AI agents with PydanticAI
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [instructor-ai/instructor](https://github.com/instructor-ai/instructor) - structured outputs for llms
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/mEkkMXFG
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [simonw/files-to-prompt](https://github.com/simonw/files-to-prompt) - Concatenate a directory full of files into a single prompt for use with LLMs
 - [bartdegoede/python-searchengine](https://github.com/bartdegoede/python-searchengine) - 
@@ -770,6 +769,7 @@
 - [Azure-Samples/azure-pipelines-variable-templates](https://github.com/Azure-Samples/azure-pipelines-variable-templates) - This sample Python Web app demonstrates the use of variable template files in Azure Pipelines.
 - [ArjanCodes/moneysnake](https://github.com/ArjanCodes/moneysnake) - Python SDK around the Moneybird accounting platform.
 - [LauJohansson/fabric-testing](https://github.com/LauJohansson/fabric-testing) - 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [databricks/pgsqlite](https://github.com/databricks/pgsqlite) - Load sqlite databases into Postgres databases
 - [databricks/mlops-stacks](https://github.com/databricks/mlops-stacks) - This repo provides a customizable stack for starting new ML projects on Databricks that follow production best-practices out of the box.
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
@@ -1170,6 +1170,7 @@
 
 ## YAML 
 
+- [bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices
 - [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Talos Kubernetes cluster including Flux for GitOps
 
 
