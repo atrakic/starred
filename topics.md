@@ -123,6 +123,7 @@
 - [nlp](#nlp)
 - [node](#node)
 - [nodejs](#nodejs)
+- [numpy](#numpy)
 - [objective-c](#objective-c)
 - [open-source](#open-source)
 - [openai](#openai)
@@ -183,6 +184,8 @@
 
 ## ai 
 
+- [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High-Performance Python Compute Engine for Data and AI
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [sinanuozdemir/quick-start-guide-to-llms](https://github.com/sinanuozdemir/quick-start-guide-to-llms) - The Official Repo for "Quick Start Guide to Large Language Models"
 - [daveebbelaar/pydantic-ai-tutorial](https://github.com/daveebbelaar/pydantic-ai-tutorial) - Learn how to build AI agents with PydanticAI
@@ -195,6 +198,7 @@
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Replace 'hub' with 'diagram' in any GitHub url to instantly visualize the codebase as an interactive diagram
 - [neuml/ragdata](https://github.com/neuml/ragdata) - 📚 Build knowledge bases for RAG
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+- [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [aidar-freeed/ai-codereviewer](https://github.com/aidar-freeed/ai-codereviewer) - AI Code Reviewer: Enhance your GitHub workflow with AI-powered code review! Get intelligent feedback and suggestions on pull requests using OpenAI's GPT-4 API, improving code quality and saving develo
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [neuml/rag](https://github.com/neuml/rag) - 🚀 Retrieval Augmented Generation (RAG) with txtai. Combine search and LLMs to find insights with your own data.
@@ -210,7 +214,7 @@
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [awaescher/OllamaSharp](https://github.com/awaescher/OllamaSharp) - The easiest way to use the Ollama API in .NET
-- [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: open-source AI-powered Software Developer for small features and bug fixes.
+- [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI coding assistant for JetBrains
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
@@ -233,7 +237,7 @@
 
 ## analytics 
 
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [tom-draper/api-analytics](https://github.com/tom-draper/api-analytics) - Lightweight monitoring and analytics for API frameworks.
 - [bruin-data/bruin](https://github.com/bruin-data/bruin) - Build data pipelines with SQL and Python, ingest data from different sources, add quality checks, and build end-to-end flows.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -274,6 +278,8 @@
 
 ## artificial-intelligence 
 
+- [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High-Performance Python Compute Engine for Data and AI
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [neuml/ragdata](https://github.com/neuml/ragdata) - 📚 Build knowledge bases for RAG
 - [twinnydotdev/twinny](https://github.com/twinnydotdev/twinny) - The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but 100% free.
 - [neuml/rag](https://github.com/neuml/rag) - 🚀 Retrieval Augmented Generation (RAG) with txtai. Combine search and LLMs to find insights with your own data.
@@ -290,6 +296,7 @@
 
 ## aspnet 
 
+- [FastEndpoints/FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - A light-weight REST API development framework for ASP.NET 6 and newer.
 - [json-api-dotnet/JsonApiDotNetCore](https://github.com/json-api-dotnet/JsonApiDotNetCore) - A framework for building JSON:API compliant REST APIs using ASP.NET and Entity Framework Core.
 - [aspnetboilerplate/aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - ASP.NET Boilerplate - Web Application Framework
 - [Azure-Samples/azure-sql-db-sync-api-change-tracking](https://github.com/Azure-Samples/azure-sql-db-sync-api-change-tracking) - Using Azure SQL Change Tracking API to Sync mobile Apps data with the Cloud
@@ -297,6 +304,7 @@
 
 ## automation 
 
+- [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [hobby-kube/provisioning](https://github.com/hobby-kube/provisioning) - Kubernetes cluster provisioning using Terraform.
 - [gitops-bridge-dev/terraform-helm-gitops-bridge](https://github.com/gitops-bridge-dev/terraform-helm-gitops-bridge) - Terraform module for GitOps bridge
@@ -357,7 +365,7 @@
 - [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
 - [aws/aws-app-mesh-examples](https://github.com/aws/aws-app-mesh-examples) - AWS App Mesh is a service mesh that you can use with your microservices to manage service to service communication.
 - [aws-samples/hardeneks](https://github.com/aws-samples/hardeneks) - Runs checks to see if an EKS cluster follows EKS Best Practices.
-- [aws-containers/retail-store-sample-app](https://github.com/aws-containers/retail-store-sample-app) - Sample application for demonstrating container platforms and related technology
+- [aws-containers/retail-store-sample-app](https://github.com/aws-containers/retail-store-sample-app) - 💼 Sample application for demonstrating container platforms and related technology
 
 ## azure 
 
@@ -451,6 +459,7 @@
 
 ## chatbot 
 
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [datvodinh/rag-chatbot](https://github.com/datvodinh/rag-chatbot) - Chat with multiple PDFs locally
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [SciSharp/LLamaSharp](https://github.com/SciSharp/LLamaSharp) - A C#/.NET library to run LLM (🦙LLaMA/LLaVA) on your local device efficiently.
@@ -458,6 +467,7 @@
 
 ## chatgpt 
 
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [Azure-Samples/azure-search-openai-demo-csharp](https://github.com/Azure-Samples/azure-search-openai-demo-csharp) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experienc
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
@@ -520,7 +530,7 @@
 
 ## continuous-integration 
 
-- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
+- [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 
 ## cpp 
@@ -557,7 +567,7 @@
 - [RefactoringGuru/design-patterns-csharp](https://github.com/RefactoringGuru/design-patterns-csharp) - Design Pattern Examples in C#
 - [OmniSharp/omnisharp-vim](https://github.com/OmniSharp/omnisharp-vim) - Vim omnicompletion (intellisense) and more for C#
 - [markjprice/cs12dotnet8](https://github.com/markjprice/cs12dotnet8) - Repository for the Packt Publishing book titled "C# 12 and .NET 8 - Modern Cross-Platform Development Fundamentals" by Mark J. Price
-- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
+- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 9
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [MichalStrehovsky/zerosharp](https://github.com/MichalStrehovsky/zerosharp) - Demo of the potential of C# for systems programming with the .NET native ahead-of-time compilation technology.
 - [aspnetboilerplate/aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - ASP.NET Boilerplate - Web Application Framework
@@ -601,6 +611,7 @@
 
 ## data-science 
 
+- [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High-Performance Python Compute Engine for Data and AI
 - [drivendataorg/cookiecutter-data-science](https://github.com/drivendataorg/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 - [DAGWorks-Inc/hamilton](https://github.com/DAGWorks-Inc/hamilton) - Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
@@ -632,6 +643,7 @@
 
 ## data-visualization 
 
+- [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
@@ -667,6 +679,7 @@
 
 ## deep-learning 
 
+- [ray-project/kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes
 - [mrdbourke/tensorflow-deep-learning](https://github.com/mrdbourke/tensorflow-deep-learning) - All course materials for the Zero to Mastery Deep Learning with TensorFlow course.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
@@ -686,7 +699,6 @@
 ## deployment 
 
 - [run-llama/llama_deploy](https://github.com/run-llama/llama_deploy) - Deploy your agentic worfklows to production
-- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [wowu/docker-rollout](https://github.com/wowu/docker-rollout) - 🚀 Zero Downtime Deployment for Docker Compose
 - [SeldonIO/seldon-core](https://github.com/SeldonIO/seldon-core) - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models
 - [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
@@ -700,7 +712,7 @@
 ## devops 
 
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
-- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
+- [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
 - [Azure-Samples/modern-data-warehouse-dataops](https://github.com/Azure-Samples/modern-data-warehouse-dataops) - DataOps for Microsoft Data Platform technologies. https://aka.ms/dataops-repo
 - [k8sgpt-ai/k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - Automatic SRE Superpowers within your Kubernetes cluster
@@ -733,6 +745,7 @@
 ## django 
 
 - [tom-draper/api-analytics](https://github.com/tom-draper/api-analytics) - Lightweight monitoring and analytics for API frameworks.
+- [getludic/ludic](https://github.com/getludic/ludic) - 🌳 Web Development in Pure Python with Type-Guided Components.
 - [zitadel/example-python-django-oauth](https://github.com/zitadel/example-python-django-oauth) - Example Python Django OAuth API
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 
@@ -747,7 +760,7 @@
 - [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
 - [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images
 - [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
-- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
+- [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
 - [pdevito3/craftsman](https://github.com/pdevito3/craftsman) - A .NET scaffolding tool to help you stop worrying about boilerplate and focus on your business logic 🚀
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
@@ -788,7 +801,7 @@
 - [dockersamples/wordsmith](https://github.com/dockersamples/wordsmith) - Sample project with Docker containers running under Kubernetes
 - [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app) - Example distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes
 - [BretFisher/docker-build-workflow](https://github.com/BretFisher/docker-build-workflow) - A Reusable Workflow of the Docker GitHub Actions
-- [aws-containers/retail-store-sample-app](https://github.com/aws-containers/retail-store-sample-app) - Sample application for demonstrating container platforms and related technology
+- [aws-containers/retail-store-sample-app](https://github.com/aws-containers/retail-store-sample-app) - 💼 Sample application for demonstrating container platforms and related technology
 - [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 
 ## documentation 
@@ -809,6 +822,7 @@
 
 ## dotnet 
 
+- [CommunityToolkit/Aspire](https://github.com/CommunityToolkit/Aspire) - A community project with additional components and extensions for .NET Aspire
 - [AzureAD/microsoft-authentication-library-for-dotnet](https://github.com/AzureAD/microsoft-authentication-library-for-dotnet) - Microsoft Authentication Library (MSAL) for .NET
 - [Azure-Samples/azure-search-openai-demo-csharp](https://github.com/Azure-Samples/azure-search-openai-demo-csharp) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experienc
 - [dotnet/docs](https://github.com/dotnet/docs) - This repository contains .NET Documentation.
@@ -838,7 +852,7 @@
 - [karlospn/opentelemetry-metrics-demo](https://github.com/karlospn/opentelemetry-metrics-demo) - Example about how to use OpenTelemetry metrics on a .NET app and how to visualize those metrics using Prometheus and Grafana.
 - [dotnet/aspire](https://github.com/dotnet/aspire) - Tools, templates, and packages to accelerate building observable, production-ready apps
 - [markjprice/cs12dotnet8](https://github.com/markjprice/cs12dotnet8) - Repository for the Packt Publishing book titled "C# 12 and .NET 8 - Modern Cross-Platform Development Fundamentals" by Mark J. Price
-- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
+- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 9
 - [OpenCodeFoundation/eSchool](https://github.com/OpenCodeFoundation/eSchool) - eSchool Microservice based Solution
 - [dotnet/templating](https://github.com/dotnet/templating) - This repo contains the Template Engine which is used by dotnet new
 - [aspnetboilerplate/aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - ASP.NET Boilerplate - Web Application Framework
@@ -860,7 +874,7 @@
 
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 
 ## electron 
 
@@ -869,7 +883,7 @@
 
 ## elixir 
 
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
 
 ## embedded 
 
@@ -883,7 +897,7 @@
 ## es6 
 
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
-- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 
 ## eslint 
 
@@ -1067,7 +1081,7 @@
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit in Go
 - [lizrice/containers-from-scratch](https://github.com/lizrice/containers-from-scratch) - Writing a container in a few lines of Go code, as seen at DockerCon 2017 and on O'Reilly Safari
-- [aws-containers/retail-store-sample-app](https://github.com/aws-containers/retail-store-sample-app) - Sample application for demonstrating container platforms and related technology
+- [aws-containers/retail-store-sample-app](https://github.com/aws-containers/retail-store-sample-app) - 💼 Sample application for demonstrating container platforms and related technology
 
 ## good-first-issue 
 
@@ -1080,6 +1094,7 @@
 
 ## graphql 
 
+- [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [s3rius/FastAPI-template](https://github.com/s3rius/FastAPI-template) - Feature rich robust FastAPI template.
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
@@ -1090,8 +1105,10 @@
 
 ## hacktoberfest 
 
+- [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
+- [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [apache/iceberg](https://github.com/apache/iceberg) - Apache Iceberg
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
@@ -1115,7 +1132,7 @@
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
-- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
+- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 9
 - [github/issue-metrics](https://github.com/github/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
@@ -1167,6 +1184,7 @@
 
 ## http 
 
+- [twisted/twisted](https://github.com/twisted/twisted) - Event-driven networking engine written in Python.
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
@@ -1199,10 +1217,12 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
 - [Azure/reliable-web-app-pattern-java](https://github.com/Azure/reliable-web-app-pattern-java) - The reliable web app pattern is a set of objectives to help your web application converge on the cloud. This repo contains a reference implementation of a reliable web application for Java.
-- [aws-containers/retail-store-sample-app](https://github.com/aws-containers/retail-store-sample-app) - Sample application for demonstrating container platforms and related technology
+- [aws-containers/retail-store-sample-app](https://github.com/aws-containers/retail-store-sample-app) - 💼 Sample application for demonstrating container platforms and related technology
 
 ## javascript 
 
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [Py-Contributors/AlgorithmsAndDataStructure](https://github.com/Py-Contributors/AlgorithmsAndDataStructure) - Algorithms And DataStructure Implemented In Python, Java & CPP, Give a Star 🌟If it helps you
 - [moklick/frontend-stuff](https://github.com/moklick/frontend-stuff) - 📝 A continuously expanded list of frameworks, libraries and tools I used/want to use for building things on the web. Mostly JavaScript.
 - [maddalax/htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go + htmx
@@ -1213,11 +1233,11 @@
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
-- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [ashleydavis/nodejs-microservices-example](https://github.com/ashleydavis/nodejs-microservices-example) - Example of a monorepo with multiple Node.js microservices (using Docker, Docker-Compose and Kubernetes) that have separate CI/CD pipelines.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
-- [aws-containers/retail-store-sample-app](https://github.com/aws-containers/retail-store-sample-app) - Sample application for demonstrating container platforms and related technology
+- [aws-containers/retail-store-sample-app](https://github.com/aws-containers/retail-store-sample-app) - 💼 Sample application for demonstrating container platforms and related technology
 
 ## jekyll 
 
@@ -1265,6 +1285,9 @@
 
 ## kubernetes 
 
+- [ray-project/kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
+- [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [glasskube/distr](https://github.com/glasskube/distr) - Software Distribution Platform - Distr is the easiest way to distribute enterprise software to customer-controlled or shared-responsibility environments.
 - [bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
@@ -1371,7 +1394,7 @@
 - [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app) - Example distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes
 - [mspnp/aks-baseline](https://github.com/mspnp/aks-baseline) - This is the Azure Kubernetes Service (AKS) Baseline Cluster reference implementation as produced by the Microsoft Azure Architecture Center.
 - [MartinHeinz/tekton-kickstarter](https://github.com/MartinHeinz/tekton-kickstarter) - Templates, scripts and samples for quickly building CI/CD with Tekton.
-- [aws-containers/retail-store-sample-app](https://github.com/aws-containers/retail-store-sample-app) - Sample application for demonstrating container platforms and related technology
+- [aws-containers/retail-store-sample-app](https://github.com/aws-containers/retail-store-sample-app) - 💼 Sample application for demonstrating container platforms and related technology
 - [iximiuz/client-go-examples](https://github.com/iximiuz/client-go-examples) - Collection of mini-programs demonstrating Kubernetes client-go usage.
 - [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 - [awslabs/specctl](https://github.com/awslabs/specctl) - CLI to convert Kubernetes specifications to ECS Fargate and vice-versa
@@ -1396,8 +1419,9 @@
 
 ## llm 
 
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [sinanuozdemir/quick-start-guide-to-llms](https://github.com/sinanuozdemir/quick-start-guide-to-llms) - The Official Repo for "Quick Start Guide to Large Language Models"
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [langchain-ai/langchain-extract](https://github.com/langchain-ai/langchain-extract) - 🦜⛏️ Did you say you like data?
 - [run-llama/llama_deploy](https://github.com/run-llama/llama_deploy) - Deploy your agentic worfklows to production
 - [timescale/vector-cookbook](https://github.com/timescale/vector-cookbook) - Timescale Vector Cookbook. A collection of recipes to build applications with LLMs using PostgreSQL and Timescale Vector.
@@ -1405,7 +1429,7 @@
 - [timescale/pgai](https://github.com/timescale/pgai) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
 - [neuml/ragdata](https://github.com/neuml/ragdata) - 📚 Build knowledge bases for RAG
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - "LightRAG: Simple and Fast Retrieval-Augmented Generation"
@@ -1433,7 +1457,7 @@
 
 ## login 
 
-- [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Auth0/Clerk alternative
+- [stack-auth/stack-auth](https://github.com/stack-auth/stack-auth) - Open-source Auth0/Clerk alternative
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 
 ## low-code 
@@ -1452,6 +1476,10 @@
 
 ## machine-learning 
 
+- [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High-Performance Python Compute Engine for Data and AI
+- [ray-project/llm-applications](https://github.com/ray-project/llm-applications) - A comprehensive guide to building RAG-based LLM applications for production.
+- [ray-project/kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
 - [sinanuozdemir/quick-start-guide-to-llms](https://github.com/sinanuozdemir/quick-start-guide-to-llms) - The Official Repo for "Quick Start Guide to Large Language Models"
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
@@ -1522,7 +1550,7 @@
 
 ## monitoring 
 
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [harsxv/tinystatus](https://github.com/harsxv/tinystatus) - Tiny status page generated by a Python script
 - [opslane/opslane](https://github.com/opslane/opslane) - Making on-call suck less for engineers
@@ -1567,7 +1595,7 @@
 ## nextjs 
 
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Auth0/Clerk alternative
+- [stack-auth/stack-auth](https://github.com/stack-auth/stack-auth) - Open-source Auth0/Clerk alternative
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [codingforentrepreneurs/ai-travel-agent](https://github.com/codingforentrepreneurs/ai-travel-agent) - Learn to create an AI Travel Agent with FastAPI, Next.js, MariaDB, MindsDB, OpenAI, and more!
 
@@ -1591,13 +1619,19 @@
 
 ## nodejs 
 
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [ashleydavis/nodejs-microservices-example](https://github.com/ashleydavis/nodejs-microservices-example) - Example of a monorepo with multiple Node.js microservices (using Docker, Docker-Compose and Kubernetes) that have separate CI/CD pipelines.
+
+## numpy 
+
+- [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High-Performance Python Compute Engine for Data and AI
+- [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
 
 ## objective-c 
 
@@ -1605,7 +1639,7 @@
 
 ## open-source 
 
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [Py-Contributors/AlgorithmsAndDataStructure](https://github.com/Py-Contributors/AlgorithmsAndDataStructure) - Algorithms And DataStructure Implemented In Python, Java & CPP, Give a Star 🌟If it helps you
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
@@ -1614,7 +1648,9 @@
 
 ## openai 
 
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- [ray-project/llm-applications](https://github.com/ray-project/llm-applications) - A comprehensive guide to building RAG-based LLM applications for production.
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [instructor-ai/instructor](https://github.com/instructor-ai/instructor) - structured outputs for llms
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
 - [Azure-Samples/azure-search-openai-demo-csharp](https://github.com/Azure-Samples/azure-search-openai-demo-csharp) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experienc
@@ -1642,6 +1678,8 @@
 
 ## others 
 
+- [Avaiga/demo-drift-detection](https://github.com/Avaiga/demo-drift-detection) - Detecting Drift in a Diabetes Dataset using Taipy
+- [stong/tldw](https://github.com/stong/tldw) - Code for tldw.tube
 - [vfarcic/crossplane-gh](https://github.com/vfarcic/crossplane-gh) - 
 - [microsoft/aitour-generative-ai-in-azure](https://github.com/microsoft/aitour-generative-ai-in-azure) - 
 - [n8n-io/n8n-hosting](https://github.com/n8n-io/n8n-hosting) - Example of self-hosting n8n in various environments like docker, kubernetes, etc.
@@ -1657,7 +1695,7 @@
 - [flight505/Lightrag_test_app](https://github.com/flight505/Lightrag_test_app) - 
 - [microsoft/prompty](https://github.com/microsoft/prompty) - Prompty makes it easy to create, manage, debug, and evaluate LLM prompts for your AI applications.  Prompty is an asset class and format for LLM prompts designed to enhance observability, understandab
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/mEkkMXFG
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [simonw/files-to-prompt](https://github.com/simonw/files-to-prompt) - Concatenate a directory full of files into a single prompt for use with LLMs
 - [Evidlo/sms_llm](https://github.com/Evidlo/sms_llm) - Connect Android SMS conversations to Ollama through MQTT
@@ -1679,9 +1717,9 @@
 - [qdrant/qdrant_demo](https://github.com/qdrant/qdrant_demo) - Demo of the neural semantic search built with Qdrant
 - [qdrant/qdrant-dotnet](https://github.com/qdrant/qdrant-dotnet) - Qdrant .Net SDK
 - [Kaggle/docker-python](https://github.com/Kaggle/docker-python) - Kaggle Python docker image
-- [swe-bench/SWE-bench](https://github.com/swe-bench/SWE-bench) - SWE-bench [Multimodal]: Can Language Models Resolve Real-world Github Issues?
+- [SWE-bench/SWE-bench](https://github.com/SWE-bench/SWE-bench) - SWE-bench [Multimodal]: Can Language Models Resolve Real-world Github Issues?
 - [bendc/frontend-guidelines](https://github.com/bendc/frontend-guidelines) - Some HTML, CSS and JS best practices.
-- [rohitg00/s3-file-share-for-free](https://github.com/rohitg00/s3-file-share-for-free) - A modern web application for easily sharing and managing files using Amazon S3 storage with a clean and intuitive user interface.
+- [rohitg00/s3-file-share-for-free](https://github.com/rohitg00/s3-file-share-for-free) - A modern web application for easily sharing and managing files using any cloud storage providers with a clean and intuitive user interface.
 - [bmtwl/exerciseminimilism](https://github.com/bmtwl/exerciseminimilism) - A small, single html file and browser local storage solution for tracking a fixed, rotating set of daily exercises from one week to the next
 - [fabriziosalmi/patterns](https://github.com/fabriziosalmi/patterns) - Automated OWASP CRS and Bad Bot Detection for Nginx, Apache, Traefik and HaProxy
 - [efcore/EFCoreDemos](https://github.com/efcore/EFCoreDemos) - 
@@ -1954,7 +1992,7 @@
 - [GuillaumeFalourd/poc-github-actions](https://github.com/GuillaumeFalourd/poc-github-actions) - Various proofs of concept examples using Github Actions 🤖
 - [Azure/review-checklists](https://github.com/Azure/review-checklists) - This repo contains code and examples to operationalize Azure review checklists.
 - [Apress/Kubernetes-Programming-with-Go-by-Philippe-Martin](https://github.com/Apress/Kubernetes-Programming-with-Go-by-Philippe-Martin) - Kubernetes Programming with Go by Philippe Martin
-- [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker) - Docker images for .NET and the .NET Tools.
+- [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker) - Official container images for .NET
 - [Youssef-Harby/OvertureMapsDownloader](https://github.com/Youssef-Harby/OvertureMapsDownloader) - Overture Maps Downloader simplifies geospatial data manipulation by integrating the powerful DuckDB, Dask DataFrames, and GDAL/OGR open source tools.
 - [crossbowerbt/awk-webserver](https://github.com/crossbowerbt/awk-webserver) - A simple webserver, written in GNU awk, that supports directory listing and download of file from the directory where it is launched
 - [exchangeratesapi/exchangeratesapi](https://github.com/exchangeratesapi/exchangeratesapi) - Exchange Rates API
@@ -2115,7 +2153,7 @@
 
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
-- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ## project-management 
@@ -2128,6 +2166,10 @@
 
 ## python 
 
+- [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High-Performance Python Compute Engine for Data and AI
+- [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
+- [twisted/twisted](https://github.com/twisted/twisted) - Event-driven networking engine written in Python.
+- [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
 - [lukasmasuch/streamlit-pydantic](https://github.com/lukasmasuch/streamlit-pydantic) - 🪄 Auto-generate Streamlit UI from Pydantic Models and Dataclasses.
 - [daveebbelaar/pydantic-ai-tutorial](https://github.com/daveebbelaar/pydantic-ai-tutorial) - Learn how to build AI agents with PydanticAI
 - [instructor-ai/instructor](https://github.com/instructor-ai/instructor) - structured outputs for llms
@@ -2276,7 +2318,7 @@
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Auth0/Clerk alternative
+- [stack-auth/stack-auth](https://github.com/stack-auth/stack-auth) - Open-source Auth0/Clerk alternative
 - [porter-dev/porter-archive](https://github.com/porter-dev/porter-archive) - Kubernetes powered PaaS that runs in your own cloud.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
@@ -2332,6 +2374,8 @@
 
 ## scikit-learn 
 
+- [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High-Performance Python Compute Engine for Data and AI
+- [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 
@@ -2360,7 +2404,7 @@
 ## self-hosted 
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -2422,6 +2466,7 @@
 
 ## sql 
 
+- [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High-Performance Python Compute Engine for Data and AI
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [bruin-data/bruin](https://github.com/bruin-data/bruin) - Build data pipelines with SQL and Python, ingest data from different sources, add quality checks, and build end-to-end flows.
@@ -2437,7 +2482,7 @@
 - [sqlpage/SQLPage](https://github.com/sqlpage/SQLPage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
 - [nalgeon/sqlime](https://github.com/nalgeon/sqlime) - Online SQLite playground
 - [gvwilson/sql-tutorial](https://github.com/gvwilson/sql-tutorial) - The Querynomicon: An Introduction to SQL for Wary Data Scientists
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
@@ -2471,7 +2516,7 @@
 - [sqlpage/SQLPage](https://github.com/sqlpage/SQLPage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
 - [nalgeon/sqlime](https://github.com/nalgeon/sqlime) - Online SQLite playground
 - [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
@@ -2549,6 +2594,7 @@
 
 ## testing 
 
+- [unionai-oss/pandera](https://github.com/unionai-oss/pandera) - A light-weight, flexible, and expressive statistical data testing library
 - [letsencrypt/pebble](https://github.com/letsencrypt/pebble) - A miniature version of Boulder, Pebble is a small RFC 8555 ACME test server not suited for a production certificate authority.
 - [testcontainers/testcontainers-dotnet](https://github.com/testcontainers/testcontainers-dotnet) - A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
@@ -2561,12 +2607,13 @@
 
 ## typescript 
 
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
-- [stack-auth/stack](https://github.com/stack-auth/stack) - Open-source Auth0/Clerk alternative
+- [stack-auth/stack-auth](https://github.com/stack-auth/stack-auth) - Open-source Auth0/Clerk alternative
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
