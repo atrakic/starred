@@ -49,6 +49,7 @@
 - [Smarty](#smarty)
 - [Starlark](#starlark)
 - [Svelte](#svelte)
+- [Swift](#swift)
 - [TSQL](#tsql)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -67,6 +68,8 @@
 
 ## Bicep 
 
+- [microsoft/Deploy-Your-AI-Application-In-Production](https://github.com/microsoft/Deploy-Your-AI-Application-In-Production) - A deployment of a secure, extensible and integrated environment for running AI Foundry workloads in Production. It simplifies the process of including essential Azure services necessary to run mission
+- [microsoft/build-your-first-agent-with-azure-ai-agent-service-workshop](https://github.com/microsoft/build-your-first-agent-with-azure-ai-agent-service-workshop) - Build your first agent with Azure AI Agent Service Workshop
 - [Azure-Samples/azure-postgres-pgvector-python](https://github.com/Azure-Samples/azure-postgres-pgvector-python) - Deploy an Azure PostgreSQL server with Entra authentication and use it from Python.
 - [Azure/PSRule.Rules.Azure-quickstart](https://github.com/Azure/PSRule.Rules.Azure-quickstart) - Sample code you can use to quickly start using PSRule for Azure.
 - [Azure-Samples/pubsub-dapr-csharp-servicebus](https://github.com/Azure-Samples/pubsub-dapr-csharp-servicebus) - A complete microservice application featuring Dapr Pub-Sub, deployed to Azure Container Apps and Azure Service Bus Topics with dead-lettering support.
@@ -110,7 +113,7 @@
 - [Azure-Samples/azure-search-openai-demo-csharp](https://github.com/Azure-Samples/azure-search-openai-demo-csharp) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experienc
 - [qdrant/qdrant-dotnet](https://github.com/qdrant/qdrant-dotnet) - Qdrant .Net SDK
 - [efcore/EFCoreDemos](https://github.com/efcore/EFCoreDemos) - 
-- [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 9, 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contains explanations on all projects.
+- [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 10 Preview 2, 9, 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contains explanations on all projects.
 - [dotnet/extensions](https://github.com/dotnet/extensions) - This repository contains a suite of libraries that provide facilities commonly needed when creating production-ready applications.
 - [dotnet/Scaffolding](https://github.com/dotnet/Scaffolding) - Code generators to speed up development.
 - [erwinkramer/bank-api](https://github.com/erwinkramer/bank-api) - The Bank API is a design reference project suitable to bootstrap development for a compliant and modern API.
@@ -477,7 +480,6 @@
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
 - [microsoft/Security-101](https://github.com/microsoft/Security-101) - 8 Lessons, Kick-start Your Cybersecurity Learning.
-- [gvwilson/sql-tutorial](https://github.com/gvwilson/sql-tutorial) - The Querynomicon: An Introduction to SQL for Wary Data Scientists
 - [SeldonIO/seldon-core](https://github.com/SeldonIO/seldon-core) - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models
 - [dotnet/blazor-samples](https://github.com/dotnet/blazor-samples) - 
 - [MicrosoftDocs/mslearn-tailspin-spacegame-web-deploy](https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web-deploy) - Code used in Microsoft Learn modules to support Azure DevOps
@@ -505,6 +507,8 @@
 
 ## JavaScript 
 
+- [HermanMartinus/bearlytics](https://github.com/HermanMartinus/bearlytics) - 
+- [christian-fei/my-yt](https://github.com/christian-fei/my-yt) - A clean and minimal youtube frontend, without all the ads and whistles
 - [html-preview/html-preview.github.io](https://github.com/html-preview/html-preview.github.io) - HTML Preview for git-forge Repositories
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
@@ -550,6 +554,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 10 Lessons to Get Started Building AI Agents
 - [ray-project/llm-applications](https://github.com/ray-project/llm-applications) - A comprehensive guide to building RAG-based LLM applications for production.
 - [Jcharis/Python-Machine-Learning](https://github.com/Jcharis/Python-Machine-Learning) - Tutorials on Machine Learning and Deep Learning with Python
 - [Jcharis/Machine-Learning-Web-Apps](https://github.com/Jcharis/Machine-Learning-Web-Apps) - Building and Embedding Machine Learning Model into a Web App(With Flask,Streamlit,etc)
@@ -708,6 +713,7 @@
 
 ## Python 
 
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [Pravko-Solutions/FlashLearn](https://github.com/Pravko-Solutions/FlashLearn) - Integrate LLM in any pipeline - fit/predict pattern, JSON driven flows, and built in concurency support.
 - [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High-Performance Python Compute Engine for Data and AI
 - [Avaiga/demo-drift-detection](https://github.com/Avaiga/demo-drift-detection) - Detecting Drift in a Diabetes Dataset using Taipy
@@ -828,7 +834,7 @@
 - [explorerhq/sql-explorer](https://github.com/explorerhq/sql-explorer) - SQL reporting that Just Works. Fast, simple, and confusion-free. Write and share queries in a delightful SQL editor, with AI assistance.
 - [rhythm-patel/sqlalchemy-workshop](https://github.com/rhythm-patel/sqlalchemy-workshop) - SQLAlchemy asyncio workshop demo project with SQLite for PyCon US 2024 and PyCon Italy 2024
 - [Azure-Samples/graphrag-accelerator](https://github.com/Azure-Samples/graphrag-accelerator) - One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The most advanced AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.
 - [erezsh/reladiff](https://github.com/erezsh/reladiff) - High-performance diffing of large datasets across databases
 - [JohnTheNerd/homeassistant-llm-prompt-generator](https://github.com/JohnTheNerd/homeassistant-llm-prompt-generator) - A prompt generator for my fork of the extended_openai_conversation HomeAssistant custom integration.
 - [susam/mintotp](https://github.com/susam/mintotp) - Minimal TOTP generator in 20 lines of Python
@@ -873,7 +879,6 @@
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [dagster-io/dagster-open-platform](https://github.com/dagster-io/dagster-open-platform) - Dagster Labs' open-source data platform, built with Dagster.
-- [dagster-io/hooli-data-eng-pipelines](https://github.com/dagster-io/hooli-data-eng-pipelines) - Example Dagster Cloud code for the Hooli Data Engineering organization.
 - [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
 - [minimaxir/simpleaichat](https://github.com/minimaxir/simpleaichat) - Python package for easily interfacing with chat apps, with robust features and minimal code complexity.
 - [AZHenley/teenytinycompiler](https://github.com/AZHenley/teenytinycompiler) - A small BASIC-to-C compiler written in Python.
@@ -1002,6 +1007,7 @@
 
 ## Shell 
 
+- [hckops/actions](https://github.com/hckops/actions) - GitOps actions
 - [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
 - [vfarcic/crossplane-gh](https://github.com/vfarcic/crossplane-gh) - 
 - [microsoft/aitour-generative-ai-in-azure](https://github.com/microsoft/aitour-generative-ai-in-azure) - 
@@ -1083,6 +1089,10 @@
 ## Svelte 
 
 - [gsidhu/buzee-tauri](https://github.com/gsidhu/buzee-tauri) - A superfast full-text search application
+
+## Swift 
+
+- [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
 
 ## TSQL 
 
