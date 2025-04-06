@@ -108,7 +108,7 @@
 
 - [dotnet/interactive](https://github.com/dotnet/interactive) - .NET Interactive combines the power of .NET with many other languages to create notebooks, REPLs, and embedded coding experiences. Share code, explore data, write, and learn across your apps in ways y
 - [CommunityToolkit/Aspire](https://github.com/CommunityToolkit/Aspire) - A community project with additional components and extensions for .NET Aspire
-- [FastEndpoints/FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - A light-weight REST API development framework for ASP.NET 6 and newer.
+- [FastEndpoints/FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - A light-weight REST API development framework for ASP.NET 8 and newer.
 - [AzureAD/microsoft-authentication-library-for-dotnet](https://github.com/AzureAD/microsoft-authentication-library-for-dotnet) - Microsoft Authentication Library (MSAL) for .NET
 - [Azure-Samples/azure-search-openai-demo-csharp](https://github.com/Azure-Samples/azure-search-openai-demo-csharp) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experienc
 - [qdrant/qdrant-dotnet](https://github.com/qdrant/qdrant-dotnet) - Qdrant .Net SDK
@@ -513,7 +513,7 @@
 - [christian-fei/my-yt](https://github.com/christian-fei/my-yt) - A clean and minimal youtube frontend, without all the ads and whistles
 - [html-preview/html-preview.github.io](https://github.com/html-preview/html-preview.github.io) - HTML Preview for git-forge Repositories
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
@@ -556,6 +556,10 @@
 
 ## Jupyter Notebook 
 
+- [samwit/llm-tutorials](https://github.com/samwit/llm-tutorials) - A set of LLM Tutorials from my youtube channel
+- [samwit/langchain-tutorials](https://github.com/samwit/langchain-tutorials) - A set of LangChain Tutorials from my youtube channel
+- [aws-samples/3P-Agentic-Frameworks](https://github.com/aws-samples/3P-Agentic-Frameworks) - 
+- [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
 - [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 10 Lessons to Get Started Building AI Agents
 - [ray-project/llm-applications](https://github.com/ray-project/llm-applications) - A comprehensive guide to building RAG-based LLM applications for production.
 - [Jcharis/Python-Machine-Learning](https://github.com/Jcharis/Python-Machine-Learning) - Tutorials on Machine Learning and Deep Learning with Python
@@ -714,6 +718,13 @@
 
 ## Python 
 
+- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
+- [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
+- [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+- [PacktPublishing/LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) - The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices
+- [Parquery/swagger-to](https://github.com/Parquery/swagger-to) - Generate server and client code from Swagger (OpenAPI 2.0) specification.
+- [ckan/ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.hu
+- [unytics/data-api](https://github.com/unytics/data-api) - Serve Data with Low-Latency
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [Pravko-Solutions/FlashLearn](https://github.com/Pravko-Solutions/FlashLearn) - Integrate LLM in any pipeline - fit/predict pattern, JSON driven flows, and built in concurency support.
 - [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High-Performance Python Compute Engine for Data and AI
@@ -745,6 +756,7 @@
 - [databricks-demos/dbt-databricks-c360](https://github.com/databricks-demos/dbt-databricks-c360) - Demo running DBT as a Databricks Workflow task
 - [dmayboroda/minima](https://github.com/dmayboroda/minima) - On-premises conversational RAG with configurable containers
 - [mmz-001/knowledge_gpt](https://github.com/mmz-001/knowledge_gpt) - Accurate answers and instant citations for your documents.
+- [run-llama/create-llama](https://github.com/run-llama/create-llama) - The easiest way to get started with LlamaIndex
 - [run-llama/llama_deploy](https://github.com/run-llama/llama_deploy) - Deploy your agentic worfklows to production
 - [pamelafox/python-openai-demos](https://github.com/pamelafox/python-openai-demos) - A series of short examples using the OpenAI SDK
 - [Azure-Samples/rag-postgres-openai-python](https://github.com/Azure-Samples/rag-postgres-openai-python) - A RAG app to ask questions about rows in a database table. Deployable on Azure Container Apps with PostgreSQL Flexible Server.
@@ -1107,12 +1119,13 @@
 
 ## TypeScript 
 
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
+- [argentinaluiz/docker-tmpfs](https://github.com/argentinaluiz/docker-tmpfs) - 
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [langchain-ai/chat-langchain](https://github.com/langchain-ai/chat-langchain) - 
-- [run-llama/create-llama](https://github.com/run-llama/create-llama) - The easiest way to get started with LlamaIndex
 - [qdrant/qdrant_demo](https://github.com/qdrant/qdrant_demo) - Demo of the neural semantic search built with Qdrant
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
@@ -1120,7 +1133,7 @@
 - [aptakube/kubespec.dev](https://github.com/aptakube/kubespec.dev) - Kubernetes Spec Explorer
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [Azure-Samples/aks-platform-engineering](https://github.com/Azure-Samples/aks-platform-engineering) - 
-- [aidar-freeed/ai-codereviewer](https://github.com/aidar-freeed/ai-codereviewer) - AI Code Reviewer: Enhance your GitHub workflow with AI-powered code review! Get intelligent feedback and suggestions on pull requests using OpenAI's GPT-4 API, improving code quality and saving develo
+- [villesau/ai-codereviewer](https://github.com/villesau/ai-codereviewer) - AI Code Reviewer: Enhance your GitHub workflow with AI-powered code review! Get intelligent feedback and suggestions on pull requests using OpenAI's GPT-4 API, improving code quality and saving develo
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [bluesky-social/statusphere-example-app](https://github.com/bluesky-social/statusphere-example-app) - An example atproto application using ExpressJS and Typescript.
 - [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
