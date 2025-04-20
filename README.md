@@ -90,7 +90,6 @@
 - [mspnp/aks-baseline](https://github.com/mspnp/aks-baseline) - This is the Azure Kubernetes Service (AKS) Baseline Cluster reference implementation as produced by the Microsoft Azure Architecture Center.
 - [Azure/reliable-web-app-pattern-dotnet](https://github.com/Azure/reliable-web-app-pattern-dotnet) - The Reliable Web App Pattern is a set of objectives to help your web application converge on the cloud. This repo contains a reference implementation of a reliable web application for .NET.
 - [Azure-Samples/aks-front-door-private-link-service](https://github.com/Azure-Samples/aks-front-door-private-link-service) - This sample shows how Azure Front Door Premium can be set to use a Private Link Service to expose an AKS-hosted workload via NGINX Ingress Controller configured to use a private IP address on the inte
-- [Azure-Samples/todo-python-mongo-swa-func](https://github.com/Azure-Samples/todo-python-mongo-swa-func) - A blueprint for getting a React.js web app with Python (FastAPI) API and a MongoDB API in Cosmos database onto Azure. The frontend, currently a ToDo application, is designed as a placeholder that can 
 - [Azure-Samples/github-runner-on-aks](https://github.com/Azure-Samples/github-runner-on-aks) - Deploy GitHub Action runner on AKS
 - [Azure/aca-dotnet-workshop](https://github.com/Azure/aca-dotnet-workshop) - A Dotnet Azure Container Apps workshop showcasing how to accelerate developers' ability to develop and ship distributed applications.
 
@@ -113,7 +112,7 @@
 - [Azure-Samples/azure-search-openai-demo-csharp](https://github.com/Azure-Samples/azure-search-openai-demo-csharp) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experienc
 - [qdrant/qdrant-dotnet](https://github.com/qdrant/qdrant-dotnet) - Qdrant .Net SDK
 - [efcore/EFCoreDemos](https://github.com/efcore/EFCoreDemos) - 
-- [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 10 Preview 2, 9, 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contains explanations on all projects.
+- [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 10 Preview 3, 9, 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contains explanations on all projects.
 - [dotnet/extensions](https://github.com/dotnet/extensions) - This repository contains a suite of libraries that provide facilities commonly needed when creating production-ready applications.
 - [dotnet/Scaffolding](https://github.com/dotnet/Scaffolding) - Code generators to speed up development.
 - [erwinkramer/bank-api](https://github.com/erwinkramer/bank-api) - The Bank API is a design reference project suitable to bootstrap development for a compliant and modern API.
@@ -280,6 +279,7 @@
 
 ## Go 
 
+- [micro/micro](https://github.com/micro/micro) - A microservices platform
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - 📖 100 Go Mistakes and How to Avoid Them
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [kubernetes-sigs/cluster-api-provider-kubevirt](https://github.com/kubernetes-sigs/cluster-api-provider-kubevirt) - Cluster API Provider for KubeVirt
@@ -420,6 +420,7 @@
 
 ## HCL 
 
+- [alphagov/govuk-aws](https://github.com/alphagov/govuk-aws) - 
 - [Azure/terraform-azurerm-avm-res-app-containerapp](https://github.com/Azure/terraform-azurerm-avm-res-app-containerapp) - AVM Terraform module for Azure Container Apps
 - [hobby-kube/provisioning](https://github.com/hobby-kube/provisioning) - Kubernetes cluster provisioning using Terraform.
 - [aws-ia/terraform-repo-template](https://github.com/aws-ia/terraform-repo-template) - Terraform Module Template
@@ -478,6 +479,7 @@
 - [bmtwl/exerciseminimilism](https://github.com/bmtwl/exerciseminimilism) - A small, single html file and browser local storage solution for tracking a fixed, rotating set of daily exercises from one week to the next
 - [mathieu-benoit/mathieu-benoit.github.io](https://github.com/mathieu-benoit/mathieu-benoit.github.io) - The content of my blog hosted at: https://mathieu-benoit.github.io/
 - [allamand/ecs-cats-and-dogs](https://github.com/allamand/ecs-cats-and-dogs) - 
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
@@ -486,6 +488,7 @@
 - [SeldonIO/seldon-core](https://github.com/SeldonIO/seldon-core) - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models
 - [dotnet/blazor-samples](https://github.com/dotnet/blazor-samples) - 
 - [MicrosoftDocs/mslearn-tailspin-spacegame-web-deploy](https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web-deploy) - Code used in Microsoft Learn modules to support Azure DevOps
+- [davidgasquez/grants-data-portal](https://github.com/davidgasquez/grants-data-portal) - 🌲 Open source, serverless, and local-first Data Platform for Public Goods Grants Data.
 - [ILoveDotNet/ilovedotnet](https://github.com/ILoveDotNet/ilovedotnet) - I love to teach dotnet concepts in a simple way with real world examples to people who aspire to to be a dotnet developer. I also help developers to refresh their memory with easy to understand analog
 - [salaboy/platforms-on-k8s](https://github.com/salaboy/platforms-on-k8s) - Platform Engineering on Kubernetes :: Book Examples
 - [ArjanCodes/examples](https://github.com/ArjanCodes/examples) - All the code examples I use in my videos
@@ -586,7 +589,6 @@
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI coding assistant for JetBrains
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [cloudanum/50Algorithms](https://github.com/cloudanum/50Algorithms) - 
-- [davidgasquez/grants-data-portal](https://github.com/davidgasquez/grants-data-portal) - 🌲 Open source, serverless, and local-first data hub for Gitcoin Grants data!
 - [dotnet/beginner-series](https://github.com/dotnet/beginner-series) - .NET for beginner's videos, code, and links.
 - [codingforentrepreneurs/ai-travel-agent](https://github.com/codingforentrepreneurs/ai-travel-agent) - Learn to create an AI Travel Agent with FastAPI, Next.js, MariaDB, MindsDB, OpenAI, and more!
 - [wesm/pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
@@ -622,7 +624,6 @@
 ## MDX 
 
 - [weaviate-tutorials/Hurricane](https://github.com/weaviate-tutorials/Hurricane) - Writing Blog Posts with Generative Feedback Loops!
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 
 ## Makefile 
@@ -1193,6 +1194,7 @@
 - [polyseam/cndi](https://github.com/polyseam/cndi) - Self-Host Cloud-Native Apps with the Ease of PaaS
 - [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
 - [Azure/k8s-bake](https://github.com/Azure/k8s-bake) - GitHub Action creating Kubernetes manifest files with Helm, Kustomize, or Kompose
+- [Azure-Samples/todo-python-mongo-swa-func](https://github.com/Azure-Samples/todo-python-mongo-swa-func) - A blueprint for getting a React.js web app with Python (FastAPI) API and a MongoDB API in Cosmos database onto Azure. The frontend, currently a ToDo application, is designed as a placeholder that can 
 
 ## Vim Script 
 
