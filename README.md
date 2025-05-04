@@ -121,7 +121,7 @@
 - [HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire) - An easy way to perform background job processing in .NET and .NET Core applications. No Windows Service or separate process required
 - [pdevito3/StewardEF](https://github.com/pdevito3/StewardEF) - 🛠️ Simplifies EF management by helping to squash migrations
 - [pdevito3/QueryKit](https://github.com/pdevito3/QueryKit) - 🎛️ QueryKit is a .NET library that makes it easier to query your data by providing a fluent and intuitive syntax for filtering and sorting.
-- [QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF) - QuestPDF is a modern open-source .NET library for PDF document generation. Offering comprehensive layout engine powered by concise and discoverable C# Fluent API. Easily generate PDF reports, invoices
+- [QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF) - Generate and edit PDF documents in your .NET applications using the open-source QuestPDF library and its C# Fluent API. Build invoices, reports and data exports with ease.
 - [pdevito3/craftsman](https://github.com/pdevito3/craftsman) - A .NET scaffolding tool to help you stop worrying about boilerplate and focus on your business logic 🚀
 - [dotnet/docker-tools](https://github.com/dotnet/docker-tools) - This is a repo to house some common tools for our various docker repos.
 - [gothinkster/aspnetcore-realworld-example-app](https://github.com/gothinkster/aspnetcore-realworld-example-app) - ASP.NET Core backend implementation for RealWorld
@@ -217,7 +217,7 @@
 - [App-vNext/Polly](https://github.com/App-vNext/Polly) - Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thr
 - [Xabaril/AspNetCore.Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks) - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
 - [dotnet/roslynator](https://github.com/dotnet/roslynator) - Roslynator is a set of code analysis tools for C#, powered by Roslyn.
-- [platformplatform/PlatformPlatform](https://github.com/platformplatform/PlatformPlatform) - Early state. A platform designed for building enterprise-grade, multi-tenant products using Azure, .NET, React, TypeScript, Infrastructure as Code, etc.
+- [platformplatform/PlatformPlatform](https://github.com/platformplatform/PlatformPlatform) - A platform designed for building enterprise-grade, multi-tenant products using Azure, .NET, React, TypeScript, Infrastructure as Code, etc.
 - [dapr/quickstarts](https://github.com/dapr/quickstarts) - Dapr quickstart code samples and tutorials showcasing core Dapr capabilities
 - [stefanprodan/AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) - ASP.NET Core rate limiting middleware
 - [MoaidHathot/Dumpify](https://github.com/MoaidHathot/Dumpify) - Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's.
@@ -311,7 +311,7 @@
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [pomdtr/smallweb](https://github.com/pomdtr/smallweb) - Your Internet Folder
 - [jc21/route53-ddns](https://github.com/jc21/route53-ddns) - Update your route53 records dynamically with current IP
-- [nalgeon/codapi](https://github.com/nalgeon/codapi) - Interactive code examples for documentation, education and fun
+- [nalgeon/codapi](https://github.com/nalgeon/codapi) - Interactive code examples
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager
 - [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
@@ -371,6 +371,7 @@
 - [Azure/draft](https://github.com/Azure/draft) - A day 0 tool for getting your app on k8s fast
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
 - [codefresh-contrib/gitops-cert-level-2-examples](https://github.com/codefresh-contrib/gitops-cert-level-2-examples) - GitOps Certification Level 2 examples
+- [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [Apress/Kubernetes-Programming-with-Go-by-Philippe-Martin](https://github.com/Apress/Kubernetes-Programming-with-Go-by-Philippe-Martin) - Kubernetes Programming with Go by Philippe Martin
 - [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
@@ -515,6 +516,7 @@
 
 ## JavaScript 
 
+- [arachnys/cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
 - [HermanMartinus/bearlytics](https://github.com/HermanMartinus/bearlytics) - 
 - [christian-fei/my-yt](https://github.com/christian-fei/my-yt) - A clean and minimal youtube frontend, without all the ads and whistles
 - [html-preview/html-preview.github.io](https://github.com/html-preview/html-preview.github.io) - HTML Preview for git-forge Repositories
@@ -724,6 +726,11 @@
 
 ## Python 
 
+- [EdOverflow/can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz) - "Can I take over XYZ?" — a list of services and how to claim (sub)domains with dangling DNS records.
+- [Azure/Azure-Network-Security](https://github.com/Azure/Azure-Network-Security) - Resources for improving Customer Experience with Azure Network Security
+- [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
+- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow Tutorial Project: Turns GitHub repo into Easy Tutorial with AI
+- [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
 - [punk-security/dnsReaper](https://github.com/punk-security/dnsReaper) - dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team!
 - [google/adk-samples](https://github.com/google/adk-samples) - A collection of sample agents built with Agent Development (ADK)
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
@@ -769,7 +776,6 @@
 - [databricks-demos/dbt-databricks-c360](https://github.com/databricks-demos/dbt-databricks-c360) - Demo running DBT as a Databricks Workflow task
 - [dmayboroda/minima](https://github.com/dmayboroda/minima) - On-premises conversational RAG with configurable containers
 - [mmz-001/knowledge_gpt](https://github.com/mmz-001/knowledge_gpt) - Accurate answers and instant citations for your documents.
-- [run-llama/create-llama](https://github.com/run-llama/create-llama) - The easiest way to get started with LlamaIndex
 - [run-llama/llama_deploy](https://github.com/run-llama/llama_deploy) - Deploy your agentic worfklows to production
 - [pamelafox/python-openai-demos](https://github.com/pamelafox/python-openai-demos) - A series of short examples using the OpenAI SDK
 - [Azure-Samples/rag-postgres-openai-python](https://github.com/Azure-Samples/rag-postgres-openai-python) - A RAG app to ask questions about rows in a database table. Deployable on Azure Container Apps with PostgreSQL Flexible Server.
@@ -873,7 +879,7 @@
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
-- [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024
+- [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [TezRomacH/python-package-template](https://github.com/TezRomacH/python-package-template) - 🚀 Your next Python package needs a bleeding-edge project structure.
 - [grantjenks/python-diskcache](https://github.com/grantjenks/python-diskcache) - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
@@ -945,7 +951,6 @@
 - [tiangolo/uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker image with Uvicorn managed by Gunicorn for high-performance FastAPI web applications in Python with performance auto-tuning.
 - [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
 - [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - A script to effortlessly extract your entire ChatGPT data export from JSON files to nicely-formatted markdown files.
-- [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
 - [GuillaumeFalourd/poc-github-actions](https://github.com/GuillaumeFalourd/poc-github-actions) - Various proofs of concept examples using Github Actions 🤖
@@ -1141,6 +1146,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [langchain-ai/chat-langchain](https://github.com/langchain-ai/chat-langchain) - 
+- [run-llama/create-llama](https://github.com/run-llama/create-llama) - The easiest way to get started with LlamaIndex
 - [qdrant/qdrant_demo](https://github.com/qdrant/qdrant_demo) - Demo of the neural semantic search built with Qdrant
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
@@ -1177,7 +1183,7 @@
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [McSick/llm-sofa-company](https://github.com/McSick/llm-sofa-company) - A simple app to utilize an LLM in a product search.
 - [Azure/static-web-apps-cli](https://github.com/Azure/static-web-apps-cli) - Azure Static Web Apps CLI ✨
-- [aws-quickstart/cdk-eks-blueprints](https://github.com/aws-quickstart/cdk-eks-blueprints) - AWS Quick Start Team
+- [awslabs/cdk-eks-blueprints](https://github.com/awslabs/cdk-eks-blueprints) - AWS Quick Start Team
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio) - Azure Data Studio is a data management and development tool with connectivity to popular cloud and on-premises databases. Azure Data Studio supports Windows, macOS, and Linux, with immediate capabilit
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
