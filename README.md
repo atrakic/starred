@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Astro](#astro)
 - [Awk](#awk)
 - [Batchfile](#batchfile)
 - [Bicep](#bicep)
@@ -58,6 +59,10 @@
 - [Vue](#vue)
 - [YAML](#yaml)
 
+## Astro 
+
+- [manuelernestog/astrofy](https://github.com/manuelernestog/astrofy) - Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.
+
 ## Awk 
 
 - [crossbowerbt/awk-webserver](https://github.com/crossbowerbt/awk-webserver) - A simple webserver, written in GNU awk, that supports directory listing and download of file from the directory where it is launched
@@ -105,6 +110,7 @@
 
 ## C# # 
 
+- [Azure-Samples/cosmos-db-design-patterns](https://github.com/Azure-Samples/cosmos-db-design-patterns) - A collection of design pattern samples for building applications and services with Azure Cosmos DB for NoSQL.
 - [modelcontextprotocol/csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk) - The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration with Microsoft.
 - [dotnet/interactive](https://github.com/dotnet/interactive) - .NET Interactive combines the power of .NET with many other languages to create notebooks, REPLs, and embedded coding experiences. Share code, explore data, write, and learn across your apps in ways y
 - [CommunityToolkit/Aspire](https://github.com/CommunityToolkit/Aspire) - A community project with additional components and extensions for .NET Aspire
@@ -234,6 +240,7 @@
 
 ## C++ 
 
+- [duckdb/pg_duckdb](https://github.com/duckdb/pg_duckdb) - DuckDB-powered Postgres for high performance apps & analytics.
 - [Py-Contributors/AlgorithmsAndDataStructure](https://github.com/Py-Contributors/AlgorithmsAndDataStructure) - Algorithms And DataStructure Implemented In Python, Java & CPP, Give a Star 🌟If it helps you
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
@@ -280,8 +287,9 @@
 
 ## Go 
 
+- [projectdiscovery/dnsx](https://github.com/projectdiscovery/dnsx) - dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
-- [micro/micro](https://github.com/micro/micro) - A Go microservices toolkit
+- [micro/micro](https://github.com/micro/micro) - A microservices toolkit
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - 📖 100 Go Mistakes and How to Avoid Them
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [kubernetes-sigs/cluster-api-provider-kubevirt](https://github.com/kubernetes-sigs/cluster-api-provider-kubevirt) - Cluster API Provider for KubeVirt
@@ -337,7 +345,7 @@
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
 - [vouch/vouch-proxy](https://github.com/vouch/vouch-proxy) - an SSO and OAuth / OIDC login solution for Nginx using the auth_request module
-- [picosh/pico](https://github.com/picosh/pico) - services that empower developers using ssh
+- [picosh/pico](https://github.com/picosh/pico) - The ultimate ssh powered services for developers
 - [allaboutapps/integresql](https://github.com/allaboutapps/integresql) - IntegreSQL manages isolated PostgreSQL databases for your integration tests.
 - [Guilospanck/medium-observability-stack](https://github.com/Guilospanck/medium-observability-stack) - Sample files and code configs for the Medium article.
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
@@ -653,6 +661,7 @@
 
 ## Others 
 
+- [jamesmontemagno/spec-driven-app-template](https://github.com/jamesmontemagno/spec-driven-app-template) - This is a template for using agent mode with MCP servers to do research driven development based on specs
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [Olshansk/postgres_for_everything](https://github.com/Olshansk/postgres_for_everything) - How to reduce complexity and move faster? Just Postgres for everything.
 - [bendc/frontend-guidelines](https://github.com/bendc/frontend-guidelines) - Some HTML, CSS and JS best practices.
@@ -729,12 +738,12 @@
 - [EdOverflow/can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz) - "Can I take over XYZ?" — a list of services and how to claim (sub)domains with dangling DNS records.
 - [Azure/Azure-Network-Security](https://github.com/Azure/Azure-Network-Security) - Resources for improving Customer Experience with Azure Network Security
 - [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
-- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow Tutorial Project: Turns GitHub repo into Easy Tutorial with AI
+- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial
 - [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
 - [punk-security/dnsReaper](https://github.com/punk-security/dnsReaper) - dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team!
 - [google/adk-samples](https://github.com/google/adk-samples) - A collection of sample agents built with Agent Development (ADK)
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
-- [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero) - Clean, minimal, accessible reproduction of DeepSeek R1-Zero
+- [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero) - Minimal reproduction of DeepSeek R1-Zero
 - [stephengpope/no-code-architects-toolkit](https://github.com/stephengpope/no-code-architects-toolkit) - The NCA Toolkit API eliminates monthly subscription fees by consolidating common API functionalities into a single FREE API. Designed for businesses, creators, and developers, it streamlines advanced 
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry
 - [jstrieb/just.sh](https://github.com/jstrieb/just.sh) - Compile Justfiles to portable shell scripts
@@ -766,7 +775,7 @@
 - [microsoft/prompty](https://github.com/microsoft/prompty) - Prompty makes it easy to create, manage, debug, and evaluate LLM prompts for your AI applications.  Prompty is an asset class and format for LLM prompts designed to enhance observability, understandab
 - [daveebbelaar/pydantic-ai-tutorial](https://github.com/daveebbelaar/pydantic-ai-tutorial) - Learn how to build AI agents with PydanticAI
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
-- [instructor-ai/instructor](https://github.com/instructor-ai/instructor) - structured outputs for llms
+- [567-labs/instructor](https://github.com/567-labs/instructor) - structured outputs for llms
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [simonw/files-to-prompt](https://github.com/simonw/files-to-prompt) - Concatenate a directory full of files into a single prompt for use with LLMs
@@ -877,7 +886,7 @@
 - [ldw3097/realworld_python-lambda-DDB](https://github.com/ldw3097/realworld_python-lambda-DDB) - realworld implementation using python, AWS Lambda, DynamoDB
 - [koek67/resume-builder](https://github.com/koek67/resume-builder) - Create a clean, easy to read resume in pure Python.
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
-- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and
+- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - :wrench: pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers.
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
@@ -1139,6 +1148,7 @@
 
 ## TypeScript 
 
+- [Azure/azure-webpubsub](https://github.com/Azure/azure-webpubsub) - Azure Web PubSub Service helps you to manage WebSocket connections and do publish and subscribe in an easy way
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [argentinaluiz/docker-tmpfs](https://github.com/argentinaluiz/docker-tmpfs) - 
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
