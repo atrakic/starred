@@ -310,7 +310,6 @@
 - [k8spacket/k8spacket](https://github.com/k8spacket/k8spacket) - k8spacket - collects TCP traffic and TLS connection metadata in the Kubernetes cluster using eBPF and visualizes in Grafana
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) - Cloud provider for KIND clusters
 - [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
-- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [bruin-data/bruin](https://github.com/bruin-data/bruin) - Build data pipelines with SQL and Python, ingest data from different sources, add quality checks, and build end-to-end flows.
 - [k8sgpt-ai/k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - Automatic SRE Superpowers within your Kubernetes cluster
@@ -532,6 +531,7 @@
 - [christian-fei/my-yt](https://github.com/christian-fei/my-yt) - A clean and minimal youtube frontend, without all the ads and whistles
 - [html-preview/html-preview.github.io](https://github.com/html-preview/html-preview.github.io) - HTML Preview for git-forge Repositories
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
+- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -579,7 +579,7 @@
 - [samwit/langchain-tutorials](https://github.com/samwit/langchain-tutorials) - A set of LangChain Tutorials from my youtube channel
 - [aws-samples/3P-Agentic-Frameworks](https://github.com/aws-samples/3P-Agentic-Frameworks) - 
 - [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
-- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 10 Lessons to Get Started Building AI Agents
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 11 Lessons to Get Started Building AI Agents
 - [ray-project/llm-applications](https://github.com/ray-project/llm-applications) - A comprehensive guide to building RAG-based LLM applications for production.
 - [Jcharis/Python-Machine-Learning](https://github.com/Jcharis/Python-Machine-Learning) - Tutorials on Machine Learning and Deep Learning with Python
 - [Jcharis/Machine-Learning-Web-Apps](https://github.com/Jcharis/Machine-Learning-Web-Apps) - Building and Embedding Machine Learning Model into a Web App(With Flask,Streamlit,etc)
@@ -591,7 +591,7 @@
 - [timescale/private-rag-example](https://github.com/timescale/private-rag-example) - Private RAG app sample using Llama3, Ollama and PostgreSQL
 - [jupyterhub/mybinder.org-deploy](https://github.com/jupyterhub/mybinder.org-deploy) - Deployment config files for mybinder.org
 - [lepchenkov/What_it_Takes_to_be_a_Python_Expert](https://github.com/lepchenkov/What_it_Takes_to_be_a_Python_Expert) - Bits of code from James Powell lecture on core concepts of python written in four Jupyter notebooks that cover protocol view of python, metaclasses, decorators, generators and context managers.
-- [asf-transfer/hamilton](https://github.com/asf-transfer/hamilton) - Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.
+- [apache/hamilton](https://github.com/apache/hamilton) - Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.
 - [AllgeierSchweiz/aihackers](https://github.com/AllgeierSchweiz/aihackers) - Github Repo for the Fabric AI Hackathon. Feel free to fork and have fun with it.
 - [databricks/docker-spark-iceberg](https://github.com/databricks/docker-spark-iceberg) - 
 - [MicrosoftLearning/mslearn-fabric](https://github.com/MicrosoftLearning/mslearn-fabric) - This repository hosts content related to Microsoft Fabric content on Microsoft Learn.
@@ -619,13 +619,13 @@
 - [jvns/pandas-cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library
 - [minireference/noBSLAnotebooks](https://github.com/minireference/noBSLAnotebooks) - Jupyter notebooks with exercises for the No bullshit guide to linear algebra.
 - [amankharwal/Website-data](https://github.com/amankharwal/Website-data) - All files of thecleverprogrammer.com
-- [khuyentran1401/Data-science](https://github.com/khuyentran1401/Data-science) - Collection of useful data science topics along with articles, videos, and code
+- [CodeCutTech/Data-science](https://github.com/CodeCutTech/Data-science) - Collection of useful data science topics along with articles, videos, and code
 - [manuelgilm/data_science-portafolio](https://github.com/manuelgilm/data_science-portafolio) - 
 - [minio/blog-assets](https://github.com/minio/blog-assets) - Collection of assets used for various articles at https://blogs.min.io
 - [GoogleCloudPlatform/training-data-analyst](https://github.com/GoogleCloudPlatform/training-data-analyst) - Labs and demos for courses for GCP Training (http://cloud.google.com/training).
 - [braaannigan/data-analysis-with-polars](https://github.com/braaannigan/data-analysis-with-polars) - Public notebooks and datasets to accompany the Data Analysis with Polars course on Udemy
 - [nickmccullum/algorithmic-trading-python](https://github.com/nickmccullum/algorithmic-trading-python) - The repository for freeCodeCamp's YouTube course, Algorithmic Trading in Python
-- [khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists](https://github.com/khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists) - Efficient Python Tricks and Tools for Data Scientists
+- [CodeCutTech/Efficient_Python_tricks_and_tools_for_data_scientists](https://github.com/CodeCutTech/Efficient_Python_tricks_and_tools_for_data_scientists) - Efficient Python Tricks and Tools for Data Scientists
 - [Azure/azureml-examples](https://github.com/Azure/azureml-examples) - Official community-driven Azure Machine Learning examples, tested with GitHub Actions.
 
 ## Kotlin 
@@ -738,6 +738,7 @@
 
 ## Python 
 
+- [robotframework/robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA
 - [EdOverflow/can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz) - "Can I take over XYZ?" — a list of services and how to claim (sub)domains with dangling DNS records.
 - [Azure/Azure-Network-Security](https://github.com/Azure/Azure-Network-Security) - Resources for improving Customer Experience with Azure Network Security
 - [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
@@ -889,7 +890,7 @@
 - [ldw3097/realworld_python-lambda-DDB](https://github.com/ldw3097/realworld_python-lambda-DDB) - realworld implementation using python, AWS Lambda, DynamoDB
 - [koek67/resume-builder](https://github.com/koek67/resume-builder) - Create a clean, easy to read resume in pure Python.
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
-- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - :wrench: pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers.
+- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast a
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
