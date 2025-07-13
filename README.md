@@ -77,7 +77,6 @@
 - [Azure-Samples/azure-postgres-pgvector-python](https://github.com/Azure-Samples/azure-postgres-pgvector-python) - Deploy an Azure PostgreSQL server with Entra authentication and use it from Python.
 - [Azure/PSRule.Rules.Azure-quickstart](https://github.com/Azure/PSRule.Rules.Azure-quickstart) - Sample code you can use to quickly start using PSRule for Azure.
 - [Azure-Samples/pubsub-dapr-csharp-servicebus](https://github.com/Azure-Samples/pubsub-dapr-csharp-servicebus) - A complete microservice application featuring Dapr Pub-Sub, deployed to Azure Container Apps and Azure Service Bus Topics with dead-lettering support.
-- [Azure-Samples/aks-store-demo](https://github.com/Azure-Samples/aks-store-demo) - Sample microservices app for AKS demos, tutorials, and experiments
 - [Azure/aks-baseline-automation](https://github.com/Azure/aks-baseline-automation) - Repository for the AKS Landing Zone Accelerator program's Automation reference implementation
 - [mspnp/microservices-reference-implementation](https://github.com/mspnp/microservices-reference-implementation) - A reference implementation demonstrating microservices architecture and best practices for Microsoft Azure
 - [mspnp/aks-fabrikam-dronedelivery](https://github.com/mspnp/aks-fabrikam-dronedelivery) - AKS Fabrikam Drone Delivery :heart: AKS baseline
@@ -180,7 +179,7 @@
 - [cornflourblue/dotnet-6-crud-api](https://github.com/cornflourblue/dotnet-6-crud-api) - .NET 6.0 - CRUD API Example
 - [microsoft/typechat.net](https://github.com/microsoft/typechat.net) - 
 - [NetCoreApps/GPTMeetingAgent](https://github.com/NetCoreApps/GPTMeetingAgent) - A pattern for GPT Agent integration with ServiceStack services
-- [awaescher/OllamaSharp](https://github.com/awaescher/OllamaSharp) - The easiest way to use the Ollama API in .NET
+- [awaescher/OllamaSharp](https://github.com/awaescher/OllamaSharp) - The easiest way to use Ollama in .NET
 - [Azure/azure-functions-dotnet-worker](https://github.com/Azure/azure-functions-dotnet-worker) - Azure Functions out-of-process .NET language worker
 - [markjprice/cs12dotnet8](https://github.com/markjprice/cs12dotnet8) - Repository for the Packt Publishing book titled "C# 12 and .NET 8 - Modern Cross-Platform Development Fundamentals" by Mark J. Price
 - [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 9
@@ -439,7 +438,7 @@
 ## HCL 
 
 - [alphagov/govuk-aws](https://github.com/alphagov/govuk-aws) - 
-- [Azure/terraform-azurerm-avm-res-app-containerapp](https://github.com/Azure/terraform-azurerm-avm-res-app-containerapp) - AVM Terraform module for Azure Container Apps
+- [Azure/terraform-azurerm-avm-res-app-containerapp](https://github.com/Azure/terraform-azurerm-avm-res-app-containerapp) - Terraform Azure Verified Resource Module for Container App
 - [hobby-kube/provisioning](https://github.com/hobby-kube/provisioning) - Kubernetes cluster provisioning using Terraform.
 - [aws-ia/terraform-repo-template](https://github.com/aws-ia/terraform-repo-template) - Terraform Module Template
 - [paolosalvatori/aks-crossplane-terraform](https://github.com/paolosalvatori/aks-crossplane-terraform) - This sample deploys and AKS cluster with Terraform and installs Crossplane to the cluster via Helm along with the Azure provider,
@@ -450,9 +449,9 @@
 - [argoproj/argoproj-deployments](https://github.com/argoproj/argoproj-deployments) - Deployment repository for Argoproj CI/CD
 - [databricks/terraform-databricks-sra](https://github.com/databricks/terraform-databricks-sra) - The Security Reference Architecture (SRA) implements typical security features as Terraform Templates that are deployed by most high-security organizations, and enforces controls for the largest risks
 - [datarevenue-berlin/OpenMLOps](https://github.com/datarevenue-berlin/OpenMLOps) - 
-- [Azure/terraform-azurerm-avm-res-web-site](https://github.com/Azure/terraform-azurerm-avm-res-web-site) - 
+- [Azure/terraform-azurerm-avm-res-web-site](https://github.com/Azure/terraform-azurerm-avm-res-web-site) - Terraform Azure Verified Resource Module for Web/Function App
 - [Naman1997/simple-talos-cluster](https://github.com/Naman1997/simple-talos-cluster) - Automated Talos cluster with system extensions in a Proxmox node.
-- [Azure/terraform-azurerm-avm-ptn-cicd-agents-and-runners](https://github.com/Azure/terraform-azurerm-avm-ptn-cicd-agents-and-runners) - Azure Verified Module for Azure DevOps Agents and GitHub Runners
+- [Azure/terraform-azurerm-avm-ptn-cicd-agents-and-runners](https://github.com/Azure/terraform-azurerm-avm-ptn-cicd-agents-and-runners) - Terraform Azure Verified Pattern Module for CI CD Agents and Runners
 - [cn-terraform/terraform-aws-ecs-fargate](https://github.com/cn-terraform/terraform-aws-ecs-fargate) - AWS ECS Fargate Terraform Module
 - [useblacksmith/remote-buildkit-terraform](https://github.com/useblacksmith/remote-buildkit-terraform) - 
 - [LukasKnuth/homeserver](https://github.com/LukasKnuth/homeserver) - The FULL configuration of my small RPi based server at home.
@@ -588,7 +587,7 @@
 - [tavily-ai/use-cases](https://github.com/tavily-ai/use-cases) - 
 - [samwit/llm-tutorials](https://github.com/samwit/llm-tutorials) - A set of LLM Tutorials from my youtube channel
 - [samwit/langchain-tutorials](https://github.com/samwit/langchain-tutorials) - A set of LangChain Tutorials from my youtube channel
-- [aws-samples/3P-Agentic-Frameworks](https://github.com/aws-samples/3P-Agentic-Frameworks) - Build Agentic AI solutions on AWS, using latest OSS Agentic Frameworks.
+- [aws-samples/sample-agentic-frameworks-on-aws](https://github.com/aws-samples/sample-agentic-frameworks-on-aws) - Build Agentic AI solutions on AWS, using latest OSS Agentic Frameworks.
 - [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
 - [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 11 Lessons to Get Started Building AI Agents
 - [ray-project/llm-applications](https://github.com/ray-project/llm-applications) - A comprehensive guide to building RAG-based LLM applications for production.
@@ -619,7 +618,7 @@
 - [codingforentrepreneurs/ai-travel-agent](https://github.com/codingforentrepreneurs/ai-travel-agent) - Learn to create an AI Travel Agent with FastAPI, Next.js, MariaDB, MindsDB, OpenAI, and more!
 - [wesm/pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
 - [martinkarlssonio/azure-dataplatform](https://github.com/martinkarlssonio/azure-dataplatform) - 
-- [retkowsky/Azure-OpenAI-demos](https://github.com/retkowsky/Azure-OpenAI-demos) - Azure OpenAI (demos, documentation, accelerators).
+- [retkowsky/Azure-OpenAI-demos](https://github.com/retkowsky/Azure-OpenAI-demos) - Azure AI Foundry (demos, documentation, accelerators).
 - [Azure-Samples/openai-dotnet-samples](https://github.com/Azure-Samples/openai-dotnet-samples) - Azure OpenAI .NET Samples
 - [MAIF/shapash](https://github.com/MAIF/shapash) - 🔅 Shapash: User-friendly Explainability and Interpretability to Develop Reliable and Transparent Machine Learning Models
 - [jrjohansson/scientific-python-lectures](https://github.com/jrjohansson/scientific-python-lectures) - Lectures on scientific computing with python, as IPython notebooks.
@@ -674,7 +673,7 @@
 
 ## Others 
 
-- [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev in Cursor
+- [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev agents
 - [jamesmontemagno/spec-driven-app-template](https://github.com/jamesmontemagno/spec-driven-app-template) - This is a template for using agent mode with MCP servers to do research driven development based on specs
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [Olshansk/postgres_for_everything](https://github.com/Olshansk/postgres_for_everything) - How to reduce complexity and move faster? Just Postgres for everything.
@@ -845,6 +844,7 @@
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [databricks/pgsqlite](https://github.com/databricks/pgsqlite) - Load sqlite databases into Postgres databases
 - [databricks/mlops-stacks](https://github.com/databricks/mlops-stacks) - This repo provides a customizable stack for starting new ML projects on Databricks that follow production best-practices out of the box.
+- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [Azure/Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 - [giantswarm/app-build-suite](https://github.com/giantswarm/app-build-suite) - A tool to build and release apps for app platform
 - [databricks-industry-solutions/security-analysis-tool](https://github.com/databricks-industry-solutions/security-analysis-tool) - Security Analysis Tool (SAT) analyzes customer's Databricks account and workspace security configurations and provides recommendations that help them follow Databrick's security best practices. When a
@@ -1008,7 +1008,6 @@
 - [mlrun/mlrun](https://github.com/mlrun/mlrun) - MLRun is an open source MLOps platform for quickly building and managing continuous ML applications across their lifecycle. MLRun integrates into your development and CI/CD environment and automates t
 - [kubeflow/pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow
 - [fivexl/terraform-aws-cloudtrail-to-slack](https://github.com/fivexl/terraform-aws-cloudtrail-to-slack) - Parse AWS CloudTrail events and send alerts to Slack for events that match pre-configured rules
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [matiaslindgren/celery-kubernetes-example](https://github.com/matiaslindgren/celery-kubernetes-example) - Small Flask app with scalable, asynchronous backend workers deployed on Kubernetes.
 - [abigailhaddad/dcps_shiny](https://github.com/abigailhaddad/dcps_shiny) - 
 - [aws/aws-eks-best-practices](https://github.com/aws/aws-eks-best-practices) - A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization.
@@ -1058,6 +1057,7 @@
 - [sqlpage/SQLPage](https://github.com/sqlpage/SQLPage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
+- [Azure-Samples/aks-store-demo](https://github.com/Azure-Samples/aks-store-demo) - Sample microservices app for AKS demos, tutorials, and experiments
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 
 ## SCSS 
@@ -1136,7 +1136,6 @@
 - [todaywasawesome/oss-apps](https://github.com/todaywasawesome/oss-apps) - Example repo to show GitOps lifecycle from staging to production with canary and blue/green deployments.
 - [fluxcd/flux2-multi-tenancy](https://github.com/fluxcd/flux2-multi-tenancy) - Manage multi-tenant clusters with Flux
 - [github-developer/example-actions-eks-fargate](https://github.com/github-developer/example-actions-eks-fargate) - 
-- [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
 - [aws-samples/eks-gitops-crossplane-flux](https://github.com/aws-samples/eks-gitops-crossplane-flux) - 
 - [BuoyantIO/gitops-linkerd](https://github.com/BuoyantIO/gitops-linkerd) - Progressive Delivery workshop with Linkerd, Flagger and Flux
 - [Azure/mlops-v2](https://github.com/Azure/mlops-v2) - Azure MLOps (v2) solution accelerators. Enterprise ready templates to deploy your machine learning models on the Azure Platform.
@@ -1165,6 +1164,7 @@
 
 ## TSQL 
 
+- [olahallengren/sql-server-maintenance-solution](https://github.com/olahallengren/sql-server-maintenance-solution) - SQL Server Maintenance Solution
 - [Azure-Samples/data-api-builder](https://github.com/Azure-Samples/data-api-builder) - Various samples on how to use Data API builder for Azure Databases
 
 ## TeX 
@@ -1187,7 +1187,6 @@
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [aptakube/kubespec.dev](https://github.com/aptakube/kubespec.dev) - Kubernetes Spec Explorer
-- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [Azure-Samples/aks-platform-engineering](https://github.com/Azure-Samples/aks-platform-engineering) - Opinionated AKS + OSS stack with ArgoCD, CAPZ/ASO or Crossplane, Terraform, Backstage
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [villesau/ai-codereviewer](https://github.com/villesau/ai-codereviewer) - AI Code Reviewer: Enhance your GitHub workflow with AI-powered code review! Get intelligent feedback and suggestions on pull requests using OpenAI's GPT-4 API, improving code quality and saving develo
@@ -1236,6 +1235,7 @@
 - [Azure/k8s-deploy](https://github.com/Azure/k8s-deploy) - GitHub Action for deploying to Kubernetes clusters
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the proces
 - [whazor/k8s-at-home-search](https://github.com/whazor/k8s-at-home-search) - Your Gateway Drug to Kubernetes at Home!
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [polyseam/cndi](https://github.com/polyseam/cndi) - Self-Host Cloud-Native Apps with the Ease of PaaS
 - [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
 - [Azure/k8s-bake](https://github.com/Azure/k8s-bake) - GitHub Action creating Kubernetes manifest files with Helm, Kustomize, or Kompose
@@ -1246,6 +1246,7 @@
 - [laktak/tome](https://github.com/laktak/tome) - 🔁 Interactive Script playbooks for your terminal with Vim/Neovim (and Tmux)
 - [OmniSharp/omnisharp-vim](https://github.com/OmniSharp/omnisharp-vim) - Vim omnicompletion (intellisense) and more for C#
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
+- [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
 
 ## Visual Basic 6.0 
 
