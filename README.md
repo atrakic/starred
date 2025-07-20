@@ -55,7 +55,6 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
-- [Visual Basic 6.0](#visual-basic-6.0)
 - [Vue](#vue)
 - [YAML](#yaml)
 
@@ -239,7 +238,7 @@
 
 ## C++ 
 
-- [timeplus-io/proton](https://github.com/timeplus-io/proton) - High-performance, low-footprint SQL database written in C++. Process millions of rows per second from Kafka/Pulsar, Iceberg, or ClickHouse, and seamlessly write results back. Supports powerful feature
+- [timeplus-io/proton](https://github.com/timeplus-io/proton) - A high-performance SQL engine written in C++, designed for real-time data processing. It can read millions of rows per second from ClickHouse, Kafka, Pulsar, or REST, and write results back with low l
 - [duckdb/pg_duckdb](https://github.com/duckdb/pg_duckdb) - DuckDB-powered Postgres for high performance apps & analytics.
 - [Py-Contributors/AlgorithmsAndDataStructure](https://github.com/Py-Contributors/AlgorithmsAndDataStructure) - Algorithms And DataStructure Implemented In Python, Java & CPP, Give a Star 🌟If it helps you
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
@@ -330,7 +329,7 @@
 - [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 - [maddalax/htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go + htmx
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
-- [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite
+- [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQL
 - [aws-samples/sqs-fargate-ddb-cdk-go](https://github.com/aws-samples/sqs-fargate-ddb-cdk-go) - 
 - [yudhasubki/blockqueue](https://github.com/yudhasubki/blockqueue) - BlockQueue is a open source and cost-effective Job Queue with a pub/sub mechanism utilizing SQLite and NutsDB. Support LibSQL by Turso and PostgreSQL
 - [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator built on top of NATS
@@ -479,7 +478,7 @@
 - [matt-FFFFFF/subvending](https://github.com/matt-FFFFFF/subvending) - 
 - [aws-observability/terraform-aws-observability-accelerator](https://github.com/aws-observability/terraform-aws-observability-accelerator) - Open source project to help accelerate and ease observability setup on AWS environments
 - [stroeer/terraform-aws-ecs-fargate](https://github.com/stroeer/terraform-aws-ecs-fargate) - Terraform module for ECS Fargate Services
-- [awslabs/data-on-eks](https://github.com/awslabs/data-on-eks) - DoEKS is a tool to build, deploy and scale Data & ML Platforms on Amazon EKS
+- [awslabs/data-on-eks](https://github.com/awslabs/data-on-eks) - DoEKS is a tool to build, deploy and scale Data Platforms on Amazon EKS
 - [aws-ia/terraform-aws-eks-blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints) - Configure and deploy complete EKS clusters.
 - [aws-samples/cicd-for-ecs-workshop-code](https://github.com/aws-samples/cicd-for-ecs-workshop-code) - 
 - [stacksimplify/azure-aks-kubernetes-masterclass](https://github.com/stacksimplify/azure-aks-kubernetes-masterclass) - Azure AKS Kubernetes Masterclass
@@ -806,6 +805,7 @@
 - [databricks-demos/dbt-databricks-c360](https://github.com/databricks-demos/dbt-databricks-c360) - Demo running DBT as a Databricks Workflow task
 - [dmayboroda/minima](https://github.com/dmayboroda/minima) - On-premises conversational RAG with configurable containers
 - [mmz-001/knowledge_gpt](https://github.com/mmz-001/knowledge_gpt) - Accurate answers and instant citations for your documents.
+- [run-llama/create-llama](https://github.com/run-llama/create-llama) - The easiest way to get started with LlamaIndex
 - [run-llama/llama_deploy](https://github.com/run-llama/llama_deploy) - Deploy your agentic worfklows to production
 - [pamelafox/python-openai-demos](https://github.com/pamelafox/python-openai-demos) - A series of short examples using the OpenAI SDK
 - [Azure-Samples/rag-postgres-openai-python](https://github.com/Azure-Samples/rag-postgres-openai-python) - A RAG app to ask questions about rows in a database table. Deployable on Azure Container Apps with PostgreSQL Flexible Server.
@@ -844,7 +844,6 @@
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [databricks/pgsqlite](https://github.com/databricks/pgsqlite) - Load sqlite databases into Postgres databases
 - [databricks/mlops-stacks](https://github.com/databricks/mlops-stacks) - This repo provides a customizable stack for starting new ML projects on Databricks that follow production best-practices out of the box.
-- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [Azure/Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 - [giantswarm/app-build-suite](https://github.com/giantswarm/app-build-suite) - A tool to build and release apps for app platform
 - [databricks-industry-solutions/security-analysis-tool](https://github.com/databricks-industry-solutions/security-analysis-tool) - Security Analysis Tool (SAT) analyzes customer's Databricks account and workspace security configurations and provides recommendations that help them follow Databrick's security best practices. When a
@@ -1011,6 +1010,7 @@
 - [matiaslindgren/celery-kubernetes-example](https://github.com/matiaslindgren/celery-kubernetes-example) - Small Flask app with scalable, asynchronous backend workers deployed on Kubernetes.
 - [abigailhaddad/dcps_shiny](https://github.com/abigailhaddad/dcps_shiny) - 
 - [aws/aws-eks-best-practices](https://github.com/aws/aws-eks-best-practices) - A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization.
+- [hojat-gazestani/DevOps](https://github.com/hojat-gazestani/DevOps) - 
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [ArjanCodes/betterpython](https://github.com/ArjanCodes/betterpython) - Code examples for my Write Better Python Code series on YouTube.
 - [iximiuz/simple-event-loop](https://github.com/iximiuz/simple-event-loop) - Fully-functional Event Loop in 100 Lines of Python
@@ -1181,12 +1181,12 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [langchain-ai/chat-langchain](https://github.com/langchain-ai/chat-langchain) - 
-- [run-llama/create-llama](https://github.com/run-llama/create-llama) - The easiest way to get started with LlamaIndex
 - [qdrant/qdrant_demo](https://github.com/qdrant/qdrant_demo) - Demo of the neural semantic search built with Qdrant
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [aptakube/kubespec.dev](https://github.com/aptakube/kubespec.dev) - Kubernetes Spec Explorer
+- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [Azure-Samples/aks-platform-engineering](https://github.com/Azure-Samples/aks-platform-engineering) - Opinionated AKS + OSS stack with ArgoCD, CAPZ/ASO or Crossplane, Terraform, Backstage
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [villesau/ai-codereviewer](https://github.com/villesau/ai-codereviewer) - AI Code Reviewer: Enhance your GitHub workflow with AI-powered code review! Get intelligent feedback and suggestions on pull requests using OpenAI's GPT-4 API, improving code quality and saving develo
@@ -1247,10 +1247,6 @@
 - [OmniSharp/omnisharp-vim](https://github.com/OmniSharp/omnisharp-vim) - Vim omnicompletion (intellisense) and more for C#
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
-
-## Visual Basic 6.0 
-
-- [hojat-gazestani/DevOps](https://github.com/hojat-gazestani/DevOps) - 
 
 ## Vue 
 
