@@ -78,7 +78,6 @@
 - [Azure-Samples/pubsub-dapr-csharp-servicebus](https://github.com/Azure-Samples/pubsub-dapr-csharp-servicebus) - A complete microservice application featuring Dapr Pub-Sub, deployed to Azure Container Apps and Azure Service Bus Topics with dead-lettering support.
 - [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for ASP.NET Core
 - [Azure/aks-baseline-automation](https://github.com/Azure/aks-baseline-automation) - Repository for the AKS Landing Zone Accelerator program's Automation reference implementation
-- [mspnp/microservices-reference-implementation](https://github.com/mspnp/microservices-reference-implementation) - A reference implementation demonstrating microservices architecture and best practices for Microsoft Azure
 - [mspnp/aks-fabrikam-dronedelivery](https://github.com/mspnp/aks-fabrikam-dronedelivery) - AKS Fabrikam Drone Delivery :heart: AKS baseline
 - [paolosalvatori/aks-managed-prometheus-and-grafana-bicep](https://github.com/paolosalvatori/aks-managed-prometheus-and-grafana-bicep) - This sample shows how to install an AKS cluster with Azure Managed Prometheus and Azure Managed Grafana via Bicep.
 - [Azure/bicep-registry-modules](https://github.com/Azure/bicep-registry-modules) - Bicep registry modules
@@ -222,7 +221,6 @@
 - [App-vNext/Polly](https://github.com/App-vNext/Polly) - Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thr
 - [Xabaril/AspNetCore.Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks) - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
 - [dotnet/roslynator](https://github.com/dotnet/roslynator) - Roslynator is a set of code analysis tools for C#, powered by Roslyn.
-- [platformplatform/PlatformPlatform](https://github.com/platformplatform/PlatformPlatform) - A platform designed for building enterprise-grade, multi-tenant products using Azure, .NET, React, TypeScript, Infrastructure as Code, etc.
 - [dapr/quickstarts](https://github.com/dapr/quickstarts) - Dapr quickstart code samples and tutorials showcasing core Dapr capabilities
 - [stefanprodan/AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) - ASP.NET Core rate limiting middleware
 - [MoaidHathot/Dumpify](https://github.com/MoaidHathot/Dumpify) - Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's.
@@ -239,7 +237,7 @@
 
 ## C++ 
 
-- [timeplus-io/proton](https://github.com/timeplus-io/proton) - A high-performance SQL engine written in C++, designed for real-time data processing. It can read millions of rows per second from ClickHouse, Kafka, Pulsar, or REST, and write results back with low l
+- [timeplus-io/proton](https://github.com/timeplus-io/proton) - Fastest SQL pipeline engine in a single C++ binary, for stream processing, analytics, observability and AI.
 - [duckdb/pg_duckdb](https://github.com/duckdb/pg_duckdb) - DuckDB-powered Postgres for high performance apps & analytics.
 - [Py-Contributors/AlgorithmsAndDataStructure](https://github.com/Py-Contributors/AlgorithmsAndDataStructure) - Algorithms And DataStructure Implemented In Python, Java & CPP, Give a Star 🌟If it helps you
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
@@ -271,7 +269,6 @@
 
 ## Dockerfile 
 
-- [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
 - [microsoft/dotnet-framework-docker](https://github.com/microsoft/dotnet-framework-docker) - The repo for the official docker images for .NET Framework on Windows Server Core.
 - [TylerSustare/pocketbase-framework-litestream](https://github.com/TylerSustare/pocketbase-framework-litestream) - A small example using PocketBase as a Go Framework with replication/restoration of SQLite DB with Litestream
 - [RiFi2k/dockerize-your-dev](https://github.com/RiFi2k/dockerize-your-dev) - Docker compose a VM to get LetsEncrypt / NGINX proxy auto provisioning, ELK logging, Prometheus / Grafana monitoring, Portainer GUI, and more...
@@ -357,7 +354,7 @@
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
@@ -630,6 +627,7 @@
 - [CodeCutTech/Data-science](https://github.com/CodeCutTech/Data-science) - Collection of useful data science topics along with articles, videos, and code
 - [manuelgilm/data_science-portafolio](https://github.com/manuelgilm/data_science-portafolio) - 
 - [minio/blog-assets](https://github.com/minio/blog-assets) - Collection of assets used for various articles at https://blogs.min.io
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [GoogleCloudPlatform/training-data-analyst](https://github.com/GoogleCloudPlatform/training-data-analyst) - Labs and demos for courses for GCP Training (http://cloud.google.com/training).
 - [braaannigan/data-analysis-with-polars](https://github.com/braaannigan/data-analysis-with-polars) - Public notebooks and datasets to accompany the Data Analysis with Polars course on Udemy
 - [nickmccullum/algorithmic-trading-python](https://github.com/nickmccullum/algorithmic-trading-python) - The repository for freeCodeCamp's YouTube course, Algorithmic Trading in Python
@@ -648,7 +646,6 @@
 ## MDX 
 
 - [weaviate-tutorials/Hurricane](https://github.com/weaviate-tutorials/Hurricane) - Writing Blog Posts with Generative Feedback Loops!
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 
 ## Makefile 
 
@@ -1079,6 +1076,7 @@
 - [vfarcic/crossplane-gh](https://github.com/vfarcic/crossplane-gh) - 
 - [microsoft/aitour-generative-ai-in-azure](https://github.com/microsoft/aitour-generative-ai-in-azure) - 
 - [n8n-io/n8n-hosting](https://github.com/n8n-io/n8n-hosting) - Example of self-hosting n8n in various environments like docker, kubernetes, etc.
+- [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
 - [ContainerSSH/examples](https://github.com/ContainerSSH/examples) - ContainerSSH examples
 - [cloud-native-skunkworks/gitops-kubernetes-bootstrap](https://github.com/cloud-native-skunkworks/gitops-kubernetes-bootstrap) - 
 - [Hamburg-Port-Authority/kubernetes-service-catalog](https://github.com/Hamburg-Port-Authority/kubernetes-service-catalog) - Agnostic kubernetes service catalog for all hamburg-port-authority kubernetes clusters
@@ -1223,6 +1221,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio) - Azure Data Studio is a data management and development tool with connectivity to popular cloud and on-premises databases. Azure Data Studio supports Windows, macOS, and Linux, with immediate capabilit
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [platformplatform/PlatformPlatform](https://github.com/platformplatform/PlatformPlatform) - A platform designed for building enterprise-grade, multi-tenant products using Azure, .NET, React, TypeScript, Infrastructure as Code, etc.
 - [JLCarveth/nutty](https://github.com/JLCarveth/nutty) - A very simple HTTP server, and a paste server implementation.
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [pypi-data/website](https://github.com/pypi-data/website) - next.js website powering https://py-code.org/
