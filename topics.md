@@ -31,6 +31,7 @@
 - [chatgpt-api](#chatgpt-api)
 - [cli](#cli)
 - [clojure](#clojure)
+- [cloud](#cloud)
 - [cms](#cms)
 - [code](#code)
 - [code-quality](#code-quality)
@@ -155,6 +156,7 @@
 - [privacy](#privacy)
 - [productivity](#productivity)
 - [programming](#programming)
+- [programming-language](#programming-language)
 - [project-management](#project-management)
 - [pwa](#pwa)
 - [python](#python)
@@ -197,6 +199,7 @@
 - [ui](#ui)
 - [vim](#vim)
 - [visual-basic](#visual-basic)
+- [visualization](#visualization)
 - [vpn](#vpn)
 - [web](#web)
 - [web-development](#web-development)
@@ -205,9 +208,11 @@
 - [windows](#windows)
 - [xamarin](#xamarin)
 - [xml](#xml)
+- [zsh](#zsh)
 
 ## ai 
 
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [ggozad/haiku.rag](https://github.com/ggozad/haiku.rag) - Retrieval Augmented Generation based on LanceDB
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
@@ -418,6 +423,7 @@
 
 ## azure 
 
+- [Azure/azure-search-vector-samples](https://github.com/Azure/azure-search-vector-samples) - A repository of code samples for Vector search capabilities in Azure AI Search.
 - [benc-uk/chatr](https://github.com/benc-uk/chatr) - Chat app using Azure Web PubSub, Static Web Apps and other Azure services
 - [Azure/azure-functions-host](https://github.com/Azure/azure-functions-host) - The host/runtime that powers Azure Functions
 - [Azure-Samples/cosmos-db-design-patterns](https://github.com/Azure-Samples/cosmos-db-design-patterns) - A collection of design pattern samples for building applications and services with Azure Cosmos DB for NoSQL.
@@ -453,7 +459,6 @@
 - [rcarmo/azure-k3s-cluster](https://github.com/rcarmo/azure-k3s-cluster) - An Azure template to deploy a lightweight Kubernetes cluster using k3s.io
 - [platformplatform/PlatformPlatform](https://github.com/platformplatform/PlatformPlatform) - A platform designed for building enterprise-grade, multi-tenant products using Azure, .NET, React, TypeScript, Infrastructure as Code, etc.
 - [paolosalvatori/aks-managed-prometheus-and-grafana-bicep](https://github.com/paolosalvatori/aks-managed-prometheus-and-grafana-bicep) - This sample shows how to install an AKS cluster with Azure Managed Prometheus and Azure Managed Grafana via Bicep.
-- [Azure/azure-openai-samples](https://github.com/Azure/azure-openai-samples) - Azure OpenAI Samples is a collection of code samples illustrating how to use Azure Open AI in creating AI solution for various use cases across industries. This repository is mained by a community of 
 - [Azure/data-api-builder](https://github.com/Azure/data-api-builder) - Data API builder provides modern REST and GraphQL endpoints to your Azure Databases and on-prem stores.
 - [Azure-Samples/container-apps-azapi-terraform](https://github.com/Azure-Samples/container-apps-azapi-terraform) - This sample shows how to deploy a Dapr application to Azure Container Apps using Terraform with the AzAPI Provider.
 - [Azure-Samples/aks-managed-prometheus-and-grafana-bicep](https://github.com/Azure-Samples/aks-managed-prometheus-and-grafana-bicep) - This sample shows how to install an AKS cluster with Azure Managed Prometheus and Azure Managed Grafana via Bicep.
@@ -535,6 +540,7 @@
 - [Azure-Samples/azure-search-openai-demo-csharp](https://github.com/Azure-Samples/azure-search-openai-demo-csharp) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experienc
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
@@ -575,6 +581,23 @@
 ## clojure 
 
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
+
+## cloud 
+
+- [hcloud-k8s/terraform-hcloud-kubernetes](https://github.com/hcloud-k8s/terraform-hcloud-kubernetes) - Terraform Module to Deploy a Highly Available, Production-Ready Talos Kubernetes Cluster on Hetzner Cloud
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [glasskube/distr](https://github.com/glasskube/distr) - The Open Source control plane for self-managed, BYOC, and on-prem deployments. Everything you need to distribute applications to self-managed customers out of the box.
+- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
+- [tobilg/public-cloud-provider-ip-ranges](https://github.com/tobilg/public-cloud-provider-ip-ranges) - Unified datasets for public cloud provider IP ranges. Providers include AWS, Azure, CloudFlare, DigitalOcean, Fastly, Google Cloud and Oracle Cloud.
+- [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
+- [GoogleCloudPlatform/cloud-ops-sandbox](https://github.com/GoogleCloudPlatform/cloud-ops-sandbox) - Cloud Operations Sandbox is an open source collection of tools that helps practitioners to learn O11y and R9y practices from Google and apply them using Cloud Operations suite of tools.
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
+- [dotnet/aspire](https://github.com/dotnet/aspire) - Tools, templates, and packages to accelerate building observable, production-ready apps
+- [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
+- [mspnp/cloud-design-patterns](https://github.com/mspnp/cloud-design-patterns) - Sample implementations for cloud design patterns found in the Azure Architecture Center.
+- [cycloidio/terracognita](https://github.com/cycloidio/terracognita) - Reads from existing public and private cloud providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
+- [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 
 ## cms 
 
@@ -772,7 +795,7 @@
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [sqlpage/SQLPage](https://github.com/sqlpage/SQLPage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
 - [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, fault-tolerant database built on SQLite.
 - [civo/kubernetes-marketplace](https://github.com/civo/kubernetes-marketplace) - Marketplace of Kubernetes applications available for quick and easy installation in to Civo Kubernetes clusters
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
@@ -835,6 +858,7 @@
 
 ## development 
 
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -1082,6 +1106,7 @@
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [ServiceStack/ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [sqlpage/SQLPage](https://github.com/sqlpage/SQLPage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
 - [aspnetboilerplate/aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - ASP.NET Boilerplate - Web Application Framework
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
@@ -1158,7 +1183,7 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) - Generate files from docker container meta-data
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, fault-tolerant database built on SQLite.
 - [benhoyt/goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go, with CSV support
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
@@ -1261,7 +1286,10 @@
 ## hacktoberfest 
 
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for your Data and AI Stack
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+- [projectdiscovery/dnsx](https://github.com/projectdiscovery/dnsx) - dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
@@ -1273,6 +1301,7 @@
 - [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) - A small application with no dependencies to expose a local folder as an HTTP server. It includes a file explorer and a Markdown renderer.
 - [apache/hamilton](https://github.com/apache/hamilton) - Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.
 - [puppetlabs/puppetlabs-kubernetes](https://github.com/puppetlabs/puppetlabs-kubernetes) - This module install and configures a Kubernetes cluster
+- [localstack-samples/localstack-pro-samples](https://github.com/localstack-samples/localstack-pro-samples) - Sample projects to demonstrate advanced LocalStack features
 - [harsxv/tinystatus](https://github.com/harsxv/tinystatus) - Tiny status page generated by a Python script
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [dotnet/command-line-api](https://github.com/dotnet/command-line-api) - Command line parsing, invocation, and rendering of terminal output.
@@ -1282,6 +1311,7 @@
 - [TheAlgorithms/C-Sharp](https://github.com/TheAlgorithms/C-Sharp) - All algorithms implemented in C#.
 - [TheAlgorithms/Algorithms-Explanation](https://github.com/TheAlgorithms/Algorithms-Explanation) - Popular algorithms explained in simple language with examples and links to their implementation in various programming languages and other required resources.
 - [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
+- [dotnet/aspire](https://github.com/dotnet/aspire) - Tools, templates, and packages to accelerate building observable, production-ready apps
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -1292,8 +1322,9 @@
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [go-skynet/LocalAI-frontend](https://github.com/go-skynet/LocalAI-frontend) - 
-- [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
+- [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
+- [kubestellar/kubestellar](https://github.com/kubestellar/kubestellar) - KubeStellar - a flexible solution for multi-cluster configuration management for edge, multi-cloud, and hybrid cloud
 - [Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) - This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versio
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing
@@ -1362,6 +1393,7 @@
 
 ## information-gathering 
 
+- [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 
 ## ios 
@@ -1852,6 +1884,7 @@
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [Py-Contributors/AlgorithmsAndDataStructure](https://github.com/Py-Contributors/AlgorithmsAndDataStructure) - Algorithms And DataStructure Implemented In Python, Java & CPP, Give a Star 🌟If it helps you
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [salaboy/platforms-on-k8s](https://github.com/salaboy/platforms-on-k8s) - Platform Engineering on Kubernetes :: Book Examples
@@ -1877,22 +1910,29 @@
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [microsoft/typechat.net](https://github.com/microsoft/typechat.net) - 
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&A experiences.
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [retkowsky/Azure-AIGEN-demos](https://github.com/retkowsky/Azure-AIGEN-demos) - Azure AI Foundry (demos, documentation, accelerators).
 - [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator) - A Solution Accelerator for the RAG pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. This includes most c
 - [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - A script to effortlessly extract your entire ChatGPT data export from JSON files to nicely-formatted markdown files.
-- [Azure/azure-openai-samples](https://github.com/Azure/azure-openai-samples) - Azure OpenAI Samples is a collection of code samples illustrating how to use Azure Open AI in creating AI solution for various use cases across industries. This repository is mained by a community of 
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 
 ## osint 
 
+- [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 
 ## others 
 
+- [microsoft/AzureDataRetrievalAugmentedGenerationSamples](https://github.com/microsoft/AzureDataRetrievalAugmentedGenerationSamples) - Samples to demonstrate pathways for Retrieval Augmented Generation (RAG) for Azure Data
+- [fly-apps/mcp-internal-dns](https://github.com/fly-apps/mcp-internal-dns) - MCP Server for querying Fly.io internal DNS records
+- [repomirrorhq/ai-sdk-python](https://github.com/repomirrorhq/ai-sdk-python) - 
+- [microsoft/AzDevOpsDemoGenerator](https://github.com/microsoft/AzDevOpsDemoGenerator) - Azure DevOps Demo Generator helps teams create projects on their Team Services account with pre-populated sample content that includes source code, work items, iterations, service endpoints, build and
+- [projectdiscovery/actions](https://github.com/projectdiscovery/actions) - ProjectDiscovery's Composite Actions
+- [Azure-Samples/functions-quickstart-dotnet-azd-eventgrid-blob](https://github.com/Azure-Samples/functions-quickstart-dotnet-azd-eventgrid-blob) - This template repository contains a Blob trigger with the Event Grid source type reference sample for functions written in C# (isolated process mode) and deployed to Azure using the Azure Developer CL
 - [BogdanTheGeek/semihost-ip](https://github.com/BogdanTheGeek/semihost-ip) - Running TCP/IP over SWD lines
 - [AzureCosmosDB/Azure-OpenAI-Node.js-Developer-Guide](https://github.com/AzureCosmosDB/Azure-OpenAI-Node.js-Developer-Guide) - Azure Cosmos DB + Azure OpenAI Node.js Developer Guide
 - [laude-institute/terminal-bench](https://github.com/laude-institute/terminal-bench) - A benchmark for LLMs on complicated tasks in the terminal
@@ -1907,8 +1947,6 @@
 - [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev agents
 - [FAIRDataTeam/FAIRDataPoint-E2E-Tests](https://github.com/FAIRDataTeam/FAIRDataPoint-E2E-Tests) - 
 - [jritsema/go-htmx-tailwind-example](https://github.com/jritsema/go-htmx-tailwind-example) - Example CRUD app written in Go + HTMX + Tailwind CSS
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for your Data and AI Stack
 - [Jcharis/DataScienceTools](https://github.com/Jcharis/DataScienceTools) - Useful Data Science and Machine Learning Tools,Libraries and Packages
 - [mistralai/cookbook](https://github.com/mistralai/cookbook) - 
 - [tavily-ai/use-cases](https://github.com/tavily-ai/use-cases) - 
@@ -1991,7 +2029,6 @@
 - [rancher/local-path-provisioner](https://github.com/rancher/local-path-provisioner) - Dynamically provisioning persistent local storage with Kubernetes
 - [x-real-ip/gitops](https://github.com/x-real-ip/gitops) - GitOps using Kubernetes manifests, Kustomize and ArgoCD.
 - [cloud-native-skunkworks/gitops-kubernetes-bootstrap](https://github.com/cloud-native-skunkworks/gitops-kubernetes-bootstrap) - 
-- [k8spacket/k8spacket](https://github.com/k8spacket/k8spacket) - k8spacket - collects TCP traffic and TLS connection metadata in the Kubernetes cluster using eBPF and visualizes in Grafana
 - [Hamburg-Port-Authority/kubernetes-service-catalog](https://github.com/Hamburg-Port-Authority/kubernetes-service-catalog) - Agnostic kubernetes service catalog for all hamburg-port-authority kubernetes clusters
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) - Cloud provider for KIND clusters
 - [jupyterhub/chartpress](https://github.com/jupyterhub/chartpress) - automate building and publishing images for helm charts
@@ -2102,7 +2139,7 @@
 - [potahtml/mpa-archive](https://github.com/potahtml/mpa-archive) - Crawls a Multi-Page Application to a zip file, serve the Multi-Page Application from the zip file. A MPA archiver. Could be used as a Site Generator. Written for https://pota.quack.uy/
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [microsoft/sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatGPT) - Sample code for a simple web chat experience through Azure OpenAI, including Azure OpenAI On Your Data.
-- [controlplaneio-fluxcd/charts](https://github.com/controlplaneio-fluxcd/charts) - ControlPlane Helm Charts
+- [controlplaneio-fluxcd/charts](https://github.com/controlplaneio-fluxcd/charts) - ControlPlane Enterprise for Flux CD Helm Charts
 - [Radiergummi/iss-metrics](https://github.com/Radiergummi/iss-metrics) - Observability stack for telemetry data of the International Space Station
 - [appleboy/scp-action](https://github.com/appleboy/scp-action) - GitHub Action that copy files and artifacts via SSH.
 - [ldw3097/realworld_python-lambda-DDB](https://github.com/ldw3097/realworld_python-lambda-DDB) - realworld implementation using python, AWS Lambda, DynamoDB
@@ -2247,7 +2284,7 @@
 - [Azure/review-checklists](https://github.com/Azure/review-checklists) - Azure Review Checklists helps ensure you are following Microsoft best practices and recommendations across Platform, Applications and Services on Azure
 - [Apress/Kubernetes-Programming-with-Go-by-Philippe-Martin](https://github.com/Apress/Kubernetes-Programming-with-Go-by-Philippe-Martin) - Kubernetes Programming with Go by Philippe Martin
 - [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker) - Official container images for .NET
-- [Youssef-Harby/OvertureMapsDownloader](https://github.com/Youssef-Harby/OvertureMapsDownloader) - Overture Maps Downloader simplifies geospatial data manipulation by integrating the powerful DuckDB, Dask DataFrames, and GDAL/OGR open source tools.
+- [yharby/OvertureMapsDownloader](https://github.com/yharby/OvertureMapsDownloader) - Overture Maps Downloader simplifies geospatial data manipulation by integrating the powerful DuckDB, Dask DataFrames, and GDAL/OGR open source tools.
 - [crossbowerbt/awk-webserver](https://github.com/crossbowerbt/awk-webserver) - A simple webserver, written in GNU awk, that supports directory listing and download of file from the directory where it is launched
 - [exchangeratesapi/exchangeratesapi](https://github.com/exchangeratesapi/exchangeratesapi) - Exchange Rates API
 - [mafintosh/csv-parser](https://github.com/mafintosh/csv-parser) - Streaming csv parser inspired by binary-csv that aims to be faster than everyone else
@@ -2415,6 +2452,11 @@
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
+## programming-language 
+
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
+- [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
+
 ## project-management 
 
 - [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
@@ -2426,6 +2468,7 @@
 
 ## python 
 
+- [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
@@ -2493,6 +2536,7 @@
 - [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
 - [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
+- [dotnet/aspire](https://github.com/dotnet/aspire) - Tools, templates, and packages to accelerate building observable, production-ready apps
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [TezRomacH/python-package-template](https://github.com/TezRomacH/python-package-template) - 🚀 Your next Python package needs a bleeding-edge project structure.
@@ -2555,7 +2599,7 @@
 - [Py-Contributors/AlgorithmsAndDataStructure](https://github.com/Py-Contributors/AlgorithmsAndDataStructure) - Algorithms And DataStructure Implemented In Python, Java & CPP, Give a Star 🌟If it helps you
 - [cruft/cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.
 - [Shikha-code36/Restaurant-Monitoring-System](https://github.com/Shikha-code36/Restaurant-Monitoring-System) - Backend system for restaurant management
-- [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time hybrid runtime-static type-checking in pure Python.
+- [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time pure-Python runtime-static type-checker.
 - [harsxv/tinystatus](https://github.com/harsxv/tinystatus) - Tiny status page generated by a Python script
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [s3rius/FastAPI-template](https://github.com/s3rius/FastAPI-template) - Feature rich robust FastAPI template.
@@ -2767,7 +2811,7 @@
 - [sqlpage/SQLPage](https://github.com/sqlpage/SQLPage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
 - [nalgeon/sqlime](https://github.com/nalgeon/sqlime) - Online SQLite playground
 - [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, fault-tolerant database built on SQLite.
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
 - [Azure-Samples/azure-sql-db-sync-api-change-tracking](https://github.com/Azure-Samples/azure-sql-db-sync-api-change-tracking) - Using Azure SQL Change Tracking API to Sync mobile Apps data with the Cloud
@@ -2803,7 +2847,7 @@
 - [nalgeon/sqlime](https://github.com/nalgeon/sqlime) - Online SQLite playground
 - [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
 - [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, fault-tolerant database built on SQLite.
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit and admin panel in Go
@@ -2919,6 +2963,7 @@
 - [stack-auth/stack-auth](https://github.com/stack-auth/stack-auth) - Open-source Auth0/Clerk alternative
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
+- [dotnet/aspire](https://github.com/dotnet/aspire) - Tools, templates, and packages to accelerate building observable, production-ready apps
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
@@ -2951,6 +2996,13 @@
 
 - [dotnet/docs](https://github.com/dotnet/docs) - This repository contains .NET Documentation.
 - [dotnet/samples](https://github.com/dotnet/samples) - Sample code referenced by the .NET documentation
+
+## visualization 
+
+- [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
+- [k8spacket/k8spacket](https://github.com/k8spacket/k8spacket) - k8spacket - collects TCP traffic and TLS connection metadata in the Kubernetes cluster using eBPF and visualizes in Grafana
+- [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
+- [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 
 ## vpn 
 
@@ -3000,6 +3052,11 @@
 
 - [ServiceStack/ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
 - [mattrobenolt/jinja2-cli](https://github.com/mattrobenolt/jinja2-cli) - CLI for Jinja2
+
+## zsh 
+
+- [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
+- [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 
 
 ## License
