@@ -10,6 +10,7 @@
 - [Awk](#awk)
 - [Batchfile](#batchfile)
 - [Bicep](#bicep)
+- [Bru](#bru)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -99,6 +100,10 @@
 - [Azure-Samples/aks-front-door-private-link-service](https://github.com/Azure-Samples/aks-front-door-private-link-service) - This sample shows how Azure Front Door Premium can be set to use a Private Link Service to expose an AKS-hosted workload via NGINX Ingress Controller configured to use a private IP address on the inte
 - [Azure-Samples/github-runner-on-aks](https://github.com/Azure-Samples/github-runner-on-aks) - Deploy GitHub Action runner on AKS
 - [Azure/aca-dotnet-workshop](https://github.com/Azure/aca-dotnet-workshop) - A Dotnet Azure Container Apps workshop showcasing how to accelerate developers' ability to develop and ship distributed applications.
+
+## Bru 
+
+- [mudler/LocalAI-examples](https://github.com/mudler/LocalAI-examples) - LocalAI examples
 
 ## C 
 
@@ -536,6 +541,7 @@
 
 ## JavaScript 
 
+- [fly-apps/mcp-internal-dns](https://github.com/fly-apps/mcp-internal-dns) - MCP Server for querying Fly.io internal DNS records
 - [projectdiscovery/actions](https://github.com/projectdiscovery/actions) - ProjectDiscovery's Composite Actions
 - [AzureCosmosDB/Azure-OpenAI-Node.js-Developer-Guide](https://github.com/AzureCosmosDB/Azure-OpenAI-Node.js-Developer-Guide) - Azure Cosmos DB + Azure OpenAI Node.js Developer Guide
 - [benc-uk/chatr](https://github.com/benc-uk/chatr) - Chat app using Azure Web PubSub, Static Web Apps and other Azure services
@@ -590,6 +596,8 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/AzureDataRetrievalAugmentedGenerationSamples](https://github.com/microsoft/AzureDataRetrievalAugmentedGenerationSamples) - Samples to demonstrate pathways for Retrieval Augmented Generation (RAG) for Azure Data
+- [Azure/azure-search-vector-samples](https://github.com/Azure/azure-search-vector-samples) - A repository of code samples for Vector search capabilities in Azure AI Search.
 - [AnswerDotAI/nbdev](https://github.com/AnswerDotAI/nbdev) - Create delightful software with Jupyter Notebooks
 - [AnswerDotAI/fasthtml](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app
 - [Jcharis/DataScienceTools](https://github.com/Jcharis/DataScienceTools) - Useful Data Science and Machine Learning Tools,Libraries and Packages
@@ -616,9 +624,7 @@
 - [databricks/docker-spark-iceberg](https://github.com/databricks/docker-spark-iceberg) - 
 - [MicrosoftLearning/mslearn-fabric](https://github.com/MicrosoftLearning/mslearn-fabric) - This repository hosts content related to Microsoft Fabric content on Microsoft Learn.
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
-- [mudler/LocalAI-examples](https://github.com/mudler/LocalAI-examples) - LocalAI examples
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
@@ -758,6 +764,7 @@
 
 ## Python 
 
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [repomirrorhq/ai-sdk-python](https://github.com/repomirrorhq/ai-sdk-python) - 
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [laude-institute/terminal-bench](https://github.com/laude-institute/terminal-bench) - A benchmark for LLMs on complicated tasks in the terminal
@@ -875,7 +882,7 @@
 - [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
 - [falconcr/codellama-python](https://github.com/falconcr/codellama-python) - This is a PoC about integrating docker + codellama + python in order to apply code review in the pre-commit git hook
 - [dlenski/what-vpn](https://github.com/dlenski/what-vpn) - Identify servers running various SSL VPNs based on protocol-specific behaviors
-- [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time hybrid runtime-static type-checking in pure Python.
+- [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time pure-Python runtime-static type-checker.
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 - [radiac/nanodjango](https://github.com/radiac/nanodjango) - Full Django in a single file - views, models, API ,with async support. Automatically convert it to a full project.
@@ -922,6 +929,7 @@
 - [koek67/resume-builder](https://github.com/koek67/resume-builder) - Create a clean, easy to read resume in pure Python.
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast a
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
@@ -1119,7 +1127,7 @@
 - [llimllib/gpt-bash-cli](https://github.com/llimllib/gpt-bash-cli) - A simple bash interface to openai's API that saves requests and responses to a sqlite database
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [buchdag/letsencrypt-nginx-proxy-companion-compose](https://github.com/buchdag/letsencrypt-nginx-proxy-companion-compose) - Example compose files for letsencrypt-nginx-proxy-companion
-- [controlplaneio-fluxcd/charts](https://github.com/controlplaneio-fluxcd/charts) - ControlPlane Helm Charts
+- [controlplaneio-fluxcd/charts](https://github.com/controlplaneio-fluxcd/charts) - ControlPlane Enterprise for Flux CD Helm Charts
 - [appleboy/scp-action](https://github.com/appleboy/scp-action) - GitHub Action that copy files and artifacts via SSH.
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
