@@ -131,6 +131,7 @@
 - [Azure-Samples/azure-search-openai-demo-csharp](https://github.com/Azure-Samples/azure-search-openai-demo-csharp) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experienc
 - [qdrant/qdrant-dotnet](https://github.com/qdrant/qdrant-dotnet) - Qdrant .Net SDK
 - [efcore/EFCoreDemos](https://github.com/efcore/EFCoreDemos) - 
+- [microsoft/dotnet-framework-docker](https://github.com/microsoft/dotnet-framework-docker) - The repo for the official docker images for .NET Framework on Windows Server Core.
 - [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 10 RC 1, 9, 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contains explanations on all projects.
 - [dotnet/extensions](https://github.com/dotnet/extensions) - This repository contains a suite of libraries that provide facilities commonly needed when creating production-ready applications.
 - [dotnet/Scaffolding](https://github.com/dotnet/Scaffolding) - Code generators to speed up development.
@@ -187,7 +188,7 @@
 - [traintocode/serverless-aws-website](https://github.com/traintocode/serverless-aws-website) - 
 - [karlospn/dotnet-strategy-pattern-using-dependency-injection](https://github.com/karlospn/dotnet-strategy-pattern-using-dependency-injection) - This repository contains an example that shows how easy is to build a Strategy pattern using dependency injection with .NET
 - [karlospn/opentelemetry-metrics-demo](https://github.com/karlospn/opentelemetry-metrics-demo) - Example about how to use OpenTelemetry metrics on a .NET app and how to visualize those metrics using Prometheus and Grafana.
-- [dotnet/aspire](https://github.com/dotnet/aspire) - Tools, templates, and packages to accelerate building observable, production-ready apps
+- [dotnet/aspire](https://github.com/dotnet/aspire) - Aspire is the tool for code-first, extensible, observable dev and deploy.
 - [cornflourblue/dotnet-6-crud-api](https://github.com/cornflourblue/dotnet-6-crud-api) - .NET 6.0 - CRUD API Example
 - [microsoft/typechat.net](https://github.com/microsoft/typechat.net) - 
 - [NetCoreApps/GPTMeetingAgent](https://github.com/NetCoreApps/GPTMeetingAgent) - A pattern for GPT Agent integration with ServiceStack services
@@ -281,7 +282,6 @@
 ## Dockerfile 
 
 - [lipanski/docker-static-website](https://github.com/lipanski/docker-static-website) - A very small Docker image (~80KB) to run any static website
-- [microsoft/dotnet-framework-docker](https://github.com/microsoft/dotnet-framework-docker) - The repo for the official docker images for .NET Framework on Windows Server Core.
 - [TylerSustare/pocketbase-framework-litestream](https://github.com/TylerSustare/pocketbase-framework-litestream) - A small example using PocketBase as a Go Framework with replication/restoration of SQLite DB with Litestream
 - [RiFi2k/dockerize-your-dev](https://github.com/RiFi2k/dockerize-your-dev) - Docker compose a VM to get LetsEncrypt / NGINX proxy auto provisioning, ELK logging, Prometheus / Grafana monitoring, Portainer GUI, and more...
 - [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker) - Official container images for .NET
@@ -306,7 +306,6 @@
 - [ckanthony/openapi-mcp](https://github.com/ckanthony/openapi-mcp) - Dockerized MCP Server to allow your AI agent to access any API with existing api docs
 - [projectdiscovery/dnsx](https://github.com/projectdiscovery/dnsx) - dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
-- [micro/micro](https://github.com/micro/micro) - A microservices toolkit
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - 📖 100 Go Mistakes and How to Avoid Them
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [kubernetes-sigs/cluster-api-provider-kubevirt](https://github.com/kubernetes-sigs/cluster-api-provider-kubevirt) - Cluster API Provider for KubeVirt
@@ -458,7 +457,7 @@
 - [gitops-bridge-dev/gitops-bridge](https://github.com/gitops-bridge-dev/gitops-bridge) - 
 - [Azure/terraform-azurerm-avm-template](https://github.com/Azure/terraform-azurerm-avm-template) - Template repo for Azure Verified Modules using Terraform
 - [argoproj/argoproj-deployments](https://github.com/argoproj/argoproj-deployments) - Deployment repository for Argoproj CI/CD
-- [databricks/terraform-databricks-sra](https://github.com/databricks/terraform-databricks-sra) - The Security Reference Architecture (SRA) implements typical security features as Terraform Templates that are deployed by most high-security organizations, and enforces controls for the largest risks
+- [databricks/terraform-databricks-sra](https://github.com/databricks/terraform-databricks-sra) - The Security Reference Architecture (SRA) with Terraform enables deployment of Databricks workspaces and cloud infrastructure configured with security best practices.
 - [datarevenue-berlin/OpenMLOps](https://github.com/datarevenue-berlin/OpenMLOps) - 
 - [Azure/terraform-azurerm-avm-res-web-site](https://github.com/Azure/terraform-azurerm-avm-res-web-site) - Terraform Azure Verified Resource Module for Web/Function App
 - [Naman1997/simple-talos-cluster](https://github.com/Naman1997/simple-talos-cluster) - Automated Talos cluster with system extensions in a Proxmox node.
@@ -764,6 +763,7 @@
 
 ## Python 
 
+- [ssi-dk/microreact_integration](https://github.com/ssi-dk/microreact_integration) - Python code for integrating with Microreact
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [repomirrorhq/ai-sdk-python](https://github.com/repomirrorhq/ai-sdk-python) - 
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
@@ -771,7 +771,6 @@
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
 - [ggozad/haiku.rag](https://github.com/ggozad/haiku.rag) - Retrieval Augmented Generation based on LanceDB
-- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [fastai/nbdev-hello-world](https://github.com/fastai/nbdev-hello-world) - Hello world from nbdev
 - [robotframework/robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA
@@ -1106,7 +1105,6 @@
 - [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
 - [ContainerSSH/examples](https://github.com/ContainerSSH/examples) - ContainerSSH examples
 - [cloud-native-skunkworks/gitops-kubernetes-bootstrap](https://github.com/cloud-native-skunkworks/gitops-kubernetes-bootstrap) - 
-- [Hamburg-Port-Authority/kubernetes-service-catalog](https://github.com/Hamburg-Port-Authority/kubernetes-service-catalog) - Agnostic kubernetes service catalog for all hamburg-port-authority kubernetes clusters
 - [stefanprodan/gitops-linkerd](https://github.com/stefanprodan/gitops-linkerd) - Progressive Delivery workshop with Linkerd, Flagger and Flux
 - [tobilg/public-cloud-provider-ip-ranges](https://github.com/tobilg/public-cloud-provider-ip-ranges) - Unified datasets for public cloud provider IP ranges. Providers include AWS, Azure, CloudFlare, DigitalOcean, Fastly, Google Cloud and Oracle Cloud.
 - [client9/shlib](https://github.com/client9/shlib) - portable functions for posix shell environments
@@ -1199,6 +1197,7 @@
 
 - [jpmonette/feed](https://github.com/jpmonette/feed) - A RSS, Atom and JSON Feed generator for Node.js, making content syndication simple and intuitive! 🚀
 - [phiresky/blog](https://github.com/phiresky/blog) - Source code of my personal blog
+- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [Azure/azure-webpubsub](https://github.com/Azure/azure-webpubsub) - Azure Web PubSub Service helps you to manage WebSocket connections and do publish and subscribe in an easy way
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [argentinaluiz/docker-tmpfs](https://github.com/argentinaluiz/docker-tmpfs) - 
