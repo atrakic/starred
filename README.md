@@ -36,6 +36,7 @@
 - [Makefile](#makefile)
 - [Mermaid](#mermaid)
 - [Mustache](#mustache)
+- [Nix](#nix)
 - [Others](#others)
 - [PLpgSQL](#plpgsql)
 - [PowerShell](#powershell)
@@ -120,6 +121,7 @@
 
 ## C# # 
 
+- [davidfowl/aspire-13-samples](https://github.com/davidfowl/aspire-13-samples) - A repo showing micro samples with aspire 13
 - [MassTransit/MassTransit](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET
 - [Azure-Samples/azure-search-power-skills](https://github.com/Azure-Samples/azure-search-power-skills) - A collection of useful functions to be deployed as custom skills for Azure Cognitive Search
 - [microsoft/AzDevOpsDemoGenerator](https://github.com/microsoft/AzDevOpsDemoGenerator) - Azure DevOps Demo Generator helps teams create projects on their Team Services account with pre-populated sample content that includes source code, work items, iterations, service endpoints, build and
@@ -237,6 +239,7 @@
 - [App-vNext/Polly](https://github.com/App-vNext/Polly) - Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thr
 - [Xabaril/AspNetCore.Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks) - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
 - [dotnet/roslynator](https://github.com/dotnet/roslynator) - Roslynator is a set of code analysis tools for C#, powered by Roslyn.
+- [platformplatform/PlatformPlatform](https://github.com/platformplatform/PlatformPlatform) - A platform designed for building enterprise-grade, multi-tenant products using Azure, .NET, React, TypeScript, Infrastructure as Code, etc.
 - [stefanprodan/AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) - ASP.NET Core rate limiting middleware
 - [MoaidHathot/Dumpify](https://github.com/MoaidHathot/Dumpify) - Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's.
 - [Azure/data-api-builder](https://github.com/Azure/data-api-builder) - Data API builder provides modern REST and GraphQL endpoints to your Azure Databases and on-prem stores.
@@ -301,6 +304,7 @@
 
 ## Go 
 
+- [coder/agentapi](https://github.com/coder/agentapi) - HTTP API for Claude Code, Goose, Aider, Gemini, Amp, and Codex
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [antoniomika/sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
@@ -348,7 +352,7 @@
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQL
 - [aws-samples/sqs-fargate-ddb-cdk-go](https://github.com/aws-samples/sqs-fargate-ddb-cdk-go) - 
 - [yudhasubki/blockqueue](https://github.com/yudhasubki/blockqueue) - BlockQueue is a open source and cost-effective Job Queue with a pub/sub mechanism utilizing SQLite and NutsDB. Support LibSQL by Turso and PostgreSQL
-- [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator built on top of NATS
+- [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite server with MySQL wire compatible interface
 - [benbjohnson/litestream-docker-example](https://github.com/benbjohnson/litestream-docker-example) - An example of using Litestream within a Docker container.
 - [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -358,7 +362,7 @@
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
 - [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [letsencrypt/pebble](https://github.com/letsencrypt/pebble) - A miniature version of Boulder, Pebble is a small RFC 8555 ACME test server not suited for a production certificate authority.
@@ -481,7 +485,7 @@
 - [geekzter/azure-aks](https://github.com/geekzter/azure-aks) - Network Isolated AKS
 - [Azure/Mission-Critical-Online](https://github.com/Azure/Mission-Critical-Online) - This repository is part of the Azure Mission-Critical open source project that provides a prescriptive architectural approach to building highly-reliable cloud-native applications on Microsoft Azure f
 - [Azure/alz-terraform-accelerator](https://github.com/Azure/alz-terraform-accelerator) - Azure Landing Zones Terraform Accelerator
-- [aws-samples/eks-saas-gitops](https://github.com/aws-samples/eks-saas-gitops) - Source repo of Building SaaS applications on Amazon EKS using GitOps workshop
+- [aws-solutions-library-samples/eks-saas-gitops](https://github.com/aws-solutions-library-samples/eks-saas-gitops) - Source repo of Building SaaS applications on Amazon EKS using GitOps workshop
 - [aws-ia/terraform-aws-eks-data-addons](https://github.com/aws-ia/terraform-aws-eks-data-addons) - Terraform Module: Deploy Data/ML Addons Helm Charts on EKS 🚀
 - [aws-ia/terraform-aws-eks-blueprints-teams](https://github.com/aws-ia/terraform-aws-eks-blueprints-teams) - Configure and deploy Team based multi-tenant EKS clusters.
 - [awslabs/crossplane-on-eks](https://github.com/awslabs/crossplane-on-eks) - Crossplane bespoke composition blueprints for AWS resources
@@ -508,6 +512,7 @@
 
 ## HTML 
 
+- [OWASP/Top10](https://github.com/OWASP/Top10) - Official OWASP Top 10 Document Repository
 - [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 - [a-nau/password-protected-website-template](https://github.com/a-nau/password-protected-website-template) - Template to create and host a simple password-protected website with Github Pages.
@@ -693,8 +698,13 @@
 - [porter-dev/porter-charts](https://github.com/porter-dev/porter-charts) - 
 - [codefresh-contrib/gitops-certification-examples](https://github.com/codefresh-contrib/gitops-certification-examples) - GitOps Certification Level 1 examples
 
+## Nix 
+
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
+
 ## Others 
 
+- [OWASP/DevGuide](https://github.com/OWASP/DevGuide) - The OWASP Developer Guide
 - [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 - [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
 - [factbook/factbook.json](https://github.com/factbook/factbook.json) - World Factbook Country Profiles in JSON  - Free Open Public Domain Data - No API Key Required ;-)
@@ -775,6 +785,9 @@
 
 ## Python 
 
+- [karpathy/reader3](https://github.com/karpathy/reader3) - Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it.
+- [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
+- [aws-samples/serverless-patterns](https://github.com/aws-samples/serverless-patterns) - Serverless patterns. Learn more at the website: https://serverlessland.com/patterns.
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [AsahiLinux/asahi-installer](https://github.com/AsahiLinux/asahi-installer) - Asahi Linux installer
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
@@ -813,7 +826,7 @@
 - [microsoft/build-your-first-agent-with-azure-ai-agent-service-workshop](https://github.com/microsoft/build-your-first-agent-with-azure-ai-agent-service-workshop) - Build your first agent with Azure AI Agent Service Workshop
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [Pravko-Solutions/FlashLearn](https://github.com/Pravko-Solutions/FlashLearn) - Integrate LLM in any pipeline - fit/predict pattern, JSON driven flows, and built in concurency support.
-- [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High-Performance Python Compute Engine for Data and AI
+- [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High Performance Data Processing in Python
 - [Avaiga/demo-drift-detection](https://github.com/Avaiga/demo-drift-detection) - Detecting Drift in a Diabetes Dataset using Taipy
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [twisted/twisted](https://github.com/twisted/twisted) - Event-driven networking engine written in Python.
@@ -881,6 +894,7 @@
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [databricks/pgsqlite](https://github.com/databricks/pgsqlite) - Load sqlite databases into Postgres databases
 - [databricks/mlops-stacks](https://github.com/databricks/mlops-stacks) - This repo provides a customizable stack for starting new ML projects on Databricks that follow production best-practices out of the box.
+- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [Azure/Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 - [giantswarm/app-build-suite](https://github.com/giantswarm/app-build-suite) - A tool to build and release apps for app platform
 - [databricks-industry-solutions/security-analysis-tool](https://github.com/databricks-industry-solutions/security-analysis-tool) - Security Analysis Tool (SAT) analyzes customer's Databricks account and workspace security configurations and provides recommendations that help them follow Databrick's security best practices. When a
@@ -1006,7 +1020,7 @@
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [aws-cloudformation/aws-cloudformation-templates](https://github.com/aws-cloudformation/aws-cloudformation-templates) - A collection of useful CloudFormation templates
 - [sp1thas/book-depository-dataset](https://github.com/sp1thas/book-depository-dataset) - A large collection of books, scraped from bookdepository.com
-- [mljar/mercury](https://github.com/mljar/mercury) - Convert Jupyter Notebooks to Web Apps
+- [mljar/mercury](https://github.com/mljar/mercury) - Create web apps from Python notebooks
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
 - [AlexIoannides/pyspark-example-project](https://github.com/AlexIoannides/pyspark-example-project) - Implementing best practices for PySpark ETL jobs and applications.
@@ -1146,7 +1160,7 @@
 - [controlplaneio-fluxcd/charts](https://github.com/controlplaneio-fluxcd/charts) - ControlPlane Enterprise for Flux CD Helm Charts
 - [appleboy/scp-action](https://github.com/appleboy/scp-action) - GitHub Action that copy files and artifacts via SSH.
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
-- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
 - [grafana/docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm) - OpenTelemetry backend in a Docker image
 - [learnk8s/bash-ingress](https://github.com/learnk8s/bash-ingress) - 
@@ -1184,7 +1198,7 @@
 ## Smarty 
 
 - [aws-samples/eks-blueprints-add-ons](https://github.com/aws-samples/eks-blueprints-add-ons) - 
-- [Obmondo/kubeaid](https://github.com/Obmondo/kubeaid) - KubeAid - Management Suite for Kubernetes using GitOps.
+- [Obmondo/KubeAid](https://github.com/Obmondo/KubeAid) - KubeAid - Management Suite for Kubernetes using GitOps.
 - [solo-io/gitops-library](https://github.com/solo-io/gitops-library) - gitops examples using argocd, helm, and yaml
 - [la-cc/aks-creator-argocd-cockpit](https://github.com/la-cc/aks-creator-argocd-cockpit) - 
 
@@ -1234,7 +1248,6 @@
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [aptakube/kubespec.dev](https://github.com/aptakube/kubespec.dev) - Kubernetes Spec Explorer
-- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [Azure-Samples/aks-platform-engineering](https://github.com/Azure-Samples/aks-platform-engineering) - Opinionated AKS + OSS stack with ArgoCD, CAPZ/ASO or Crossplane, Terraform, Backstage
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [villesau/ai-codereviewer](https://github.com/villesau/ai-codereviewer) - AI Code Reviewer: Enhance your GitHub workflow with AI-powered code review! Get intelligent feedback and suggestions on pull requests using OpenAI's GPT-4 API, improving code quality and saving develo
@@ -1273,7 +1286,6 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio) - Azure Data Studio is a data management and development tool with connectivity to popular cloud and on-premises databases. Azure Data Studio supports Windows, macOS, and Linux, with immediate capabilit
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-- [platformplatform/PlatformPlatform](https://github.com/platformplatform/PlatformPlatform) - A platform designed for building enterprise-grade, multi-tenant products using Azure, .NET, React, TypeScript, Infrastructure as Code, etc.
 - [JLCarveth/nutty](https://github.com/JLCarveth/nutty) - A very simple HTTP server, and a paste server implementation.
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [pypi-data/website](https://github.com/pypi-data/website) - next.js website powering https://py-code.org/
@@ -1293,6 +1305,7 @@
 
 ## Vim Script 
 
+- [ajtulloch/dots](https://github.com/ajtulloch/dots) - 
 - [laktak/tome](https://github.com/laktak/tome) - 🔁 Interactive Script playbooks for your terminal with Vim/Neovim (and Tmux)
 - [OmniSharp/omnisharp-vim](https://github.com/OmniSharp/omnisharp-vim) - Vim omnicompletion (intellisense) and more for C#
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
