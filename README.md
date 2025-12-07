@@ -67,6 +67,7 @@
 
 ## Astro 
 
+- [bhavnicksm/pbnj](https://github.com/bhavnicksm/pbnj) - 🥪 Want your own Paste Bin that jelly-s well with your workflow? ✨ You've come to the right place!
 - [manuelernestog/astrofy](https://github.com/manuelernestog/astrofy) - Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.
 
 ## Awk 
@@ -244,7 +245,6 @@
 - [MoaidHathot/Dumpify](https://github.com/MoaidHathot/Dumpify) - Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's.
 - [Azure/data-api-builder](https://github.com/Azure/data-api-builder) - Data API builder provides modern REST and GraphQL endpoints to your Azure Databases and on-prem stores.
 - [tjoudeh/container-apps-grpc-dapr](https://github.com/tjoudeh/container-apps-grpc-dapr) - Sample repository shows how to two services deployed to Azure Container Apps communicate synchronously over gRPC without using Dapr and then we will Daperize the two services and utilize the service-t
-- [mspnp/fabrikam-dronedelivery-workload](https://github.com/mspnp/fabrikam-dronedelivery-workload) - This repository contains source files for services that are shared by the microservices and fabrikam-drone delivery reference implementations.
 - [dotnet/AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs) - Documentation for ASP.NET Core
 - [paolosalvatori/handle-private-endopints-events-with-event-grid](https://github.com/paolosalvatori/handle-private-endopints-events-with-event-grid) - This sample demonstrates how to handle Azure Private Endpoints provisioning and deprovisioning events with Azure Event Grid
 - [dotnet/samples](https://github.com/dotnet/samples) - Sample code referenced by the .NET documentation
@@ -304,6 +304,7 @@
 
 ## Go 
 
+- [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [coder/agentapi](https://github.com/coder/agentapi) - HTTP API for Claude Code, Goose, Aider, Gemini, Amp, and Codex
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
@@ -385,7 +386,7 @@
 - [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) - Generate files from docker container meta-data
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [SeldonIO/seldon-core](https://github.com/SeldonIO/seldon-core) - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, fault-tolerant database built on SQLite.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
 - [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [adhocteam/script_exporter](https://github.com/adhocteam/script_exporter) - Shell script prometheus exporter
 - [mccutchen/go-httpbin](https://github.com/mccutchen/go-httpbin) - A reasonably complete and well-tested golang port of httpbin, with zero dependencies outside the go stdlib.
@@ -575,7 +576,7 @@
 - [potahtml/mpa-archive](https://github.com/potahtml/mpa-archive) - Crawls a Multi-Page Application to a zip file, serve the Multi-Page Application from the zip file. A MPA archiver. Could be used as a Site Generator. Written for https://pota.quack.uy/
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [Azure-Samples/active-directory-b2c-dotnet-webapp-and-webapi](https://github.com/Azure-Samples/active-directory-b2c-dotnet-webapp-and-webapi) - A combined sample for a .NET web application that calls a .NET web API, both secured using Azure AD B2C
-- [NetCoreTemplates/razor-ssg](https://github.com/NetCoreTemplates/razor-ssg) - .NET 8 Statically Generated, CDN hostable Razor Pages Website
+- [NetCoreTemplates/razor-ssg](https://github.com/NetCoreTemplates/razor-ssg) - .NET 10 Statically Generated, CDN hostable Razor Pages Website
 - [ServiceStack/docs.servicestack.net](https://github.com/ServiceStack/docs.servicestack.net) - ServiceStack Docs built with Razor SSG
 - [grafana/intro-to-mltp](https://github.com/grafana/intro-to-mltp) - Introduction to Metrics, Logs, Traces and Profiles session companion code.
 - [runtipi/runtipi-appstore](https://github.com/runtipi/runtipi-appstore) - Official Runtipi AppStore. Apps and updates live here!
@@ -585,7 +586,7 @@
 - [microsoft/PowerBI-Developer-Samples](https://github.com/microsoft/PowerBI-Developer-Samples) - A collection of Power BI samples for developer use.
 - [nalgeon/sqlime](https://github.com/nalgeon/sqlime) - Online SQLite playground
 - [go-skynet/LocalAI-frontend](https://github.com/go-skynet/LocalAI-frontend) - 
-- [debezium/debezium-examples](https://github.com/debezium/debezium-examples) - Examples for running Debezium (Configuration, Docker Compose files etc.)
+- [debezium/debezium-examples](https://github.com/debezium/debezium-examples) - Examples for running Debezium (Configuration, Docker Compose files etc.). Please log issues at https://github.com/debezium/dbz/issues.
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [mafintosh/csv-parser](https://github.com/mafintosh/csv-parser) - Streaming csv parser inspired by binary-csv that aims to be faster than everyone else
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
@@ -607,6 +608,7 @@
 
 ## Jupyter Notebook 
 
+- [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [microsoft/AzureDataRetrievalAugmentedGenerationSamples](https://github.com/microsoft/AzureDataRetrievalAugmentedGenerationSamples) - Samples to demonstrate pathways for Retrieval Augmented Generation (RAG) for Azure Data
 - [Azure/azure-search-vector-samples](https://github.com/Azure/azure-search-vector-samples) - A repository of code samples for Vector search capabilities in Azure AI Search.
 - [AnswerDotAI/nbdev](https://github.com/AnswerDotAI/nbdev) - Create delightful software with Jupyter Notebooks
@@ -699,6 +701,10 @@
 
 ## Nix 
 
+- [arnarg/nixtml](https://github.com/arnarg/nixtml) - Static website and blog generator written in nix
+- [Misterio77/nix-config](https://github.com/Misterio77/nix-config) - Personal nixos and home-manager configurations.
+- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
+- [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 
@@ -785,6 +791,8 @@
 
 ## Python 
 
+- [manzt/juv](https://github.com/manzt/juv) - Create, manage, and run Jupyter notebooks with their dependencies
+- [OKUA1/juvio](https://github.com/OKUA1/juvio) - UV kernel for Jupyter
 - [PostHog/posthog-foss](https://github.com/PostHog/posthog-foss) - PostHog FOSS is a read-only mirror of PostHog, with all proprietary code removed. NOTE: This repo is synced automatically from the main PostHog repo. Please raise any issues and PRs there.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
 - [afiodorov/hn-search](https://github.com/afiodorov/hn-search) - Vector search over Hacker News comments and RAG pipeline with a simple web ui
@@ -814,7 +822,7 @@
 - [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial
 - [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
 - [punk-security/dnsReaper](https://github.com/punk-security/dnsReaper) - dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team!
-- [google/adk-samples](https://github.com/google/adk-samples) - A collection of sample agents built with Agent Development (ADK)
+- [google/adk-samples](https://github.com/google/adk-samples) - A collection of sample agents built with Agent Development Kit (ADK)
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 - [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero) - Minimal reproduction of DeepSeek R1-Zero
 - [stephengpope/no-code-architects-toolkit](https://github.com/stephengpope/no-code-architects-toolkit) - The NCA Toolkit API eliminates monthly subscription fees by consolidating common API functionalities into a single FREE API. Designed for businesses, creators, and developers, it streamlines advanced 
@@ -891,7 +899,7 @@
 - [microsoft/cookiecutter-spacy-fastapi](https://github.com/microsoft/cookiecutter-spacy-fastapi) - Cookiecutter API for creating Custom Skills for Azure Search using Python and Docker
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [cruft/cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.
-- [llamastack/llama-stack](https://github.com/llamastack/llama-stack) - Composable building blocks to build Llama Apps
+- [llamastack/llama-stack](https://github.com/llamastack/llama-stack) - Composable building blocks to build LLM Apps
 - [Azure-Samples/azure-pipelines-variable-templates](https://github.com/Azure-Samples/azure-pipelines-variable-templates) - This sample Python Web app demonstrates the use of variable template files in Azure Pipelines.
 - [ArjanCodes/moneysnake](https://github.com/ArjanCodes/moneysnake) - Python SDK around the Moneybird accounting platform.
 - [LauJohansson/fabric-testing](https://github.com/LauJohansson/fabric-testing) - 
@@ -1100,6 +1108,7 @@
 
 ## Rust 
 
+- [skateco/skate](https://github.com/skateco/skate) - Low resource, no daemon, kubernetes manifest compatible container platform
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in WebAssembly runtime, realtime, auth, and admin UI built on Rust, SQLite & Wasmtime.
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
@@ -1133,6 +1142,7 @@
 
 ## Shell 
 
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
 - [schnatterer/devboxes](https://github.com/schnatterer/devboxes) - Ansible playbook to setup my development machines and helps to keep them in sync
 - [schnatterer/dotfiles](https://github.com/schnatterer/dotfiles) - @schnatterer's plain dotfiles. To be used with dotfiles-loader.
 - [tobilg/public-cloud-provider-ip-ranges](https://github.com/tobilg/public-cloud-provider-ip-ranges) - Unified datasets for public cloud provider IP ranges. Providers include AWS, Azure, CloudFlare, DigitalOcean, Fastly, Google Cloud and Oracle Cloud.
