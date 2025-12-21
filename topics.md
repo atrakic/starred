@@ -135,6 +135,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [material-design](#material-design)
+- [microservices](#microservices)
 - [microsoft](#microsoft)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
@@ -205,6 +206,7 @@
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [testing](#testing)
+- [tui](#tui)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [ui](#ui)
@@ -958,7 +960,7 @@
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
 - [Azure/AzOps-Accelerator](https://github.com/Azure/AzOps-Accelerator) - Integrated CI/CD Solution for Microsoft Azure
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute resource
 - [trstringer/manual-approval](https://github.com/trstringer/manual-approval) - Pause your GitHub Actions workflow and request manual approval from set approvers before continuing
 - [alexott/databricks-nutter-repos-demo](https://github.com/alexott/databricks-nutter-repos-demo) - Demo of using the Nutter for testing of Databricks notebooks in the CI/CD pipeline
 - [BretFisher/docker-build-workflow](https://github.com/BretFisher/docker-build-workflow) - A Reusable Workflow of the Docker GitHub Actions
@@ -1031,7 +1033,7 @@
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [Azure/aks-engine](https://github.com/Azure/aks-engine) - AKS Engine: legacy tool for Kubernetes on Azure (see status)
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute resource
 - [dockersamples/wordsmith](https://github.com/dockersamples/wordsmith) - Sample project with Docker containers running under Kubernetes
 - [dockersamples/example-voting-app](https://github.com/dockersamples/example-voting-app) - Example distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes
 - [BretFisher/docker-build-workflow](https://github.com/BretFisher/docker-build-workflow) - A Reusable Workflow of the Docker GitHub Actions
@@ -1303,7 +1305,7 @@
 - [gin-gonic/examples](https://github.com/gin-gonic/examples) - A repository to host examples and tutorials for Gin.
 - [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) - This is an ingress controller that can be run on Azure Kubernetes Service (AKS) to allow an Azure Application Gateway to act as the ingress for an AKS cluster.
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute resource
 - [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit and admin panel in Go
 - [lizrice/containers-from-scratch](https://github.com/lizrice/containers-from-scratch) - Writing a container in a few lines of Go code, as seen at DockerCon 2017 and on O'Reilly Safari
 
@@ -1360,7 +1362,7 @@
 - [XenitAB/azcagit](https://github.com/XenitAB/azcagit) - GitOps Engine for Azure Container Apps
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [Azure/aks-engine](https://github.com/Azure/aks-engine) - AKS Engine: legacy tool for Kubernetes on Azure (see status)
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute resource
 - [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit and admin panel in Go
 - [lizrice/containers-from-scratch](https://github.com/lizrice/containers-from-scratch) - Writing a container in a few lines of Go code, as seen at DockerCon 2017 and on O'Reilly Safari
 - [aws-containers/retail-store-sample-app](https://github.com/aws-containers/retail-store-sample-app) - 💼 Sample application for demonstrating container platforms and related technology
@@ -1712,7 +1714,7 @@
 - [fluxcd/flux2-kustomize-helm-example](https://github.com/fluxcd/flux2-kustomize-helm-example) - A GitOps workflow example for multi-env deployments with Flux, Kustomize and Helm.
 - [Azure/k8s-bake](https://github.com/Azure/k8s-bake) - GitHub Action creating Kubernetes manifest files with Helm, Kustomize, or Kompose
 - [Azure/aks-engine](https://github.com/Azure/aks-engine) - AKS Engine: legacy tool for Kubernetes on Azure (see status)
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute resource
 - [ContainerSolutions/kubernetes-examples](https://github.com/ContainerSolutions/kubernetes-examples) - Minimal self-contained examples of standard Kubernetes features and patterns in YAML
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes.
 - [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
@@ -1881,6 +1883,17 @@
 ## material-design 
 
 - [enkodellc/blazorboilerplate](https://github.com/enkodellc/blazorboilerplate) - Blazor Boilerplate / Starter Template with MudBlazor
+
+## microservices 
+
+- [EdwinVW/dapr-workshop](https://github.com/EdwinVW/dapr-workshop) - Workshop that teaches how to apply Dapr to an existing .NET, Java or Python based microservices application.
+- [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.
+- [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
+- [Azure-Samples/Serverless-microservices-reference-architecture](https://github.com/Azure-Samples/Serverless-microservices-reference-architecture) - This reference architecture walks you through the decision-making process involved in designing, developing, and delivering a serverless application using a microservices architecture through hands-on
+- [Azure-Samples/container-apps-store-api-microservice](https://github.com/Azure-Samples/container-apps-store-api-microservice) - Sample microservices solution using Azure Container Apps, Dapr, Cosmos DB, and Azure API Management
+- [ashleydavis/nodejs-microservices-example](https://github.com/ashleydavis/nodejs-microservices-example) - Example of a monorepo with multiple Node.js microservices (using Docker, Docker-Compose and Kubernetes) that have separate CI/CD pipelines.
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute resource
+- [Azure/aca-dotnet-workshop](https://github.com/Azure/aca-dotnet-workshop) - A Dotnet Azure Container Apps workshop showcasing how to accelerate developers' ability to develop and ship distributed applications.
 
 ## microsoft 
 
@@ -2061,6 +2074,9 @@
 
 ## others 
 
+- [frictionlessdata/datapackage-pipelines](https://github.com/frictionlessdata/datapackage-pipelines) - Framework for processing data packages in pipelines of modular components.
+- [datahq/dataflows](https://github.com/datahq/dataflows) - DataFlows is a simple, intuitive lightweight framework for building data processing flows in python.
+- [remotestorage/myfavoritedrinks](https://github.com/remotestorage/myfavoritedrinks) - Example of a simple remoteStorage-enabled app using a custom data module
 - [dave1010/tools](https://github.com/dave1010/tools) - Collection of tools
 - [simonw/tools](https://github.com/simonw/tools) - Assorted useful tools, almost entirely generated using LLMs
 - [Azure-Samples/azure-cli-samples](https://github.com/Azure-Samples/azure-cli-samples) - Contains Azure CLI scripts samples used for documentation at https://docs.microsoft.com
@@ -3161,6 +3177,10 @@
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the proces
 - [cypress-io/cypress-example-recipes](https://github.com/cypress-io/cypress-example-recipes) - Various recipes for testing common scenarios with Cypress
+
+## tui 
+
+- [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 
 ## typescript 
 
