@@ -281,7 +281,7 @@
 
 ## Crystal 
 
-- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
+- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create production-ready Kubernetes clusters on Hetzner Cloud
 
 ## Dockerfile 
 
@@ -381,6 +381,7 @@
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
@@ -1182,7 +1183,7 @@
 - [llimllib/gpt-bash-cli](https://github.com/llimllib/gpt-bash-cli) - A simple bash interface to openai's API that saves requests and responses to a sqlite database
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [buchdag/letsencrypt-nginx-proxy-companion-compose](https://github.com/buchdag/letsencrypt-nginx-proxy-companion-compose) - Example compose files for letsencrypt-nginx-proxy-companion
-- [controlplaneio-fluxcd/charts](https://github.com/controlplaneio-fluxcd/charts) - ControlPlane Enterprise for Flux CD Helm Charts
+- [controlplaneio-fluxcd/charts](https://github.com/controlplaneio-fluxcd/charts) - Flux Operator Helm Charts
 - [appleboy/scp-action](https://github.com/appleboy/scp-action) - GitHub Action that copy files and artifacts via SSH.
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
@@ -1190,7 +1191,6 @@
 - [grafana/docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm) - OpenTelemetry backend in a Docker image
 - [learnk8s/bash-ingress](https://github.com/learnk8s/bash-ingress) - 
 - [argo-universe/app-configs](https://github.com/argo-universe/app-configs) - This repo contains the configuration file for the microservices
-- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
 - [Azure/reddog-hybrid-arc](https://github.com/Azure/reddog-hybrid-arc) - Red Dog Hybrid/Arc Demo. Brought to you by the Cloud Native GBB Team!
 - [bitnami/containers](https://github.com/bitnami/containers) - Bitnami container images
 - [osixia/docker-openldap](https://github.com/osixia/docker-openldap) - OpenLDAP container image 🐳🌴
@@ -1290,7 +1290,6 @@
 - [opslane/opslane](https://github.com/opslane/opslane) - Run multiple Claude Code sessions in parallel
 - [Radiergummi/iss-metrics](https://github.com/Radiergummi/iss-metrics) - Observability stack for telemetry data of the International Space Station
 - [ownstats/ownstats](https://github.com/ownstats/ownstats) - Self-hosted web analytics on AWS
-- [porter-dev/porter-archive](https://github.com/porter-dev/porter-archive) - Kubernetes powered PaaS that runs in your own cloud.
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
