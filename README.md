@@ -88,7 +88,7 @@
 - [Azure-Samples/aks-managed-prometheus-and-grafana-bicep](https://github.com/Azure-Samples/aks-managed-prometheus-and-grafana-bicep) - This sample shows how to install an AKS cluster with Azure Managed Prometheus and Azure Managed Grafana via Bicep.
 - [nicolgit/hub-and-spoke-playground](https://github.com/nicolgit/hub-and-spoke-playground) - A collection of BICEP/ARM templates that deploys on Azure a hub & spoke net topology aligned with Microsoft Enterprise scale landing zone ref architecture to use as playground for test and study. As b
 - [mspnp/iaas-landing-zone-baseline](https://github.com/mspnp/iaas-landing-zone-baseline) - This is the IaaS baseline for Azure landing zones reference implementation as produced by the Azure Architecture Center.
-- [Azure/ALZ-Bicep](https://github.com/Azure/ALZ-Bicep) - This repository contains the Azure Landing Zones (ALZ) Bicep modules that help deliver and deploy the Azure Landing Zone conceptual architecture in a modular approach. https://aka.ms/alz/docs
+- [Azure/ALZ-Bicep](https://github.com/Azure/ALZ-Bicep) - This repository contains the Azure Landing Zones (ALZ) Bicep (Classic) modules that help deliver and deploy the Azure Landing Zone conceptual architecture in a modular approach. https://aka.ms/alz/doc
 - [Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
 - [Azure-Samples/dotNET-Frontend-AB-Testing-on-Azure-Container-Apps](https://github.com/Azure-Samples/dotNET-Frontend-AB-Testing-on-Azure-Container-Apps) - Demonstration of how ASP.NET Core developers can use Azure App Configuration's Feature Flags capabilities with Azure Container App revisions to A/B test front end apps.
 - [Azure-Samples/dotNET-FrontEnd-to-BackEnd-on-Azure-Container-Apps](https://github.com/Azure-Samples/dotNET-FrontEnd-to-BackEnd-on-Azure-Container-Apps) - This repository demonstrates a typical front-end UI built with ASP.NET and a complementary back-end API.
@@ -381,7 +381,7 @@
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
@@ -446,6 +446,7 @@
 - [gin-gonic/examples](https://github.com/gin-gonic/examples) - A repository to host examples and tutorials for Gin.
 - [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) - This is an ingress controller that can be run on Azure Kubernetes Service (AKS) to allow an Azure Application Gateway to act as the ingress for an AKS cluster.
 - [XenitAB/azcagit](https://github.com/XenitAB/azcagit) - GitOps Engine for Azure Container Apps
+- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [Azure/aks-engine](https://github.com/Azure/aks-engine) - AKS Engine: legacy tool for Kubernetes on Azure (see status)
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute resource
 - [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit and admin panel in Go
@@ -531,6 +532,7 @@
 - [a-nau/password-protected-website-template](https://github.com/a-nau/password-protected-website-template) - Template to create and host a simple password-protected website with Github Pages.
 - [databricks-demos/dbdemos](https://github.com/databricks-demos/dbdemos) - Demos to implement your Databricks Lakehouse
 - [bmtwl/exerciseminimilism](https://github.com/bmtwl/exerciseminimilism) - A small, single html file and browser local storage solution for tracking a fixed, rotating set of daily exercises from one week to the next
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [mathieu-benoit/mathieu-benoit.github.io](https://github.com/mathieu-benoit/mathieu-benoit.github.io) - The content of my blog hosted at: https://mathieu-benoit.github.io/
 - [allamand/ecs-cats-and-dogs](https://github.com/allamand/ecs-cats-and-dogs) - 
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
@@ -774,7 +776,6 @@
 - [snizza/externaldns](https://github.com/snizza/externaldns) - K8s externaldns setup with Route 53 in different AWS account.
 - [aws-controllers-k8s/community](https://github.com/aws-controllers-k8s/community) - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes.
 - [isovalent/cilium-grafana-observability-demo](https://github.com/isovalent/cilium-grafana-observability-demo) - 
 - [simonw/shot-scraper-template](https://github.com/simonw/shot-scraper-template) - Template repository for setting up shot-scraper
@@ -1129,6 +1130,7 @@
 
 ## Rust 
 
+- [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [skateco/skate](https://github.com/skateco/skate) - Low resource, no daemon, kubernetes manifest compatible container platform
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
@@ -1266,6 +1268,7 @@
 
 ## TypeScript 
 
+- [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
 - [langchain-ai/langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) - LangChain + Next.js starter template
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
@@ -1297,7 +1300,6 @@
 - [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 - [twinnydotdev/twinny](https://github.com/twinnydotdev/twinny) - The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but 100% free.
 - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [remotesynth/aws-for-frontend-devs](https://github.com/remotesynth/aws-for-frontend-devs) - A series of examples exploring the AWS primitives needed to deploy a web application to AWS.
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
