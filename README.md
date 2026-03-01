@@ -464,6 +464,7 @@
 
 ## Go Template 
 
+- [n8n-io/n8n-hosting](https://github.com/n8n-io/n8n-hosting) - Example of self-hosting n8n in various environments like docker, kubernetes, etc.
 - [controlplaneio-fluxcd/charts](https://github.com/controlplaneio-fluxcd/charts) - Flux Operator Helm Charts
 - [Obmondo/KubeAid](https://github.com/Obmondo/KubeAid) - KubeAid - Management Suite for Kubernetes using GitOps.
 
@@ -537,7 +538,7 @@
 - [a-nau/password-protected-website-template](https://github.com/a-nau/password-protected-website-template) - Template to create and host a simple password-protected website with Github Pages.
 - [databricks-demos/dbdemos](https://github.com/databricks-demos/dbdemos) - Demos to implement your Databricks Lakehouse
 - [bmtwl/exerciseminimilism](https://github.com/bmtwl/exerciseminimilism) - A small, single html file and browser local storage solution for tracking a fixed, rotating set of daily exercises from one week to the next
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [mathieu-benoit/mathieu-benoit.github.io](https://github.com/mathieu-benoit/mathieu-benoit.github.io) - The content of my blog hosted at: https://mathieu-benoit.github.io/
 - [allamand/ecs-cats-and-dogs](https://github.com/allamand/ecs-cats-and-dogs) - 
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
@@ -546,7 +547,6 @@
 - [microsoft/Security-101](https://github.com/microsoft/Security-101) - 8 Lessons, Kick-start Your Cybersecurity Learning.
 - [dotnet/blazor-samples](https://github.com/dotnet/blazor-samples) - 
 - [MicrosoftDocs/mslearn-tailspin-spacegame-web-deploy](https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web-deploy) - Code used in Microsoft Learn modules to support Azure DevOps
-- [davidgasquez/grants-data-portal](https://github.com/davidgasquez/grants-data-portal) - 🌲 Open source, serverless, and local-first Data Platform for Public Goods Grants Data.
 - [ILoveDotNet/ilovedotnet](https://github.com/ILoveDotNet/ilovedotnet) - I love to teach dotnet concepts in a simple way with real world examples to people who aspire to to be a dotnet developer. I also help developers to refresh their memory with easy to understand analog
 - [salaboy/platforms-on-k8s](https://github.com/salaboy/platforms-on-k8s) - Platform Engineering on Kubernetes :: Book Examples
 - [ArjanCodes/examples](https://github.com/ArjanCodes/examples) - All the code examples I use in my videos
@@ -661,6 +661,7 @@
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI coding assistant for JetBrains
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [cloudanum/50Algorithms](https://github.com/cloudanum/50Algorithms) - 
+- [davidgasquez/gitcoin-grants-data-portal](https://github.com/davidgasquez/gitcoin-grants-data-portal) - 🌲 Open source, serverless, and local-first Data Platform for Public Goods Grants Data.
 - [dotnet/beginner-series](https://github.com/dotnet/beginner-series) - .NET for beginner's videos, code, and links.
 - [codingforentrepreneurs/ai-travel-agent](https://github.com/codingforentrepreneurs/ai-travel-agent) - Learn to create an AI Travel Agent with FastAPI, Next.js, MariaDB, MindsDB, OpenAI, and more!
 - [wesm/pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
@@ -723,6 +724,7 @@
 
 ## Nix 
 
+- [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
 - [arnarg/nixtml](https://github.com/arnarg/nixtml) - Static website and blog generator written in nix
 - [Misterio77/nix-config](https://github.com/Misterio77/nix-config) - Personal nixos and home-manager configurations.
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
@@ -732,6 +734,7 @@
 
 ## Others 
 
+- [AKSHAY355-a/Jupyter-notebook-on-Android-TERMUX-](https://github.com/AKSHAY355-a/Jupyter-notebook-on-Android-TERMUX-) - "Step-by-step guide and ready-to-use setup for running Jupyter Notebook on Android via Termux. Includes solutions for common build errors, dependency fixes, and Rust integration."
 - [OWASP/DevGuide](https://github.com/OWASP/DevGuide) - The OWASP Developer Guide
 - [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 - [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
@@ -1069,7 +1072,7 @@
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
 - [AlexIoannides/pyspark-example-project](https://github.com/AlexIoannides/pyspark-example-project) - Implementing best practices for PySpark ETL jobs and applications.
 - [svanoort/pyresttest](https://github.com/svanoort/pyresttest) - Python Rest Testing
-- [collerek/ormar](https://github.com/collerek/ormar) - python async orm with fastapi in mind and pydantic validation
+- [ormar-orm/ormar](https://github.com/ormar-orm/ormar) - python async orm with fastapi in mind and pydantic validation
 - [testdrivenio/fastapi-docker-traefik](https://github.com/testdrivenio/fastapi-docker-traefik) - FastAPI with Docker and Traefik
 - [dbt-msft/dbt-sqlserver](https://github.com/dbt-msft/dbt-sqlserver) - dbt adapter for SQL Server and Azure SQL
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
@@ -1187,7 +1190,6 @@
 - [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
 - [vfarcic/crossplane-gh](https://github.com/vfarcic/crossplane-gh) - 
 - [microsoft/aitour-generative-ai-in-azure](https://github.com/microsoft/aitour-generative-ai-in-azure) - 
-- [n8n-io/n8n-hosting](https://github.com/n8n-io/n8n-hosting) - Example of self-hosting n8n in various environments like docker, kubernetes, etc.
 - [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
 - [ContainerSSH/examples](https://github.com/ContainerSSH/examples) - ContainerSSH examples
 - [cloud-native-skunkworks/gitops-kubernetes-bootstrap](https://github.com/cloud-native-skunkworks/gitops-kubernetes-bootstrap) - 
@@ -1282,7 +1284,7 @@
 - [PaddleHQ/paddle-nextjs-starter-kit](https://github.com/PaddleHQ/paddle-nextjs-starter-kit) - A complete starter kit that you can use to build and deploy a Next.js SaaS app powered by Paddle Billing.
 - [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
 - [langchain-ai/langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) - LangChain + Next.js starter template
-- [vercel/openchat](https://github.com/vercel/openchat) - A full-featured, hackable Next.js AI chatbot built by Vercel
+- [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [terminaldotshop/terminal](https://github.com/terminaldotshop/terminal) - 
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
@@ -1341,7 +1343,6 @@
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [JLCarveth/nutty](https://github.com/JLCarveth/nutty) - A very simple HTTP server, and a paste server implementation.
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
-- [pypi-data/website](https://github.com/pypi-data/website) - next.js website powering https://py-code.org/
 - [aws-containers/Airflow-on-Fargate](https://github.com/aws-containers/Airflow-on-Fargate) - 
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [tibdex/github-app-token](https://github.com/tibdex/github-app-token) - Impersonate a GitHub App in a GitHub Action
