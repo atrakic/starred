@@ -361,7 +361,7 @@
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [Azure/data-api-builder](https://github.com/Azure/data-api-builder) - Data API builder provides modern REST and GraphQL endpoints to your Azure Databases and on-prem stores.
+- [Azure/data-api-builder](https://github.com/Azure/data-api-builder) - Data API builder provides modern REST, GraphQL endpoints and MCP tools to your Azure Databases and on-prem stores.
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
@@ -513,7 +513,7 @@
 - [rcarmo/azure-k3s-cluster](https://github.com/rcarmo/azure-k3s-cluster) - An Azure template to deploy a lightweight Kubernetes cluster using k3s.io
 - [platformplatform/PlatformPlatform](https://github.com/platformplatform/PlatformPlatform) - A platform designed for building enterprise-grade, multi-tenant products using Azure, .NET, React, TypeScript, Infrastructure as Code, etc.
 - [paolosalvatori/aks-managed-prometheus-and-grafana-bicep](https://github.com/paolosalvatori/aks-managed-prometheus-and-grafana-bicep) - This sample shows how to install an AKS cluster with Azure Managed Prometheus and Azure Managed Grafana via Bicep.
-- [Azure/data-api-builder](https://github.com/Azure/data-api-builder) - Data API builder provides modern REST and GraphQL endpoints to your Azure Databases and on-prem stores.
+- [Azure/data-api-builder](https://github.com/Azure/data-api-builder) - Data API builder provides modern REST, GraphQL endpoints and MCP tools to your Azure Databases and on-prem stores.
 - [Azure-Samples/container-apps-azapi-terraform](https://github.com/Azure-Samples/container-apps-azapi-terraform) - This sample shows how to deploy a Dapr application to Azure Container Apps using Terraform with the AzAPI Provider.
 - [Azure-Samples/aks-managed-prometheus-and-grafana-bicep](https://github.com/Azure-Samples/aks-managed-prometheus-and-grafana-bicep) - This sample shows how to install an AKS cluster with Azure Managed Prometheus and Azure Managed Grafana via Bicep.
 - [nicolgit/hub-and-spoke-playground](https://github.com/nicolgit/hub-and-spoke-playground) - A collection of BICEP/ARM templates that deploys on Azure a hub & spoke net topology aligned with Microsoft Enterprise scale landing zone ref architecture to use as playground for test and study. As b
@@ -876,7 +876,7 @@
 - [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
 - [pronopython/rugivi](https://github.com/pronopython/rugivi) - The adult media landscape browser
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
-- [Azure/data-api-builder](https://github.com/Azure/data-api-builder) - Data API builder provides modern REST and GraphQL endpoints to your Azure Databases and on-prem stores.
+- [Azure/data-api-builder](https://github.com/Azure/data-api-builder) - Data API builder provides modern REST, GraphQL endpoints and MCP tools to your Azure Databases and on-prem stores.
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 
 ## deep-learning 
@@ -1105,6 +1105,7 @@
 - [dotnet/aspire](https://github.com/dotnet/aspire) - Aspire is the tool for code-first, extensible, observable dev and deploy.
 - [markjprice/cs12dotnet8](https://github.com/markjprice/cs12dotnet8) - Repository for the Packt Publishing book titled "C# 12 and .NET 8 - Modern Cross-Platform Development Fundamentals" by Mark J. Price
 - [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 10
+- [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for ASP.NET Core
 - [OpenCodeFoundation/eSchool](https://github.com/OpenCodeFoundation/eSchool) - eSchool Microservice based Solution
 - [dotnet/templating](https://github.com/dotnet/templating) - This repo contains the Template Engine which is used by dotnet new
 - [aspnetboilerplate/aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - ASP.NET Boilerplate - Web Application Framework
@@ -1410,7 +1411,7 @@
 - [s3rius/FastAPI-template](https://github.com/s3rius/FastAPI-template) - Feature rich robust FastAPI template.
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [OpenCodeFoundation/eSchool](https://github.com/OpenCodeFoundation/eSchool) - eSchool Microservice based Solution
-- [Azure/data-api-builder](https://github.com/Azure/data-api-builder) - Data API builder provides modern REST and GraphQL endpoints to your Azure Databases and on-prem stores.
+- [Azure/data-api-builder](https://github.com/Azure/data-api-builder) - Data API builder provides modern REST, GraphQL endpoints and MCP tools to your Azure Databases and on-prem stores.
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [Azure-Samples/data-api-builder](https://github.com/Azure-Samples/data-api-builder) - Various samples on how to use Data API builder for Azure Databases
 
@@ -1475,7 +1476,7 @@
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
-- [Azure/data-api-builder](https://github.com/Azure/data-api-builder) - Data API builder provides modern REST and GraphQL endpoints to your Azure Databases and on-prem stores.
+- [Azure/data-api-builder](https://github.com/Azure/data-api-builder) - Data API builder provides modern REST, GraphQL endpoints and MCP tools to your Azure Databases and on-prem stores.
 - [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs
 - [python-eel/Eel](https://github.com/python-eel/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
@@ -1925,6 +1926,7 @@
 - [erwinkramer/bank-api](https://github.com/erwinkramer/bank-api) - The Bank API is a design reference project suitable to bootstrap development for a compliant and modern API.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
+- [Azure/data-api-builder](https://github.com/Azure/data-api-builder) - Data API builder provides modern REST, GraphQL endpoints and MCP tools to your Azure Databases and on-prem stores.
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - Cluster-wide network observability for Kubernetes. Captures L4 packets, L7 API calls, and decrypted TLS traffic using eBPF, with full Kubernetes context. Available to AI agents via MCP and human opera
 
 ## microservices 
@@ -1945,7 +1947,7 @@
 - [Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) - This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versio
 - [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio) - Azure Data Studio is a data management and development tool with connectivity to popular cloud and on-premises databases. Azure Data Studio supports Windows, macOS, and Linux, with immediate capabilit
 - [dbt-msft/dbt-sqlserver](https://github.com/dbt-msft/dbt-sqlserver) - dbt adapter for SQL Server and Azure SQL
-- [Azure/data-api-builder](https://github.com/Azure/data-api-builder) - Data API builder provides modern REST and GraphQL endpoints to your Azure Databases and on-prem stores.
+- [Azure/data-api-builder](https://github.com/Azure/data-api-builder) - Data API builder provides modern REST, GraphQL endpoints and MCP tools to your Azure Databases and on-prem stores.
 - [Azure/reliable-web-app-pattern-java](https://github.com/Azure/reliable-web-app-pattern-java) - The reliable web app pattern is a set of objectives to help your web application converge on the cloud. This repo contains a reference implementation of a reliable web application for Java.
 - [mspnp/aks-baseline](https://github.com/mspnp/aks-baseline) - This is the Azure Kubernetes Service (AKS) Baseline Cluster reference implementation as produced by the Microsoft Azure Architecture Center.
 - [Azure/reliable-web-app-pattern-dotnet](https://github.com/Azure/reliable-web-app-pattern-dotnet) - The Reliable Web App Pattern is a set of objectives to help your web application converge on the cloud. This repo contains a reference implementation of a reliable web application for .NET.
@@ -2124,6 +2126,8 @@
 
 ## others 
 
+- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [matsonj/mviz](https://github.com/matsonj/mviz) - A chart & report builder designed for use by AI.
 - [matsonj/nba-monte-carlo](https://github.com/matsonj/nba-monte-carlo) - Monte Carlo simulation of the NBA season, leveraging dbt, duckdb and evidence.dev
 - [AKSHAY355-a/Jupyter-notebook-on-Android-TERMUX-](https://github.com/AKSHAY355-a/Jupyter-notebook-on-Android-TERMUX-) - "Step-by-step guide and ready-to-use setup for running Jupyter Notebook on Android via Termux. Includes solutions for common build errors, dependency fixes, and Rust integration."
