@@ -225,7 +225,6 @@
 - [dotnet/eShop](https://github.com/dotnet/eShop) - A reference .NET application implementing an eCommerce site
 - [Azure/reliable-web-app-pattern-dotnet-workshop](https://github.com/Azure/reliable-web-app-pattern-dotnet-workshop) - Start your application's cloud journey with this workshop. Learn about how the Reliable Web App Pattern will help prepare you and your application for success in moving to the cloud.
 - [OpenCodeFoundation/eSchool](https://github.com/OpenCodeFoundation/eSchool) - eSchool Microservice based Solution
-- [dotnet/templating](https://github.com/dotnet/templating) - This repo contains the Template Engine which is used by dotnet new
 - [mspnp/cloud-design-patterns](https://github.com/mspnp/cloud-design-patterns) - Sample implementations for cloud design patterns found in the Azure Architecture Center.
 - [MichalStrehovsky/zerosharp](https://github.com/MichalStrehovsky/zerosharp) - Demo of the potential of C# for systems programming with the .NET native ahead-of-time compilation technology.
 - [aspnetboilerplate/eventcloud](https://github.com/aspnetboilerplate/eventcloud) - Sample SaaS (Multi Tenant) Event Management Application
@@ -246,6 +245,7 @@
 - [App-vNext/Polly](https://github.com/App-vNext/Polly) - Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thr
 - [Xabaril/AspNetCore.Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks) - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
 - [dotnet/roslynator](https://github.com/dotnet/roslynator) - Roslynator is a set of code analysis tools for C#, powered by Roslyn.
+- [platformplatform/PlatformPlatform](https://github.com/platformplatform/PlatformPlatform) - A platform designed for building enterprise-grade, multi-tenant products using Azure, .NET, React, TypeScript, Infrastructure as Code, etc.
 - [stefanprodan/AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) - ASP.NET Core rate limiting middleware
 - [MoaidHathot/Dumpify](https://github.com/MoaidHathot/Dumpify) - Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's.
 - [Azure/data-api-builder](https://github.com/Azure/data-api-builder) - Data API builder provides modern REST, GraphQL endpoints and MCP tools to your Azure Databases and on-prem stores.
@@ -300,7 +300,7 @@
 
 ## Elixir 
 
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 
 ## F# # 
 
@@ -313,7 +313,7 @@
 - [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes
 - [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
 - [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
-- [utkuozdemir/pv-migrate](https://github.com/utkuozdemir/pv-migrate) - CLI tool to easily migrate Kubernetes persistent volumes
+- [utkuozdemir/pv-migrate](https://github.com/utkuozdemir/pv-migrate) - CLI tool to easily migrate or backup/restore Kubernetes persistent volumes
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [coder/agentapi](https://github.com/coder/agentapi) - HTTP API for Claude Code, Goose, Aider, Gemini, Amp, and Codex
@@ -564,7 +564,7 @@
 
 ## Java 
 
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for your Data and AI Stack
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Context Platform for your Data and AI Stack
 - [apache/iceberg](https://github.com/apache/iceberg) - Apache Iceberg
 - [Evidlo/sms_llm](https://github.com/Evidlo/sms_llm) - Connect Android SMS conversations to Ollama through MQTT
 - [apache/polaris](https://github.com/apache/polaris) - Apache Polaris, the interoperable, open source catalog for Apache Iceberg
@@ -670,7 +670,7 @@
 - [codingforentrepreneurs/ai-travel-agent](https://github.com/codingforentrepreneurs/ai-travel-agent) - Learn to create an AI Travel Agent with FastAPI, Next.js, MariaDB, MindsDB, OpenAI, and more!
 - [wesm/pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
 - [martinkarlssonio/azure-dataplatform](https://github.com/martinkarlssonio/azure-dataplatform) - 
-- [retkowsky/Azure-AIGEN-demos](https://github.com/retkowsky/Azure-AIGEN-demos) - Azure AI Foundry (demos, documentation, accelerators).
+- [retkowsky/Azure-AIGEN-demos](https://github.com/retkowsky/Azure-AIGEN-demos) - Microsoft Foundry (demos, documentation, accelerators).
 - [Azure-Samples/openai-dotnet-samples](https://github.com/Azure-Samples/openai-dotnet-samples) - Azure OpenAI .NET Samples
 - [MAIF/shapash](https://github.com/MAIF/shapash) - 🔅 Shapash: User-friendly Explainability and Interpretability to Develop Reliable and Transparent Machine Learning Models
 - [jrjohansson/scientific-python-lectures](https://github.com/jrjohansson/scientific-python-lectures) - Lectures on scientific computing with python, as IPython notebooks.
@@ -773,6 +773,7 @@
 - [Azure-Samples/ms-identity-aspnet-webapp-openidconnect](https://github.com/Azure-Samples/ms-identity-aspnet-webapp-openidconnect) - A sample showcasing how to develop a web application that handles sign on via the unified Azure AD and MSA endpoint, so that users can sign in using both their work/school account or Microsoft account
 - [Azure-Samples/active-directory-dotnet-iwa-v2](https://github.com/Azure-Samples/active-directory-dotnet-iwa-v2) - .NET console application letting a user acquire a token for the Microsoft Graph using Integrated Windows Authentication (on domain joined or AAD joined machines)
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
+- [dotnet/templating](https://github.com/dotnet/templating) - This repo contains the Template Engine which is used by dotnet new
 - [mattharrison/Tiny-Python-3.8-Notebook](https://github.com/mattharrison/Tiny-Python-3.8-Notebook) - Python 3.8 language and syntax
 - [dbt-labs/jaffle-shop-classic](https://github.com/dbt-labs/jaffle-shop-classic) - A self-contained dbt project for testing purposes
 - [Azure-Samples/azure-sql-db-samples](https://github.com/Azure-Samples/azure-sql-db-samples) - To gain access, please finish setting up this repository now at:
@@ -796,6 +797,7 @@
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes.
 - [isovalent/cilium-grafana-observability-demo](https://github.com/isovalent/cilium-grafana-observability-demo) - 
 - [simonw/shot-scraper-template](https://github.com/simonw/shot-scraper-template) - Template repository for setting up shot-scraper
+- [fluxcd/flux2-multi-tenancy](https://github.com/fluxcd/flux2-multi-tenancy) - Manage multi-tenant clusters with Flux
 - [datawithdanny/sql-masterclass](https://github.com/datawithdanny/sql-masterclass) - 
 - [la-cc/kubernetes-service-catalog](https://github.com/la-cc/kubernetes-service-catalog) - The kubernetes service catalog is a catalog that can be used to enable deployments via GitOps (Flux, ArgoCD).
 
@@ -823,6 +825,7 @@
 
 ## Python 
 
+- [cbmr-data/esrum-utils](https://github.com/cbmr-data/esrum-utils) - Command-line utilities for interacting with esrum; mainly intended for admin related tools
 - [osprey-oss/cookiecutter-uv](https://github.com/osprey-oss/cookiecutter-uv) - A modern cookiecutter template for Python projects that use uv for dependency management
 - [cwinvestments/memstack](https://github.com/cwinvestments/memstack) - Structured skill framework for Claude Code — 112 skills, auto-trigger commands, session memory, and project handoffs via markdown-based skills
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - The Context Optimization Layer for LLM Applications
@@ -1121,7 +1124,7 @@
 - [matiaslindgren/celery-kubernetes-example](https://github.com/matiaslindgren/celery-kubernetes-example) - Small Flask app with scalable, asynchronous backend workers deployed on Kubernetes.
 - [abigailhaddad/dcps_shiny](https://github.com/abigailhaddad/dcps_shiny) - 
 - [aws/aws-eks-best-practices](https://github.com/aws/aws-eks-best-practices) - A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization.
-- [hojat-gazestani/DevOps](https://github.com/hojat-gazestani/DevOps) - 
+- [hojat-gazestani/Notes](https://github.com/hojat-gazestani/Notes) - 
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [ArjanCodes/betterpython](https://github.com/ArjanCodes/betterpython) - Code examples for my Write Better Python Code series on YouTube.
 - [iximiuz/simple-event-loop](https://github.com/iximiuz/simple-event-loop) - Fully-functional Event Loop in 100 Lines of Python
@@ -1204,7 +1207,7 @@
 - [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management skill system for Agents that uses GitHub Issues and Git worktrees for parallel agent execution.
 - [tobyshooters/localhost](https://github.com/tobyshooters/localhost) - subdomain.localhost → localhost:port
 - [hckops/actions](https://github.com/hckops/actions) - GitOps actions
-- [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
+- [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - ACME client implemented as a simple shell-script – just add water
 - [vfarcic/crossplane-gh](https://github.com/vfarcic/crossplane-gh) - 
 - [microsoft/aitour-generative-ai-in-azure](https://github.com/microsoft/aitour-generative-ai-in-azure) - 
 - [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
@@ -1234,7 +1237,7 @@
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
-- [grafana/docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm) - OpenTelemetry backend in a Docker image
+- [grafana/docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm) - An OpenTelemetry backend in a Docker container image
 - [learnk8s/bash-ingress](https://github.com/learnk8s/bash-ingress) - 
 - [argo-universe/app-configs](https://github.com/argo-universe/app-configs) - This repo contains the configuration file for the microservices
 - [Azure/reddog-hybrid-arc](https://github.com/Azure/reddog-hybrid-arc) - Red Dog Hybrid/Arc Demo. Brought to you by the Cloud Native GBB Team!
@@ -1259,7 +1262,6 @@
 - [Azure/arc-cicd-demo-src](https://github.com/Azure/arc-cicd-demo-src) - Example source repo for the Azure Arc-enabled Kubernetes GitOps tutorial
 - [ContainerSolutions/kubernetes-examples](https://github.com/ContainerSolutions/kubernetes-examples) - Minimal self-contained examples of standard Kubernetes features and patterns in YAML
 - [todaywasawesome/oss-apps](https://github.com/todaywasawesome/oss-apps) - Example repo to show GitOps lifecycle from staging to production with canary and blue/green deployments.
-- [fluxcd/flux2-multi-tenancy](https://github.com/fluxcd/flux2-multi-tenancy) - Manage multi-tenant clusters with Flux
 - [github-developer/example-actions-eks-fargate](https://github.com/github-developer/example-actions-eks-fargate) - 
 - [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
 - [aws-samples/eks-gitops-crossplane-flux](https://github.com/aws-samples/eks-gitops-crossplane-flux) - 
@@ -1363,8 +1365,7 @@
 - [awslabs/cdk-eks-blueprints](https://github.com/awslabs/cdk-eks-blueprints) - AWS Quick Start Team
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio) - Azure Data Studio is a data management and development tool with connectivity to popular cloud and on-premises databases. Azure Data Studio supports Windows, macOS, and Linux, with immediate capabilit
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-- [platformplatform/PlatformPlatform](https://github.com/platformplatform/PlatformPlatform) - A platform designed for building enterprise-grade, multi-tenant products using Azure, .NET, React, TypeScript, Infrastructure as Code, etc.
+- [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [JLCarveth/nutty](https://github.com/JLCarveth/nutty) - A very simple HTTP server, and a paste server implementation.
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [aws-containers/Airflow-on-Fargate](https://github.com/aws-containers/Airflow-on-Fargate) - 
