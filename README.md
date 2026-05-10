@@ -19,7 +19,6 @@
 - [Clojure](#clojure)
 - [Crystal](#crystal)
 - [Dockerfile](#dockerfile)
-- [Elixir](#elixir)
 - [F#](#f#)
 - [Go](#go)
 - [Go Template](#go-template)
@@ -298,10 +297,6 @@
 - [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker) - Official container images for .NET
 - [BretFisher/docker-build-workflow](https://github.com/BretFisher/docker-build-workflow) - A Reusable Workflow of the Docker GitHub Actions
 
-## Elixir 
-
-- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
-
 ## F# # 
 
 - [falcoframework/Falco](https://github.com/falcoframework/Falco) - A functional-first toolkit for building brilliant ASP.NET Core applications using F#.
@@ -392,6 +387,7 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
+- [bruin-data/ingestr](https://github.com/bruin-data/ingestr) - ingestr is a CLI tool to copy data between any databases with a single command seamlessly.
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
@@ -451,6 +447,7 @@
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [prometheus/pushgateway](https://github.com/prometheus/pushgateway) - Push acceptor for ephemeral and batch jobs.
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [gin-gonic/examples](https://github.com/gin-gonic/examples) - A repository to host examples and tutorials for Gin.
 - [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) - This is an ingress controller that can be run on Azure Kubernetes Service (AKS) to allow an Azure Application Gateway to act as the ingress for an AKS cluster.
 - [XenitAB/azcagit](https://github.com/XenitAB/azcagit) - GitOps Engine for Azure Container Apps
@@ -564,7 +561,6 @@
 
 ## Java 
 
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Context Platform for your Data and AI Stack
 - [apache/iceberg](https://github.com/apache/iceberg) - Apache Iceberg
 - [Evidlo/sms_llm](https://github.com/Evidlo/sms_llm) - Connect Android SMS conversations to Ollama through MQTT
 - [apache/polaris](https://github.com/apache/polaris) - Apache Polaris, the interoperable, open source catalog for Apache Iceberg
@@ -790,7 +786,7 @@
 - [jbrownlee/Datasets](https://github.com/jbrownlee/Datasets) - Machine learning datasets used in tutorials on MachineLearningMastery.com
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 - [paolosalvatori/private-endpoints-topologies](https://github.com/paolosalvatori/private-endpoints-topologies) - The goal of this article is to define a solution for the management of Azure Private Endpoints and Private DNS Zones in a complex hub-and-spoke network topology.
-- [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
+- [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [snizza/externaldns](https://github.com/snizza/externaldns) - K8s externaldns setup with Route 53 in different AWS account.
 - [aws-controllers-k8s/community](https://github.com/aws-controllers-k8s/community) - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
@@ -830,7 +826,7 @@
 - [cwinvestments/memstack](https://github.com/cwinvestments/memstack) - Structured skill framework for Claude Code — 112 skills, auto-trigger commands, session memory, and project handoffs via markdown-based skills
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - The Context Optimization Layer for LLM Applications
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
-- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
+- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Python & TypeScript agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic 
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [motherduckdb/mcp-server-motherduck](https://github.com/motherduckdb/mcp-server-motherduck) - Local MCP server for DuckDB and MotherDuck
 - [matsonj/nba-monte-carlo](https://github.com/matsonj/nba-monte-carlo) - Monte Carlo simulation of the NBA season, leveraging dbt, duckdb and evidence.dev
@@ -838,7 +834,7 @@
 - [Health-RI/SeMPyRO](https://github.com/Health-RI/SeMPyRO) - Pydantic data models for DCAT-AP v3 and the Health-RI metadata model.
 - [robotframework/robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA
 - [Health-RI/metadata-automation](https://github.com/Health-RI/metadata-automation) - 
-- [huggingface/sentence-transformers](https://github.com/huggingface/sentence-transformers) - State-of-the-Art Text Embeddings
+- [huggingface/sentence-transformers](https://github.com/huggingface/sentence-transformers) - State-of-the-Art Embeddings, Retrieval, and Reranking
 - [astronomer/ask-astro](https://github.com/astronomer/ask-astro) - An end-to-end LLM reference implementation providing a Q&A interface for Airflow and Astronomer
 - [frictionlessdata/datapackage-pipelines](https://github.com/frictionlessdata/datapackage-pipelines) - Framework for processing data packages in pipelines of modular components.
 - [datahq/dataflows](https://github.com/datahq/dataflows) - DataFlows is a simple, intuitive lightweight framework for building data processing flows in python.
@@ -865,6 +861,7 @@
 - [ggozad/haiku.rag](https://github.com/ggozad/haiku.rag) - Opinionated agentic RAG powered by LanceDB, Pydantic AI, and Docling
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [fastai/nbdev-hello-world](https://github.com/fastai/nbdev-hello-world) - Hello world from nbdev
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Context Platform for your Data and AI Stack
 - [EdOverflow/can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz) - "Can I take over XYZ?" — a list of services and how to claim (sub)domains with dangling DNS records.
 - [Azure/Azure-Network-Security](https://github.com/Azure/Azure-Network-Security) - Resources for improving Customer Experience with Azure Network Security
 - [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
@@ -1022,7 +1019,7 @@
 - [koek67/resume-builder](https://github.com/koek67/resume-builder) - Create a clean, easy to read resume in pure Python.
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast a
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
@@ -1036,11 +1033,10 @@
 - [Zzdragon66/stock-streaming-project](https://github.com/Zzdragon66/stock-streaming-project) - 
 - [allenporter/flux-local](https://github.com/allenporter/flux-local) - flux-local is a set of tools and libraries for managing a local flux gitops repository focused on validation steps to help improve quality of commits, PRs, and general local testing.
 - [simonw/azure-functions-datasette](https://github.com/simonw/azure-functions-datasette) - Example of running Datasette on Azure Functions
-- [bruin-data/ingestr](https://github.com/bruin-data/ingestr) - ingestr is a CLI tool to copy data between any databases with a single command seamlessly.
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [zitadel/example-python-django-oauth](https://github.com/zitadel/example-python-django-oauth) - Example Python Django OAuth API
-- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
+- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated Nginx Reverse Proxy for Docker
 - [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
 - [alexmolas/microsearch](https://github.com/alexmolas/microsearch) - 
 - [granawkins/rawdog](https://github.com/granawkins/rawdog) - Generate and auto-execute Python scripts in the cli
@@ -1125,7 +1121,6 @@
 - [abigailhaddad/dcps_shiny](https://github.com/abigailhaddad/dcps_shiny) - 
 - [aws/aws-eks-best-practices](https://github.com/aws/aws-eks-best-practices) - A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization.
 - [hojat-gazestani/Notes](https://github.com/hojat-gazestani/Notes) - 
-- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [ArjanCodes/betterpython](https://github.com/ArjanCodes/betterpython) - Code examples for my Write Better Python Code series on YouTube.
 - [iximiuz/simple-event-loop](https://github.com/iximiuz/simple-event-loop) - Fully-functional Event Loop in 100 Lines of Python
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -1341,7 +1336,7 @@
 - [remotesynth/aws-for-frontend-devs](https://github.com/remotesynth/aws-for-frontend-devs) - A series of examples exploring the AWS primitives needed to deploy a web application to AWS.
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [stack-auth/stack-auth](https://github.com/stack-auth/stack-auth) - Open-source Auth0/Clerk alternative
+- [hexclave/stack-auth](https://github.com/hexclave/stack-auth) - Open-source Auth0/Clerk alternative
 - [opslane/opslane_old](https://github.com/opslane/opslane_old) - Run multiple Claude Code sessions in parallel
 - [Radiergummi/iss-metrics](https://github.com/Radiergummi/iss-metrics) - Observability stack for telemetry data of the International Space Station
 - [ownstats/ownstats](https://github.com/ownstats/ownstats) - Self-hosted web analytics on AWS
@@ -1353,6 +1348,7 @@
 - [peter-evans/slash-command-dispatch](https://github.com/peter-evans/slash-command-dispatch) - A GitHub action that facilitates "ChatOps" by creating repository dispatch events for slash commands
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
+- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 27 other languages
 - [viveknathani/teachyourselfmath](https://github.com/viveknathani/teachyourselfmath) - A platform to solve math problems, extracted from PDFs and books around the world.
