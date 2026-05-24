@@ -270,6 +270,7 @@
 
 ## CSS 
 
+- [AnswerDotAI/fasthtml-example](https://github.com/AnswerDotAI/fasthtml-example) - Example fasthtml applications demonstrating a range of web programming techniques
 - [jritsema/go-htmx-tailwind-example](https://github.com/jritsema/go-htmx-tailwind-example) - Example CRUD app written in Go + HTMX + Tailwind CSS
 - [patrickdappollonio/http-server](https://github.com/patrickdappollonio/http-server) - A small application with no dependencies to expose a local folder as an HTTP server. It includes a file explorer and a Markdown renderer.
 - [bradleytaunt/john-doe-jekyll](https://github.com/bradleytaunt/john-doe-jekyll) - The John Doe template converted into a Jekyll theme
@@ -517,7 +518,6 @@
 - [matt-FFFFFF/subvending](https://github.com/matt-FFFFFF/subvending) - 
 - [aws-observability/terraform-aws-observability-accelerator](https://github.com/aws-observability/terraform-aws-observability-accelerator) - Open source project to help accelerate and ease observability setup on AWS environments
 - [stroeer/terraform-aws-ecs-fargate](https://github.com/stroeer/terraform-aws-ecs-fargate) - Terraform module for ECS Fargate Services
-- [awslabs/data-on-eks](https://github.com/awslabs/data-on-eks) - DoEKS is a tool to build, deploy and scale Data Platforms on Amazon EKS
 - [aws-ia/terraform-aws-eks-blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints) - Configure and deploy complete EKS clusters.
 - [aws-samples/cicd-for-ecs-workshop-code](https://github.com/aws-samples/cicd-for-ecs-workshop-code) - 
 - [stacksimplify/azure-aks-kubernetes-masterclass](https://github.com/stacksimplify/azure-aks-kubernetes-masterclass) - Azure AKS Kubernetes Masterclass
@@ -627,6 +627,7 @@
 
 ## Jupyter Notebook 
 
+- [jupyterlite/xeus-lite-demo](https://github.com/jupyterlite/xeus-lite-demo) - JupyterLite template repository with xeus kernels and pre-installed packages
 - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [microsoft/AzureDataRetrievalAugmentedGenerationSamples](https://github.com/microsoft/AzureDataRetrievalAugmentedGenerationSamples) - Samples to demonstrate pathways for Retrieval Augmented Generation (RAG) for Azure Data
 - [Azure/azure-search-vector-samples](https://github.com/Azure/azure-search-vector-samples) - A repository of code samples for Vector search capabilities in Azure AI Search.
@@ -804,6 +805,7 @@
 
 ## PowerShell 
 
+- [Azure/Azure-Network-Security](https://github.com/Azure/Azure-Network-Security) - Resources for improving Customer Experience with Azure Network Security
 - [microsoft/Deploy-Your-AI-Application-In-Production](https://github.com/microsoft/Deploy-Your-AI-Application-In-Production) - A deployment of a secure, extensible and integrated environment for running AI Foundry workloads in Production. It simplifies the process of including essential Azure services necessary to run mission
 - [dotnet/machinelearning-samples](https://github.com/dotnet/machinelearning-samples) - Samples for ML.NET, an open source and cross-platform machine learning framework for .NET.
 - [Azure/Azure-Functions](https://github.com/Azure/Azure-Functions) - 
@@ -822,9 +824,10 @@
 
 ## Python 
 
+- [archestra-ai/reputation-bot](https://github.com/archestra-ai/reputation-bot) - 
 - [cbmr-data/esrum-utils](https://github.com/cbmr-data/esrum-utils) - Command-line utilities for interacting with esrum; mainly intended for admin related tools
 - [osprey-oss/cookiecutter-uv](https://github.com/osprey-oss/cookiecutter-uv) - A modern cookiecutter template for Python projects that use uv for dependency management
-- [cwinvestments/memstack](https://github.com/cwinvestments/memstack) - Structured skill framework for Claude Code — 127 skills, auto-trigger commands, session memory management, and project handoffs via markdown-based skills
+- [cwinvestments/memstack](https://github.com/cwinvestments/memstack) - Structured skill framework for Claude Code — 127 skills, localhost dashboard with 3-agent orchestration, real-time streaming, MCP tools management, session memory, and project handoffs via markdown-ba
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
 - [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - The batteries-included agent harness.
@@ -864,7 +867,6 @@
 - [fastai/nbdev-hello-world](https://github.com/fastai/nbdev-hello-world) - Hello world from nbdev
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Context Platform for your Data and AI Stack
 - [EdOverflow/can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz) - "Can I take over XYZ?" — a list of services and how to claim (sub)domains with dangling DNS records.
-- [Azure/Azure-Network-Security](https://github.com/Azure/Azure-Network-Security) - Resources for improving Customer Experience with Azure Network Security
 - [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
 - [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial
 - [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
@@ -1250,6 +1252,7 @@
 - [xxradar/app_routable_demo](https://github.com/xxradar/app_routable_demo) - 
 - [la-cc/helm-dependencies-update-helper-script-native](https://github.com/la-cc/helm-dependencies-update-helper-script-native) - 
 - [triat/terraform-security-scan](https://github.com/triat/terraform-security-scan) - Run a security scan on your terraform with the very nice https://github.com/aquasecurity/tfsec
+- [awslabs/data-on-eks](https://github.com/awslabs/data-on-eks) - DoEKS is a tool to build, deploy and scale Data Platforms on Amazon EKS
 - [mfamador/gitops-demo-multitenant](https://github.com/mfamador/gitops-demo-multitenant) - 
 - [aws/aws-app-mesh-examples](https://github.com/aws/aws-app-mesh-examples) - AWS App Mesh is a service mesh that you can use with your microservices to manage service to service communication.
 - [jessfraz/branch-cleanup-action](https://github.com/jessfraz/branch-cleanup-action) - A GitHub action to automatically delete the branch after a pull request has been merged.
@@ -1296,6 +1299,7 @@
 
 ## TypeScript 
 
+- [archestra-ai/archestra](https://github.com/archestra-ai/archestra) - Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator
 - [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
