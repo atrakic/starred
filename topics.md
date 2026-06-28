@@ -234,7 +234,7 @@
 ## agent 
 
 - [archestra-ai/archestra](https://github.com/archestra-ai/archestra) - Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator
-- [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
 - [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
@@ -269,7 +269,7 @@
 - [neondatabase/examples](https://github.com/neondatabase/examples) - Examples and code snippets demonstrating common ways of integrating Neon with various frameworks and languages.
 - [tastyeffectco/sandboxd](https://github.com/tastyeffectco/sandboxd) - Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories
 - [archestra-ai/archestra](https://github.com/archestra-ai/archestra) - Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator
-- [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - The batteries-included agent harness.
 - [motherduckdb/mcp-server-motherduck](https://github.com/motherduckdb/mcp-server-motherduck) - Local MCP server for DuckDB and MotherDuck
 - [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
@@ -302,7 +302,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [neuml/rag](https://github.com/neuml/rag) - 🚀 Retrieval Augmented Generation (RAG) with txtai. Combine search and LLMs to find insights with your own data.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [clemlesne/scrape-it-now](https://github.com/clemlesne/scrape-it-now) - Web scraper made for AI and simplicity in mind. It runs as a CLI that can be parallelized and outputs high-quality markdown content.
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
@@ -671,7 +671,7 @@
 
 ## claude-code 
 
-- [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management skill system for Agents that uses GitHub Issues and Git worktrees for parallel agent execution.
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 - [platformplatform/PlatformPlatform](https://github.com/platformplatform/PlatformPlatform) - A platform designed for building enterprise-grade, multi-tenant products using Azure, .NET, React, TypeScript, Infrastructure as Code, etc.
@@ -775,7 +775,7 @@
 
 ## cpp 
 
-- [timeplus-io/proton](https://github.com/timeplus-io/proton) - ⚡  Fastest SQL ETL pipeline in a single C++ binary,  built for stream processing, observability, analytics and AI/ML
+- [timeplus-io/proton](https://github.com/timeplus-io/proton) - The Fastest Unified Streaming SQL Engine in a Single C++ Binary.        ⚡ Millisecond latency. 100+ GB/s throughput. Continuously compute real-time context from streams, logs, metrics, events, and CDC
 - [Py-Contributors/AlgorithmsAndDataStructure](https://github.com/Py-Contributors/AlgorithmsAndDataStructure) - Algorithms And DataStructure Implemented In Python, Java & CPP, Give a Star 🌟If it helps you
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
@@ -1269,7 +1269,7 @@
 ## fastapi 
 
 - [neondatabase/examples](https://github.com/neondatabase/examples) - Examples and code snippets demonstrating common ways of integrating Neon with various frameworks and languages.
-- [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [langchain-ai/langchain-extract](https://github.com/langchain-ai/langchain-extract) - 🦜⛏️ Did you say you like data?
 - [Azure-Samples/rag-postgres-openai-python](https://github.com/Azure-Samples/rag-postgres-openai-python) - A RAG app to ask questions about rows in a database table. Deployable on Azure Container Apps with PostgreSQL Flexible Server.
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
@@ -1455,7 +1455,7 @@
 - [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 - [maddalax/htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go + htmx
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [appleboy/gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game engine for Go
@@ -1883,7 +1883,7 @@
 
 - [NVIDIA/GenerativeAIExamples](https://github.com/NVIDIA/GenerativeAIExamples) - Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.
 - [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads.
-- [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
 - [astronomer/ask-astro](https://github.com/astronomer/ask-astro) - An end-to-end LLM reference implementation providing a Q&A interface for Airflow and Astronomer
 - [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
@@ -1972,7 +1972,7 @@
 - [neuml/rag](https://github.com/neuml/rag) - 🚀 Retrieval Augmented Generation (RAG) with txtai. Combine search and LLMs to find insights with your own data.
 - [neuml/codequestion](https://github.com/neuml/codequestion) - 🔎 Semantic search for developers
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
@@ -2021,7 +2021,7 @@
 ## mcp 
 
 - [archestra-ai/archestra](https://github.com/archestra-ai/archestra) - Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator
-- [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [ggozad/haiku.rag](https://github.com/ggozad/haiku.rag) - Opinionated agentic RAG powered by LanceDB, Pydantic AI, and Docling
@@ -2205,7 +2205,7 @@
 
 - [neondatabase/examples](https://github.com/neondatabase/examples) - Examples and code snippets demonstrating common ways of integrating Neon with various frameworks and languages.
 - [archestra-ai/archestra](https://github.com/archestra-ai/archestra) - Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator
-- [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [ray-project/llm-applications](https://github.com/ray-project/llm-applications) - A comprehensive guide to building RAG-based LLM applications for production.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
@@ -2258,7 +2258,7 @@
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [santhoshtr/hm](https://github.com/santhoshtr/hm) - home-maker: A single Makefile that installs and upgrades every tool on your dev machine — CLI utilities, language toolchains, desktop apps — grouped by purpose, with a fuzzy-search frontend to run any
 - [jdcodes1/claude-sh](https://github.com/jdcodes1/claude-sh) - Claude Code rewritten as a bash script. ~1500 lines, zero npm packages. Just curl + jq.
-- [cwinvestments/memstack](https://github.com/cwinvestments/memstack) - Structured skill framework for Claude Code — 127 skills, localhost dashboard with 3-agent orchestration, real-time streaming, MCP tools management, session memory, and project handoffs via markdown-ba
+- [cwinvestments/memstack](https://github.com/cwinvestments/memstack) - Structured skill framework for Claude Code | 128 skills, localhost dashboard with 3-agent orchestration, real-time streaming, MCP tools management, session memory, and project handoffs via markdown-ba
 - [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) - One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.
 - [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
@@ -2407,7 +2407,6 @@
 - [jupyterhub/chartpress](https://github.com/jupyterhub/chartpress) - automate building and publishing images for helm charts
 - [jupyterhub/mybinder.org-deploy](https://github.com/jupyterhub/mybinder.org-deploy) - Deployment config files for mybinder.org
 - [cloud-native-skunkworks/raspbernetes](https://github.com/cloud-native-skunkworks/raspbernetes) - A raspberry pi cluster data sheet for parts
-- [get-glu/gitops-example](https://github.com/get-glu/gitops-example) - An example gitops pipeline held together with Glu
 - [mkdocs-material/create-blog](https://github.com/mkdocs-material/create-blog) - Create a blog
 - [callmesora/llmops-python-package](https://github.com/callmesora/llmops-python-package) - Kickstart your LLMOps initiative with a flexible, robust, and productive Python package.
 - [ogx-ai/ogx](https://github.com/ogx-ai/ogx) - Open GenAI Stack
@@ -2838,7 +2837,7 @@
 
 ## prompt-engineering 
 
-- [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
@@ -2853,7 +2852,7 @@
 - [microsoft/agent-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
 - [neondatabase/examples](https://github.com/neondatabase/examples) - Examples and code snippets demonstrating common ways of integrating Neon with various frameworks and languages.
 - [osprey-oss/cookiecutter-uv](https://github.com/osprey-oss/cookiecutter-uv) - A modern cookiecutter template for Python projects that use uv for dependency management
-- [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - The batteries-included agent harness.
 - [wasmerio/Python-Scripts](https://github.com/wasmerio/Python-Scripts) - A curated list of python scripts for automating your tasks
 - [robotframework/robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA
@@ -3025,7 +3024,7 @@
 ## rag 
 
 - [NVIDIA/GenerativeAIExamples](https://github.com/NVIDIA/GenerativeAIExamples) - Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.
-- [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
 - [ggozad/haiku.rag](https://github.com/ggozad/haiku.rag) - Opinionated agentic RAG powered by LanceDB, Pydantic AI, and Docling
 - [PacktPublishing/LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) - The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices
@@ -3111,6 +3110,7 @@
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [CommunityToolkit/Aspire](https://github.com/CommunityToolkit/Aspire) - A community project with additional components and extensions for Aspire
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [gsidhu/buzee-tauri](https://github.com/gsidhu/buzee-tauri) - A superfast full-text search application
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
@@ -3173,7 +3173,7 @@
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [hexclave/hexclave](https://github.com/hexclave/hexclave) - The user infrastructure platform. You choose the frontend, backend, and database. Hexclave handles everything else.
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
@@ -3242,7 +3242,7 @@
 
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
-- [timeplus-io/proton](https://github.com/timeplus-io/proton) - ⚡  Fastest SQL ETL pipeline in a single C++ binary,  built for stream processing, observability, analytics and AI/ML
+- [timeplus-io/proton](https://github.com/timeplus-io/proton) - The Fastest Unified Streaming SQL Engine in a Single C++ Binary.        ⚡ Millisecond latency. 100+ GB/s throughput. Continuously compute real-time context from streams, logs, metrics, events, and CDC
 - [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High Performance Data Processing in Python
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
@@ -3341,7 +3341,7 @@
 
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [mrdbourke/tensorflow-deep-learning](https://github.com/mrdbourke/tensorflow-deep-learning) - All course materials for the Zero to Mastery Deep Learning with TensorFlow course.
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [manuelgilm/data_science-portafolio](https://github.com/manuelgilm/data_science-portafolio) - 
@@ -3414,7 +3414,7 @@
 
 ## typescript 
 
-- [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - The batteries-included agent harness.
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
