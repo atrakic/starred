@@ -732,7 +732,7 @@
 
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
 - [arnarg/nixtml](https://github.com/arnarg/nixtml) - Static website and blog generator written in nix
-- [Misterio77/nix-config](https://github.com/Misterio77/nix-config) - Personal nixos and home-manager configurations.
+- [Misterio77/Foundry](https://github.com/Misterio77/Foundry) - Personal monorepo. NixOS+home-manager configs, website, and other projects.
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions
@@ -793,7 +793,6 @@
 - [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - [snizza/externaldns](https://github.com/snizza/externaldns) - K8s externaldns setup with Route 53 in different AWS account.
 - [aws-controllers-k8s/community](https://github.com/aws-controllers-k8s/community) - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes
-- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes.
 - [isovalent/cilium-grafana-observability-demo](https://github.com/isovalent/cilium-grafana-observability-demo) - 
 - [simonw/shot-scraper-template](https://github.com/simonw/shot-scraper-template) - Template repository for setting up shot-scraper
@@ -826,6 +825,7 @@
 
 ## Python 
 
+- [jupyterhub/the-littlest-jupyterhub](https://github.com/jupyterhub/the-littlest-jupyterhub) - Simple JupyterHub distribution for 1-100 users on a single server
 - [dlt-hub/dlt](https://github.com/dlt-hub/dlt) - data load tool (dlt) is an open source Python library that makes data loading easy 🛠️
 - [microsoft/agent-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
@@ -835,7 +835,7 @@
 - [cwinvestments/memstack](https://github.com/cwinvestments/memstack) - Structured skill framework for Claude Code | 128 skills, localhost dashboard with 3-agent orchestration, real-time streaming, MCP tools management, session memory, and project handoffs via markdown-ba
 - [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) - One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
-- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
+- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
 - [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - The batteries-included agent harness.
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [motherduckdb/mcp-server-motherduck](https://github.com/motherduckdb/mcp-server-motherduck) - Local MCP server for DuckDB and MotherDuck
@@ -1039,7 +1039,7 @@
 - [github-community-projects/issue-metrics](https://github.com/github-community-projects/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.
 - [Zzdragon66/university-reddit-data-dashboard](https://github.com/Zzdragon66/university-reddit-data-dashboard) - 
 - [Zzdragon66/stock-streaming-project](https://github.com/Zzdragon66/stock-streaming-project) - 
-- [allenporter/flux-local](https://github.com/allenporter/flux-local) - flux-local is a set of tools and libraries for managing a local flux gitops repository focused on validation steps to help improve quality of commits, PRs, and general local testing.
+- [allenporter/flux-local](https://github.com/allenporter/flux-local) - [DEPRECATED] A set of tools for managing a local flux gitops repository. This project is now archived. We recommend migrating to the modern, actively maintained Go-based replacements: flate (offline v
 - [simonw/azure-functions-datasette](https://github.com/simonw/azure-functions-datasette) - Example of running Datasette on Azure Functions
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
@@ -1075,7 +1075,7 @@
 - [py-pdf/pypdf](https://github.com/py-pdf/pypdf) - A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
-- [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
+- [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A CLI utility for taking screenshots of websites, recording video demos and scraping sites using JavaScript
 - [simonw/s3-credentials](https://github.com/simonw/s3-credentials) - A tool for creating credentials for accessing S3 buckets
 - [simonw/click-app](https://github.com/simonw/click-app) - Cookiecutter template for creating new Click command-line tools
 - [aishwaryaprabhat/BigBertha](https://github.com/aishwaryaprabhat/BigBertha) - BigBertha is an architecture design that demonstrates how automated LLMOps (Large Language Models Operations) can be achieved on any Kubernetes cluster using open source container-native technologies 
@@ -1128,6 +1128,7 @@
 - [abigailhaddad/dcps_shiny](https://github.com/abigailhaddad/dcps_shiny) - 
 - [aws/aws-eks-best-practices](https://github.com/aws/aws-eks-best-practices) - A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization.
 - [hojat-gazestani/Notes](https://github.com/hojat-gazestani/Notes) - 
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [ArjanCodes/betterpython](https://github.com/ArjanCodes/betterpython) - Code examples for my Write Better Python Code series on YouTube.
 - [iximiuz/simple-event-loop](https://github.com/iximiuz/simple-event-loop) - Fully-functional Event Loop in 100 Lines of Python
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
