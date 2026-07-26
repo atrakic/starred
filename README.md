@@ -304,6 +304,7 @@
 
 ## Go 
 
+- [housecat-inc/scratch](https://github.com/housecat-inc/scratch) - Setup for Agent Computers
 - [bensyverson/jobs](https://github.com/bensyverson/jobs) - An agent-first CLI-based hierarchical task manager backed by SQLite
 - [tastyeffectco/sandboxd](https://github.com/tastyeffectco/sandboxd) - Open-source, self-hosted AI app builder — an agent builds real apps in isolated sandboxes on your own server, each live at a preview URL. Self-host in one command. MIT.
 - [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes
@@ -460,7 +461,7 @@
 - [trstringer/manual-approval](https://github.com/trstringer/manual-approval) - Pause your GitHub Actions workflow and request manual approval from set approvers before continuing
 - [lizrice/containers-from-scratch](https://github.com/lizrice/containers-from-scratch) - Writing a container in a few lines of Go code, as seen at DockerCon 2017 and on O'Reilly Safari
 - [marcel-dempers/docker-development-youtube-series](https://github.com/marcel-dempers/docker-development-youtube-series) - 
-- [iximiuz/client-go-examples](https://github.com/iximiuz/client-go-examples) - Collection of mini-programs demonstrating Kubernetes client-go usage.
+- [iximiuz/client-go-examples](https://github.com/iximiuz/client-go-examples) - A collection of mini-programs demonstrating Kubernetes client-go usage.
 - [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
 - [XenitAB/gitops-promotion](https://github.com/XenitAB/gitops-promotion) - A tool to do automatic promotion with a GitOps workflow.
 
@@ -535,7 +536,6 @@
 - [dave1010/tools](https://github.com/dave1010/tools) - Collection of tools
 - [simonw/tools](https://github.com/simonw/tools) - Assorted useful tools, almost entirely generated using LLMs
 - [OWASP/Top10](https://github.com/OWASP/Top10) - Official OWASP Top 10 Document Repository
-- [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 - [a-nau/password-protected-website-template](https://github.com/a-nau/password-protected-website-template) - Template to create and host a simple password-protected website with Github Pages.
 - [databricks-demos/dbdemos](https://github.com/databricks-demos/dbdemos) - Demos to implement your Databricks Lakehouse
@@ -579,6 +579,7 @@
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [remotestorage/myfavoritedrinks](https://github.com/remotestorage/myfavoritedrinks) - Example of a simple remoteStorage-enabled app using a custom data module
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - 📦🚀 Fully automated version management and package publishing
+- [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 - [fly-apps/mcp-internal-dns](https://github.com/fly-apps/mcp-internal-dns) - MCP Server for querying Fly.io internal DNS records
 - [AzureCosmosDB/Azure-OpenAI-Node.js-Developer-Guide](https://github.com/AzureCosmosDB/Azure-OpenAI-Node.js-Developer-Guide) - Azure Cosmos DB + Azure OpenAI Node.js Developer Guide
 - [benc-uk/chatr](https://github.com/benc-uk/chatr) - Chat app using Azure Web PubSub, Static Web Apps and other Azure services
@@ -832,6 +833,7 @@
 
 ## Python 
 
+- [rogiia/basic-agent-harness](https://github.com/rogiia/basic-agent-harness) - Basic Agent Harness examples
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)
 - [jupyterhub/the-littlest-jupyterhub](https://github.com/jupyterhub/the-littlest-jupyterhub) - Simple JupyterHub distribution for 1-100 users on a single server
 - [dlt-hub/dlt](https://github.com/dlt-hub/dlt) - data load tool (dlt) is an open source Python library that makes data loading easy 🛠️
@@ -1068,7 +1070,6 @@
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [dagster-io/dagster-open-platform](https://github.com/dagster-io/dagster-open-platform) - Dagster Labs' open-source data platform, built with Dagster.
-- [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
 - [minimaxir/simpleaichat](https://github.com/minimaxir/simpleaichat) - Python package for easily interfacing with chat apps, with robust features and minimal code complexity.
 - [AZHenley/teenytinycompiler](https://github.com/AZHenley/teenytinycompiler) - A small BASIC-to-C compiler written in Python.
 - [pronopython/rugivi](https://github.com/pronopython/rugivi) - The adult media landscape browser
@@ -1317,6 +1318,7 @@
 
 ## TypeScript 
 
+- [dbos-inc/dbos-demo-apps](https://github.com/dbos-inc/dbos-demo-apps) - Demo applications for DBOS Transact
 - [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
@@ -1378,6 +1380,7 @@
 - [Azure-Samples/aks-store-demo](https://github.com/Azure-Samples/aks-store-demo) - Sample microservices app for AKS demos, tutorials, and experiments
 - [devcontainers/ci](https://github.com/devcontainers/ci) - A GitHub Action and Azure DevOps Task designed to simplify using Dev Containers (https://containers.dev) in CI/CD systems.
 - [microsoft/security-devops-azdevops](https://github.com/microsoft/security-devops-azdevops) - Microsoft Security DevOps extension for Azure DevOps.
+- [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
 - [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [McSick/llm-sofa-company](https://github.com/McSick/llm-sofa-company) - A simple app to utilize an LLM in a product search.
