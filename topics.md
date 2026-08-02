@@ -2301,14 +2301,14 @@
 - [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) - One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
 - [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material
-- [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
+- [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
 - [OHDSI/ETL-LambdaBuilder](https://github.com/OHDSI/ETL-LambdaBuilder) - CDM Builder leveraging AWS Lambda
 - [lerocha/chinook-database](https://github.com/lerocha/chinook-database) - Sample database for SQL Server, Oracle, MySQL, PostgreSQL, SQLite, DB2
 - [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [matsonj/mviz](https://github.com/matsonj/mviz) - A chart & report builder designed for use by AI.
 - [matsonj/nba-monte-carlo](https://github.com/matsonj/nba-monte-carlo) - Monte Carlo simulation of the NBA season, leveraging dbt, duckdb and evidence.dev
-- [AKSHAY355-a/Jupyter-notebook-on-Android-TERMUX-](https://github.com/AKSHAY355-a/Jupyter-notebook-on-Android-TERMUX-) - "Step-by-step guide and ready-to-use setup for running Jupyter Notebook on Android via Termux. Includes solutions for common build errors, dependency fixes, and Rust integration."
+- [akshay355a/Jupyter-notebook-on-Android-TERMUX-](https://github.com/akshay355a/Jupyter-notebook-on-Android-TERMUX-) - "Step-by-step guide and ready-to-use setup for running Jupyter Notebook on Android via Termux. Includes solutions for common build errors, dependency fixes, and Rust integration."
 - [Health-RI/SeMPyRO](https://github.com/Health-RI/SeMPyRO) - Pydantic data models for DCAT-AP v3 and the Health-RI metadata model.
 - [FAIRDataTeam/compose](https://github.com/FAIRDataTeam/compose) - A collection of Docker compose files for development and testing of FAIR Data Point, FAIR Data Train, etc.
 - [Health-RI/metadata-automation](https://github.com/Health-RI/metadata-automation) - 
