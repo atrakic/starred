@@ -290,7 +290,7 @@
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
 - [Pravko-Solutions/FlashLearn](https://github.com/Pravko-Solutions/FlashLearn) - Integrate LLM in any pipeline - fit/predict pattern, JSON driven flows, and built in concurency support.
-- [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High Performance Data Processing in Python
+- [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High Performance Scalable Data Processing in Python and SQL
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [sinanuozdemir/quick-start-guide-to-llms](https://github.com/sinanuozdemir/quick-start-guide-to-llms) - The Official Repo for "Quick Start Guide to Large Language Models"
@@ -420,7 +420,7 @@
 
 - [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
-- [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High Performance Data Processing in Python
+- [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High Performance Scalable Data Processing in Python and SQL
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [neuml/ragdata](https://github.com/neuml/ragdata) - 📚 Build knowledge bases for RAG
 - [twinnydotdev/twinny](https://github.com/twinnydotdev/twinny) - The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but 100% free.
@@ -821,7 +821,7 @@
 - [dotnet/docs](https://github.com/dotnet/docs) - This repository contains .NET Documentation.
 - [dotnet/machinelearning-samples](https://github.com/dotnet/machinelearning-samples) - Samples for ML.NET, an open source and cross-platform machine learning framework for .NET.
 - [pdevito3/craftsman](https://github.com/pdevito3/craftsman) - A .NET scaffolding tool to help you stop worrying about boilerplate and focus on your business logic 🚀
-- [gothinkster/aspnetcore-realworld-example-app](https://github.com/gothinkster/aspnetcore-realworld-example-app) - ASP.NET Core backend implementation for RealWorld
+- [realworld-apps/aspnetcore-realworld-example-app](https://github.com/realworld-apps/aspnetcore-realworld-example-app) - ASP.NET Core backend implementation for RealWorld
 - [iluvadev/PocketBaseClient](https://github.com/iluvadev/PocketBaseClient) - C# client to interact with a particular PocketBase application: an ORM mapped to your PocketBase server. [This project is in active development. The things described below could change]
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground.
@@ -831,6 +831,7 @@
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [waf/CSharpRepl](https://github.com/waf/CSharpRepl) - A command line C# REPL with syntax highlighting – explore the language, libraries and nuget packages interactively.
 - [RefactoringGuru/design-patterns-csharp](https://github.com/RefactoringGuru/design-patterns-csharp) - Design Pattern Examples in C#
+- [microsoft/aspire](https://github.com/microsoft/aspire) - Aspire is the tool for code-first, extensible, observable dev and deploy.
 - [OmniSharp/omnisharp-vim](https://github.com/OmniSharp/omnisharp-vim) - Vim omnicompletion (intellisense) and more for C#
 - [markjprice/cs12dotnet8](https://github.com/markjprice/cs12dotnet8) - Repository for the Packt Publishing book titled "C# 12 and .NET 8 - Modern Cross-Platform Development Fundamentals" by Mark J. Price
 - [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 10
@@ -904,7 +905,7 @@
 
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [dotnet/interactive](https://github.com/dotnet/interactive) - .NET Interactive combines the power of .NET with many other languages to create notebooks, REPLs, and embedded coding experiences. Share code, explore data, write, and learn across your apps in ways y
-- [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High Performance Data Processing in Python
+- [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High Performance Scalable Data Processing in Python and SQL
 - [drivendataorg/cookiecutter-data-science](https://github.com/drivendataorg/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 - [apache/hamilton](https://github.com/apache/hamilton) - Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
@@ -975,7 +976,7 @@
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
 - [pronopython/rugivi](https://github.com/pronopython/rugivi) - The adult media landscape browser
-- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
+- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - The most popular Kubernetes Operator for PostgreSQL.
 - [Azure/data-api-builder](https://github.com/Azure/data-api-builder) - Data API builder provides modern REST, GraphQL endpoints and MCP tools to your Azure Databases and on-prem stores.
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 
@@ -1067,7 +1068,7 @@
 - [cycloidio/terracognita](https://github.com/cycloidio/terracognita) - Reads from existing public and private cloud providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
-- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
+- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - The most popular Kubernetes Operator for PostgreSQL.
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
@@ -1218,7 +1219,6 @@
 - [json-api-dotnet/JsonApiDotNetCore](https://github.com/json-api-dotnet/JsonApiDotNetCore) - A framework for building JSON:API compliant REST APIs using ASP.NET and Entity Framework Core.
 - [karlospn/dotnet-strategy-pattern-using-dependency-injection](https://github.com/karlospn/dotnet-strategy-pattern-using-dependency-injection) - This repository contains an example that shows how easy is to build a Strategy pattern using dependency injection with .NET
 - [karlospn/opentelemetry-metrics-demo](https://github.com/karlospn/opentelemetry-metrics-demo) - Example about how to use OpenTelemetry metrics on a .NET app and how to visualize those metrics using Prometheus and Grafana.
-- [microsoft/aspire](https://github.com/microsoft/aspire) - Aspire is the tool for code-first, extensible, observable dev and deploy.
 - [markjprice/cs12dotnet8](https://github.com/markjprice/cs12dotnet8) - Repository for the Packt Publishing book titled "C# 12 and .NET 8 - Modern Cross-Platform Development Fundamentals" by Mark J. Price
 - [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 10
 - [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for ASP.NET Core
@@ -1487,6 +1487,7 @@
 - [vouch/vouch-proxy](https://github.com/vouch/vouch-proxy) - an SSO and OAuth / OIDC login solution for Nginx using the auth_request module
 - [allaboutapps/integresql](https://github.com/allaboutapps/integresql) - IntegreSQL manages isolated PostgreSQL databases for your integration tests.
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
+- [microsoft/aspire](https://github.com/microsoft/aspire) - Aspire is the tool for code-first, extensible, observable dev and deploy.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
@@ -1673,6 +1674,7 @@
 - [Py-Contributors/AlgorithmsAndDataStructure](https://github.com/Py-Contributors/AlgorithmsAndDataStructure) - Algorithms And DataStructure Implemented In Python, Java & CPP, Give a Star 🌟If it helps you
 - [EdwinVW/dapr-workshop](https://github.com/EdwinVW/dapr-workshop) - Workshop that teaches how to apply Dapr to an existing .NET, Java or Python based microservices application.
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
+- [microsoft/aspire](https://github.com/microsoft/aspire) - Aspire is the tool for code-first, extensible, observable dev and deploy.
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
@@ -1696,6 +1698,7 @@
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
+- [microsoft/aspire](https://github.com/microsoft/aspire) - Aspire is the tool for code-first, extensible, observable dev and deploy.
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [microsoft/aspire-samples](https://github.com/microsoft/aspire-samples) - Browse the sample apps demonstrating Aspire integration across C#, JavaScript, TypeScript, Python, Go, containers, databases, cloud, AI, and observability scenarios.
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
@@ -1790,7 +1793,6 @@
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.
-- [LukasKnuth/homeserver](https://github.com/LukasKnuth/homeserver) - The FULL configuration of my small RPi based server at home.
 - [mathieu-benoit/mathieu-benoit.github.io](https://github.com/mathieu-benoit/mathieu-benoit.github.io) - The content of my blog hosted at: https://mathieu-benoit.github.io/
 - [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
 - [nginx/nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
@@ -1817,7 +1819,7 @@
 - [ahmetb/kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - Example recipes for Kubernetes Network Policies that you can just copy paste
 - [stefanprodan/eks-hpa-profile](https://github.com/stefanprodan/eks-hpa-profile) - An eksctl gitops profile for autoscaling with Prometheus metrics on Amazon EKS on AWS Fargate
 - [paolosalvatori/aks-managed-prometheus-and-grafana-bicep](https://github.com/paolosalvatori/aks-managed-prometheus-and-grafana-bicep) - This sample shows how to install an AKS cluster with Azure Managed Prometheus and Azure Managed Grafana via Bicep.
-- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
+- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - The most popular Kubernetes Operator for PostgreSQL.
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [MathiasPius/kronform](https://github.com/MathiasPius/kronform) - Public configuration for Kubernetes cluster hosted with Hetzner.
 - [getanteon/alaz](https://github.com/getanteon/alaz) - Alaz: Advanced eBPF Agent for Kubernetes Observability – Effortlessly monitor K8s service interactions and performance metrics in your K8s environment. Gain in-depth insights with service maps, metric
@@ -1988,7 +1990,7 @@
 ## machine-learning 
 
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
-- [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High Performance Data Processing in Python
+- [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High Performance Scalable Data Processing in Python and SQL
 - [ray-project/llm-applications](https://github.com/ray-project/llm-applications) - A comprehensive guide to building RAG-based LLM applications for production.
 - [ray-project/kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
@@ -2187,7 +2189,6 @@
 
 ## node 
 
-- [viveknathani/teachyourselfmath](https://github.com/viveknathani/teachyourselfmath) - A platform to solve math problems, extracted from PDFs and books around the world.
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 
 ## nodejs 
@@ -2198,6 +2199,7 @@
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
+- [microsoft/aspire](https://github.com/microsoft/aspire) - Aspire is the tool for code-first, extensible, observable dev and deploy.
 - [microsoft/aspire-samples](https://github.com/microsoft/aspire-samples) - Browse the sample apps demonstrating Aspire integration across C#, JavaScript, TypeScript, Python, Go, containers, databases, cloud, AI, and observability scenarios.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
@@ -2208,7 +2210,7 @@
 
 - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
-- [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High Performance Data Processing in Python
+- [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High Performance Scalable Data Processing in Python and SQL
 - [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
 
 ## objective-c 
@@ -2293,7 +2295,7 @@
 - [AnswerDotAI/fasthtml-example](https://github.com/AnswerDotAI/fasthtml-example) - Example fasthtml applications demonstrating a range of web programming techniques
 - [cbmr-data/esrum-utils](https://github.com/cbmr-data/esrum-utils) - Command-line utilities for interacting with esrum; mainly intended for admin related tools
 - [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes
-- [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+- [multica-ai/multica](https://github.com/multica-ai/multica) - Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable.
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [santhoshtr/hm](https://github.com/santhoshtr/hm) - home-maker: A single Makefile that installs and upgrades every tool on your dev machine — CLI utilities, language toolchains, desktop apps — grouped by purpose, with a fuzzy-search frontend to run any
 - [jdcodes1/claude-sh](https://github.com/jdcodes1/claude-sh) - Claude Code rewritten as a bash script. ~1500 lines, zero npm packages. Just curl + jq.
@@ -2353,7 +2355,7 @@
 - [Azure-Samples/functions-quickstart-dotnet-azd-eventgrid-blob](https://github.com/Azure-Samples/functions-quickstart-dotnet-azd-eventgrid-blob) - This template repository contains a Blob trigger with the Event Grid source type reference sample for functions written in C# (isolated process mode) and deployed to Azure using the Azure Developer CL
 - [BogdanTheGeek/semihost-ip](https://github.com/BogdanTheGeek/semihost-ip) - Running TCP/IP over SWD lines
 - [AzureCosmosDB/Azure-OpenAI-Node.js-Developer-Guide](https://github.com/AzureCosmosDB/Azure-OpenAI-Node.js-Developer-Guide) - Azure Cosmos DB + Azure OpenAI Node.js Developer Guide
-- [harbor-framework/terminal-bench](https://github.com/harbor-framework/terminal-bench) - A benchmark for LLMs on complicated tasks in the terminal
+- [harbor-framework/terminal-bench-1](https://github.com/harbor-framework/terminal-bench-1) - A benchmark for LLMs on complicated tasks in the terminal
 - [phiresky/blog](https://github.com/phiresky/blog) - Source code of my personal blog
 - [lipanski/docker-static-website](https://github.com/lipanski/docker-static-website) - A very small Docker image (~80KB) to run any static website
 - [olahallengren/sql-server-maintenance-solution](https://github.com/olahallengren/sql-server-maintenance-solution) - SQL Server Maintenance Solution
@@ -2833,11 +2835,10 @@
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [sqlpage/SQLPage](https://github.com/sqlpage/SQLPage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
 - [bruin-data/ingestr](https://github.com/bruin-data/ingestr) - ingestr is a CLI tool to copy data between any databases with a single command seamlessly.
-- [viveknathani/teachyourselfmath](https://github.com/viveknathani/teachyourselfmath) - A platform to solve math problems, extracted from PDFs and books around the world.
 - [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
 - [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio) - Azure Data Studio is a data management and development tool with connectivity to popular cloud and on-premises databases. Azure Data Studio supports Windows, macOS, and Linux, with immediate capabilit
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
-- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
+- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - The most popular Kubernetes Operator for PostgreSQL.
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
@@ -2915,7 +2916,7 @@
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [ckan/ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.hu
 - [Pravko-Solutions/FlashLearn](https://github.com/Pravko-Solutions/FlashLearn) - Integrate LLM in any pipeline - fit/predict pattern, JSON driven flows, and built in concurency support.
-- [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High Performance Data Processing in Python
+- [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High Performance Scalable Data Processing in Python and SQL
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [twisted/twisted](https://github.com/twisted/twisted) - Event-driven networking engine written in Python.
 - [CommunityToolkit/Aspire](https://github.com/CommunityToolkit/Aspire) - A community project with additional components and extensions for Aspire
@@ -3093,7 +3094,6 @@
 ## raspberry-pi 
 
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
-- [LukasKnuth/homeserver](https://github.com/LukasKnuth/homeserver) - The FULL configuration of my small RPi based server at home.
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 
 ## react 
@@ -3174,7 +3174,7 @@
 ## scikit-learn 
 
 - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
-- [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High Performance Data Processing in Python
+- [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High Performance Scalable Data Processing in Python and SQL
 - [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
@@ -3288,7 +3288,7 @@
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [timeplus-io/proton](https://github.com/timeplus-io/proton) - The Fastest Unified Streaming SQL Engine in a Single C++ Binary.        ⚡ Millisecond latency. 100+ GB/s throughput. Continuously compute real-time context from streams, logs, metrics, events, and CDC
-- [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High Performance Data Processing in Python
+- [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo) - High Performance Scalable Data Processing in Python and SQL
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [bruin-data/bruin](https://github.com/bruin-data/bruin) - Build data pipelines with SQL and Python, ingest data from different sources, add quality checks, and build end-to-end flows.
@@ -3312,7 +3312,7 @@
 - [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
 - [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio) - Azure Data Studio is a data management and development tool with connectivity to popular cloud and on-premises databases. Azure Data Studio supports Windows, macOS, and Linux, with immediate capabilit
 - [dbt-msft/dbt-sqlserver](https://github.com/dbt-msft/dbt-sqlserver) - dbt adapter for SQL Server and Azure SQL
-- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
+- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - The most popular Kubernetes Operator for PostgreSQL.
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
@@ -3342,6 +3342,7 @@
 - [nalgeon/sqlime](https://github.com/nalgeon/sqlime) - Online SQLite playground
 - [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
+- [viveknathani/teachyourselfmath](https://github.com/viveknathani/teachyourselfmath) - A large collection of math problems generated from PDFs around the world, also a learning playground for new ideas.
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit and admin panel in Go
@@ -3415,7 +3416,6 @@
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 - [cloudposse/test-harness](https://github.com/cloudposse/test-harness) - 🧬 Collection of Makefiles and test scripts to facilitate testing Terraform modules, Kubernetes resources, Helm charts, and more
 - [cn-terraform/terraform-aws-ecs-fargate](https://github.com/cn-terraform/terraform-aws-ecs-fargate) - AWS ECS Fargate Terraform Module
-- [LukasKnuth/homeserver](https://github.com/LukasKnuth/homeserver) - The FULL configuration of my small RPi based server at home.
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 - [moritzzimmer/terraform-aws-lambda](https://github.com/moritzzimmer/terraform-aws-lambda) - A Terraform module to create AWS Lambda ressources.
 - [clowdhaus/terraform-aws-module-template](https://github.com/clowdhaus/terraform-aws-module-template) - Terraform module which creates &lt;TODO&gt; resources on AWS
