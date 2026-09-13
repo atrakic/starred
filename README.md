@@ -21,7 +21,6 @@
 - [F#](#f#)
 - [Go](#go)
 - [Go Template](#go-template)
-- [Groovy](#groovy)
 - [HCL](#hcl)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -473,10 +472,6 @@
 - [controlplaneio-fluxcd/charts](https://github.com/controlplaneio-fluxcd/charts) - Flux Operator Helm Charts
 - [Obmondo/KubeAid](https://github.com/Obmondo/KubeAid) - KubeAid - Management Suite for Kubernetes using GitOps.
 
-## Groovy 
-
-- [cloudogu/gitops-playground](https://github.com/cloudogu/gitops-playground) - Creates a complete GitOps-based operational stack / IDP on your Kubernetes clusters
-
 ## HCL 
 
 - [Azure/devops-governance](https://github.com/Azure/devops-governance) - Example end-to-end Governance Model from CI/CD to Azure Resource Manager. Use this project to deploy example AAD, ARM and Azure DevOps resources to learn about e2e RBAC.
@@ -507,6 +502,7 @@
 - [geekzter/azure-aks](https://github.com/geekzter/azure-aks) - Network Isolated AKS
 - [Azure/Mission-Critical-Online](https://github.com/Azure/Mission-Critical-Online) - This repository is part of the Azure Mission-Critical open source project that provides a prescriptive architectural approach to building highly-reliable cloud-native applications on Microsoft Azure f
 - [Azure/alz-terraform-accelerator](https://github.com/Azure/alz-terraform-accelerator) - Azure Landing Zones Terraform Accelerator
+- [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [aws-solutions-library-samples/eks-saas-gitops](https://github.com/aws-solutions-library-samples/eks-saas-gitops) - Source repo of Building SaaS applications on Amazon EKS using GitOps workshop
 - [aws-ia/terraform-aws-eks-data-addons](https://github.com/aws-ia/terraform-aws-eks-data-addons) - Terraform Module: Deploy Data/ML Addons Helm Charts on EKS 🚀
 - [aws-ia/terraform-aws-eks-blueprints-teams](https://github.com/aws-ia/terraform-aws-eks-blueprints-teams) - Configure and deploy Team based multi-tenant EKS clusters.
@@ -569,6 +565,7 @@
 - [cdk8s-team/cdk8s-examples](https://github.com/cdk8s-team/cdk8s-examples) - 
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
 - [dapr/quickstarts](https://github.com/dapr/quickstarts) - Dapr quickstart code samples and tutorials showcasing core Dapr capabilities
+- [cloudogu/gitops-playground](https://github.com/cloudogu/gitops-playground) - Creates a complete GitOps-based operational stack / IDP on your Kubernetes clusters
 - [dockersamples/wordsmith](https://github.com/dockersamples/wordsmith) - Sample project with Docker containers running under Kubernetes
 - [aws-containers/retail-store-sample-app](https://github.com/aws-containers/retail-store-sample-app) - 💼 Sample application for demonstrating container platforms and related technology
 
@@ -627,7 +624,7 @@
 ## Jsonnet 
 
 - [argoproj/argocd-example-apps](https://github.com/argoproj/argocd-example-apps) - Example Apps to Demonstrate Argo CD
-- [kubernetes-purgatory/kubernetes-mixin](https://github.com/kubernetes-purgatory/kubernetes-mixin) - A set of Grafana dashboards and Prometheus alerts for Kubernetes.
+- [kubernetes-sigs/kubernetes-mixin](https://github.com/kubernetes-sigs/kubernetes-mixin) - A set of Grafana dashboards and Prometheus alerts for Kubernetes.
 
 ## Jupyter Notebook 
 
@@ -669,7 +666,7 @@
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI coding assistant for JetBrains
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-- [cloudanum/50Algorithms](https://github.com/cloudanum/50Algorithms) - 
+- [cloudanum/50Algorithms](https://github.com/cloudanum/50Algorithms) - Code for 50 Algorithms Every Programmer Should Know, Second Edition (Packt) by Imran Ahmad
 - [dotnet/beginner-series](https://github.com/dotnet/beginner-series) - .NET for beginner's videos, code, and links.
 - [codingforentrepreneurs/ai-travel-agent](https://github.com/codingforentrepreneurs/ai-travel-agent) - Learn to create an AI Travel Agent with FastAPI, Next.js, MariaDB, MindsDB, OpenAI, and more!
 - [wesm/pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
@@ -837,6 +834,7 @@
 
 ## Python 
 
+- [sealandseacat/dbmask](https://github.com/sealandseacat/dbmask) - Discover, mask, and verify sensitive data in SQL databases — an auditable scan → mask → validate workflow for safe database copies.
 - [BruceEckel/ThinkingInPython](https://github.com/BruceEckel/ThinkingInPython) - Fluency, Types, and Design
 - [NVIDIA/skills](https://github.com/NVIDIA/skills) - Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.
 - [rogiia/basic-agent-harness](https://github.com/rogiia/basic-agent-harness) - Basic Agent Harness examples
@@ -883,7 +881,7 @@
 - [repomirrorhq/ai-sdk-python](https://github.com/repomirrorhq/ai-sdk-python) - 
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [harbor-framework/terminal-bench-1](https://github.com/harbor-framework/terminal-bench-1) - A benchmark for LLMs on complicated tasks in the terminal
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 - [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
 - [ggozad/haiku.rag](https://github.com/ggozad/haiku.rag) - Agentic RAG for local and self-hosted document search: hybrid retrieval, reranking and multimodal RAG on embedded LanceDB, with Docling parsing and an MCP server
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
@@ -1106,7 +1104,7 @@
 - [sp1thas/book-depository-dataset](https://github.com/sp1thas/book-depository-dataset) - A large collection of books, scraped from bookdepository.com
 - [mljar/mercury](https://github.com/mljar/mercury) - Impress your boss and turn a Jupyter notebook into a beautiful, shareable web app — no callbacks, no frontend, no rewrite.
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the document processing platform for AI
 - [AlexIoannides/pyspark-example-project](https://github.com/AlexIoannides/pyspark-example-project) - Implementing best practices for PySpark ETL jobs and applications.
 - [svanoort/pyresttest](https://github.com/svanoort/pyresttest) - Python Rest Testing
 - [ormar-orm/ormar](https://github.com/ormar-orm/ormar) - python async orm with fastapi in mind and pydantic validation
@@ -1199,7 +1197,7 @@
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [viveknathani/teachyourselfmath](https://github.com/viveknathani/teachyourselfmath) - A large collection of math problems generated from PDFs around the world, also a learning playground for new ideas.
-- [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
+- [dbt-labs/dbt](https://github.com/dbt-labs/dbt) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 
 ## SCSS 
@@ -1218,6 +1216,7 @@
 
 ## Shell 
 
+- [vbem/multi-runners](https://github.com/vbem/multi-runners) - Multi self-hosted runners on single host!
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [jdcodes1/claude-sh](https://github.com/jdcodes1/claude-sh) - Claude Code rewritten as a bash script. ~1500 lines, zero npm packages. Just curl + jq.
@@ -1352,7 +1351,7 @@
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
 - [langchain-ai/chat-langchain](https://github.com/langchain-ai/chat-langchain) - 
 - [qdrant/qdrant_demo](https://github.com/qdrant/qdrant_demo) - Demo of the neural semantic search built with Qdrant
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
@@ -1389,7 +1388,6 @@
 - [devcontainers/ci](https://github.com/devcontainers/ci) - A GitHub Action and Azure DevOps Task designed to simplify using Dev Containers (https://containers.dev) in CI/CD systems.
 - [microsoft/security-devops-azdevops](https://github.com/microsoft/security-devops-azdevops) - Microsoft Security DevOps extension for Azure DevOps.
 - [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
-- [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [McSick/llm-sofa-company](https://github.com/McSick/llm-sofa-company) - A simple app to utilize an LLM in a product search.
 - [awslabs/cdk-eks-blueprints](https://github.com/awslabs/cdk-eks-blueprints) - AWS Quick Start Team
