@@ -647,7 +647,7 @@
 
 ## bootstrap 
 
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
 
 ## bugbounty 
 
@@ -845,6 +845,7 @@
 ## csharp 
 
 - [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking
+- [DotNetAnalyzers/StyleCopAnalyzers](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) - An implementation of StyleCop rules using the .NET Compiler Platform
 - [Azure-Samples/cosmos-db-design-patterns](https://github.com/Azure-Samples/cosmos-db-design-patterns) - A collection of design pattern samples for building applications and services with Azure Cosmos DB for NoSQL.
 - [modelcontextprotocol/csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk) - The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration with Microsoft.
 - [dotnet/interactive](https://github.com/dotnet/interactive) - .NET Interactive combines the power of .NET with many other languages to create notebooks, REPLs, and embedded coding experiences. Share code, explore data, write, and learn across your apps in ways y
@@ -880,7 +881,7 @@
 ## css 
 
 - [bradleytaunt/john-doe-jekyll](https://github.com/bradleytaunt/john-doe-jekyll) - The John Doe template converted into a Jekyll theme
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
 
 ## cybersecurity 
 
@@ -989,6 +990,7 @@
 
 ## database 
 
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [sealandseacat/dbmask](https://github.com/sealandseacat/dbmask) - Discover, mask, and verify sensitive data in SQL databases — an auditable scan → mask → validate workflow for safe database copies.
 - [neondatabase/examples](https://github.com/neondatabase/examples) - Examples and code snippets demonstrating common ways of integrating Neon with various frameworks and languages.
 - [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
@@ -1680,14 +1682,14 @@
 - [html-preview/html-preview.github.io](https://github.com/html-preview/html-preview.github.io) - HTML Preview for git-forge Repositories
 - [QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF) - QuestPDF is a modern library for PDF document generation. Its fluent C# API lets you design complex layouts with clean, readable code. Create documents using a flexible, component-based approach.
 - [bradleytaunt/john-doe-jekyll](https://github.com/bradleytaunt/john-doe-jekyll) - The John Doe template converted into a Jekyll theme
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
 - [Kalabasa/htmz](https://github.com/Kalabasa/htmz) - html with targeted manipulation zones
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 
 ## html5 
 
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
 
 ## http 
 
@@ -1766,7 +1768,7 @@
 ## jekyll 
 
 - [bradleytaunt/john-doe-jekyll](https://github.com/bradleytaunt/john-doe-jekyll) - The John Doe template converted into a Jekyll theme
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
 
 ## jenkins 
 
@@ -2342,6 +2344,8 @@
 
 ## others 
 
+- [danroth27/AgenticUI](https://github.com/danroth27/AgenticUI) - 
+- [early-signal-tech/duckdb-agent-loop-poc](https://github.com/early-signal-tech/duckdb-agent-loop-poc) - My PoC Agent Loop for DuckDB
 - [i-am-bee/agentstack](https://github.com/i-am-bee/agentstack) - Deploy, and share agents with open infrastructure, free from vendor lock-in.
 - [MarinaWyss/ShelfScanner](https://github.com/MarinaWyss/ShelfScanner) - 
 - [willaaam/gemma-4-E2B-webgpu-vision](https://github.com/willaaam/gemma-4-E2B-webgpu-vision) - (Probably) The fastest browser based Gemma 4 E2B implementation with vision support. Comes with a workstation to interact with the model. Use AI fully air-gapped and offline, you just need a browser.
@@ -2384,7 +2388,6 @@
 - [huggingface/sentence-transformers](https://github.com/huggingface/sentence-transformers) - State-of-the-Art Embeddings, Retrieval, and Reranking
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [dotnetrdf/dotnetrdf](https://github.com/dotnetrdf/dotnetrdf) - dotNetRDF is a powerful and flexible API for working with RDF and SPARQL in .NET environments
-- [DotNetAnalyzers/StyleCopAnalyzers](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) - An implementation of StyleCop rules using the .NET Compiler Platform
 - [frictionlessdata/datapackage-pipelines](https://github.com/frictionlessdata/datapackage-pipelines) - Framework for processing data packages in pipelines of modular components.
 - [datahq/dataflows](https://github.com/datahq/dataflows) - DataFlows is a simple, intuitive lightweight framework for building data processing flows in python.
 - [remotestorage/myfavoritedrinks](https://github.com/remotestorage/myfavoritedrinks) - Example of a simple remoteStorage-enabled app using a custom data module
@@ -2691,7 +2694,6 @@
 - [Azure/alz-terraform-accelerator](https://github.com/Azure/alz-terraform-accelerator) - Azure Landing Zones Terraform Accelerator
 - [datasette/datasette-build](https://github.com/datasette/datasette-build) - Build a directory full of files into a SQLite database
 - [mattharrison/Tiny-Python-3.8-Notebook](https://github.com/mattharrison/Tiny-Python-3.8-Notebook) - Python 3.8 language and syntax
-- [MicrosoftDocs/mslearn-tailspin-spacegame-web-deploy](https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web-deploy) - Code used in Microsoft Learn modules to support Azure DevOps
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [microsoft/security-devops-azdevops](https://github.com/microsoft/security-devops-azdevops) - Microsoft Security DevOps extension for Azure DevOps.
@@ -2885,6 +2887,7 @@
 
 ## postgresql 
 
+- [seanwevans/pg_shell](https://github.com/seanwevans/pg_shell) - Stateless, auditable, and replayable command shell built entirely on PostgreSQL and htmx. It replaces persistent shell processes with database-backed terminal sessions, where every command, output, an
 - [dbos-inc/dbos-demo-apps](https://github.com/dbos-inc/dbos-demo-apps) - Demo applications for DBOS Transact
 - [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
@@ -2960,6 +2963,7 @@
 
 ## python 
 
+- [Azure-Samples/Azure-Language-OpenAI-Conversational-Agent-Accelerator](https://github.com/Azure-Samples/Azure-Language-OpenAI-Conversational-Agent-Accelerator) - A solution accelerator project harnessing the capabilities of Azure AI Language to augment an existing Azure OpenAI RAG chat app. Utilize Conversational Language Understanding (CLU) and Custom Questio
 - [sealandseacat/dbmask](https://github.com/sealandseacat/dbmask) - Discover, mask, and verify sensitive data in SQL databases — an auditable scan → mask → validate workflow for safe database copies.
 - [microsoft/unified-data-foundation-with-fabric-solution-accelerator](https://github.com/microsoft/unified-data-foundation-with-fabric-solution-accelerator) - Unified Data Foundation with Microsoft Fabric with Options to Integrate with Azure Databricks and Microsoft Purview
 - [dbos-inc/dbos-demo-apps](https://github.com/dbos-inc/dbos-demo-apps) - Demo applications for DBOS Transact
@@ -3175,6 +3179,7 @@
 
 ## react 
 
+- [Azure-Samples/Azure-Language-OpenAI-Conversational-Agent-Accelerator](https://github.com/Azure-Samples/Azure-Language-OpenAI-Conversational-Agent-Accelerator) - A solution accelerator project harnessing the capabilities of Azure AI Language to augment an existing Azure OpenAI RAG chat app. Utilize Conversational Language Understanding (CLU) and Custom Questio
 - [neondatabase/examples](https://github.com/neondatabase/examples) - Examples and code snippets demonstrating common ways of integrating Neon with various frameworks and languages.
 - [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
@@ -3246,7 +3251,7 @@
 
 ## sass 
 
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
 
 ## scala 
 
@@ -3287,7 +3292,7 @@
 
 ## self-hosted 
 
-- [moooff/HermitUI](https://github.com/moooff/HermitUI) - Run local LLMs entirely in your browser, with no server, no install and no traces. A private, single-file AI chat UI that also works with any OpenAI-compatible API.
+- [moooff/HermitUI](https://github.com/moooff/HermitUI) - Run local LLMs entirely in your browser, with no server, no install and no traces. A private, single-file AI chat UI and AGENT that also works with any OpenAI-compatible API.
 - [vbem/multi-runners](https://github.com/vbem/multi-runners) - Multi self-hosted runners on single host!
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)
@@ -3353,6 +3358,7 @@
 
 ## shell 
 
+- [seanwevans/pg_shell](https://github.com/seanwevans/pg_shell) - Stateless, auditable, and replayable command shell built entirely on PostgreSQL and htmx. It replaces persistent shell processes with database-backed terminal sessions, where every command, output, an
 - [pellepelster/solidblocks](https://github.com/pellepelster/solidblocks) - Solidblocks is a library of reusable components for infrastructure operation, automation and developer experience
 - [schnatterer/dotfiles](https://github.com/schnatterer/dotfiles) - @schnatterer's plain dotfiles. To be used with dotfiles-loader.
 - [jstrieb/just.sh](https://github.com/jstrieb/just.sh) - Compile Justfiles to portable shell scripts
